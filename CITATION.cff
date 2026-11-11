@@ -18,7 +18,7 @@ identifiers:
     value: "10.5281/zenodo.24142210"
     description: "DOI da versão v1.0.1 (2026-11-11): correções do painel (nuvens sobre a baía), contraste e página do artigo."
 license: MIT
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-11-11"
 url: "https://damnielps.github.io/zonas-verdes-maputo/"
 repository-code: "https://github.com/Damnielps/zonas-verdes-maputo"

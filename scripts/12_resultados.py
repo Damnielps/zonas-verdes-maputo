@@ -259,8 +259,8 @@ def envelopes_comparacao():
     """Três estimativas da fração construída por perímetro (classificação bruta, pós-processada, GHSL) e faixa min–max."""
     e = pd.read_csv(AREAS / "envelopes_comparacao.csv")
     out = {"nota": ("Três estimativas da parcela construída: classificação bruta (Random Forest por época), classificação pós-processada "
-                    "(janela de três épocas, monotonia do construído, suavização 2↔5) e GHSL GHS-BUILT-S R2023A (fração de superfície edificada, "
-                    "independente deste estudo). O GHSL mede superfície de edifícios, não a mancha urbana, e por isso tende a ser o mais baixo. "
+                    "(janela de três épocas, monotonia do construído, suavização 2↔5) e GHSL GHS-BUILT-S R2023A (fração de superfície edificada). "
+                    "As três não são independentes: bruta e pós-processada vêm do mesmo modelo, e o GHSL orientou os rótulos de treino. O GHSL R2023A observa só 1975, 1990, 2000, 2014 e 2018 e interpola ou extrapola as demais épocas (GHSL Data Package 2023, p. 6). O GHSL mede superfície de edifícios, não a mancha urbana, e por isso tende a ser o mais baixo. "
                     "A faixa é o mínimo e o máximo das três; as três são estimativas, nenhuma é a verdade. O salto 2005–2007 aparece nas classificações "
                     "e não aparece no GHSL, logo é artefato das composições. GHSL só existe em anos múltiplos de 5 (épocas intermediárias usam o ano GHSL anterior ou posterior mais próximo, ver ghsl_epoca)."),
            "perimetros": {}}
@@ -766,6 +766,7 @@ def main():
         "1985 usa a cena de 1984-06-01; 2010 usa a cena de 2011-04-09 (abril); 2026 é a mediana de cenas de maio a agosto de 2026.",
         "A classe 3 (sequeiro e mosaico) é indicativa: é a de maior confusão com herbácea e construído disperso.",
         "Hortas pequenas são subpíxel a 30 m; as áreas são estimativas do mapa, não áreas ajustadas por amostra probabilística.",
+        "As três estimativas da parcela construída não são independentes (o GHSL orientou os rótulos de treino), e o GHSL interpola entre 1975, 1990, 2000, 2014 e 2018: compare períodos, não épocas isoladas (correção da versão 1.0.2).",
     ]
 
     acum = [x for x in R["conversao"]["acumulada"] if x["t0"] == 1985 and x["t1"] == 2026][0]

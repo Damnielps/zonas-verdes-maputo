@@ -119,6 +119,25 @@ def main():
         for c, n in (("ha_bruto", "bruto"), ("ha_final", "final"), ("ha_ghsl", "ghsl")):
             v[f"taxa_{k}_85_10_{n}"] = br((cmp_.loc[(p, 2010), c] - cmp_.loc[(p, 1985), c]) / 25, 1)
             v[f"taxa_{k}_10_25_{n}"] = br((cmp_.loc[(p, 2025), c] - cmp_.loc[(p, 2010), c]) / 15, 1)
+    # v1.0.2 (auditoria do projeto da Beira): o GHSL R2023A interpola entre as épocas observadas 1975, 1990, 2000,
+    # 2014 e 2018 (EC 2024, p. 6) e extrapola depois de 2018; e o GHSL orientou os rótulos de treino (05_rotulos.py),
+    # logo as três estimativas não são independentes. Comparar médias de dois períodos, sem datar acelerações.
+    INI, FIM = (1985, 1990, 1995, 1997), (2017, 2020, 2025)
+    def _media(p, anos, c):
+        return sum(cmp_.loc[(p, a), c] for a in anos) / len(anos)
+    for k, p in PC.items():
+        ini = [_media(p, INI, c) for c in ("pct_bruto", "pct_final", "pct_ghsl")]
+        fim = [_media(p, FIM, c) for c in ("pct_bruto", "pct_final", "pct_ghsl")]
+        fat = [b / a for a, b in zip(ini, fim)]
+        v[f"p_{k}_ini_min"], v[f"p_{k}_ini_max"] = br(min(ini), 1), br(max(ini), 1)
+        v[f"p_{k}_fim_min"], v[f"p_{k}_fim_max"] = br(min(fim), 1), br(max(fim), 1)
+        v[f"p_{k}_fator_min"], v[f"p_{k}_fator_max"] = br(min(fat), 1), br(max(fat), 1)
+        if k in ("baix", "peumm", "perm", "cid"):
+            assert min(fat) > 1.2, f"ASSERÇÃO FALHOU: {k} fator período <= 1,2 ({fat}); o texto afirma aumento"
+    # o texto já não afirma 'mais que dobrou' nem aceleração: conferir que o fator mínimo das baixadas fica abaixo de 2
+    v["p_baix_dobrou_todas"] = "sim" if min(_media(PC["baix"], FIM, c) / _media(PC["baix"], INI, c)
+                                              for c in ("pct_bruto", "pct_final", "pct_ghsl")) >= 2 else "não"
+
     # Tabela 1 revista: intervalo das três estimativas
     epocas = [1985, 1990, 2000, 2010, 2020, 2025]
     nomes2 = {"perm": "Zonas verdes permanentes (plano de 1985)", "prov": "Zonas verdes provisórias (plano de 1985)",

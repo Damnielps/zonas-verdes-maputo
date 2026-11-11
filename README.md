@@ -14,12 +14,12 @@ Artigo científico e site interativo sobre a evolução da cintura agrícola per
 
 ## Principais resultados
 
-Números lidos de `artigo/valores.json`.
+Números lidos de `artigo/valores.json`. Faixa entre três estimativas (GHSL, classificação bruta e pós-processada), que não são independentes entre si: bruta e pós-processada vêm do mesmo modelo, e o GHSL orientou os rótulos de treino. Médias de dois períodos, 1985–1997 e 2017–2025 (versão 1.0.2; ver "Versões").
 
-- A fração construída dentro das zonas verdes permanentes do plano de 1985 passou de 4,6% (1985) para 39,2% (2026).
-- Na área agropecuária do PEUMM 2008, a fração construída foi de 2,0% (1985) para 7,5% (2010) e 16,0% (2026).
-- Nas baixadas definidas por relevo, a fração construída subiu de 3,5% (1985) para 14,9% (2026), com aceleração depois de 2010 (7,7% em 2010).
-- A área construída da cidade (parte continental) passou de 6.239 ha em 1985 para 12.479 ha em 2026.
+- Zonas verdes permanentes do plano de 1985: fração construída média de 4,1–10,0% para 16,8–36,2%.
+- Área agropecuária do PEUMM 2008: de 3,5–4,5% para 7,4–14,2%.
+- Baixadas definidas por relevo: de 4,2–5,3% para 7,1–12,4% (fator de 1,7 a 2,5). Os dados não permitem datar uma aceleração.
+- Área construída da cidade (parte continental), 1985–2025: crescimento de 37% (GHSL) a 100% (pós-processada).
 - Validação cega (2020, n = 280): o construído é bem mapeado (exatidão do usuário 0,88), mas a agricultura de baixada não (exatidão do usuário 0,33), o que levou à mudança da métrica central (ver "Métodos").
 
 ## Métodos em uma página
@@ -62,6 +62,12 @@ A ser feito pelo autor, depois de conferir `docs/PENDENCIAS.md` e `CREDITOS.md`:
 1. Criar o repositório remoto no GitHub, definir o nome e fazer o push.
 2. Em Settings > Pages, escolher "GitHub Actions" e rodar o workflow "Publicar" (Actions > Publicar > Run workflow). O gatilho é apenas `workflow_dispatch`; antes de publicar, o job `verificar` roda `scripts/checar_publicacao.py` (caminhos locais, sourcemaps, arquivos grandes, cores hexadecimais no CSS, créditos de imagens).
 3. Para o DOI, ativar a integração GitHub–Zenodo no repositório e criar uma release; o Zenodo lê `.zenodo.json` e `CITATION.cff`. Depois de cunhado, adicionar o DOI a `CITATION.cff` e a este README.
+
+## Versões
+
+- **1.0.2** (2026-11-11): correção metodológica motivada pela auditoria do projeto irmão da Beira. (i) As três estimativas da parcela construída deixam de ser apresentadas como independentes: o GHSL orientou os rótulos de treino. (ii) O GHSL R2023A observa só 1975, 1990, 2000, 2014 e 2018 e interpola ou extrapola as demais épocas (GHSL Data Package 2023, p. 6); por isso foi retirada a afirmação de que a ocupação das baixadas acelerou depois de 2010 nas três estimativas, e as mudanças passam a ser resumidas por médias de 1985–1997 e 2017–2025. (iii) O resumo deixa de dizer que a fração construída das baixadas "mais que dobrou" (o fator vai de 1,7 a 2,5 conforme a estimativa). Os mapas, as áreas e a validação não mudaram.
+- **1.0.1**: correções do painel (nuvens sobre a baía), contraste e página do artigo.
+- **1.0.0**: primeira versão.
 
 ## Como citar
 
