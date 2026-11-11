@@ -11,7 +11,11 @@ for s in scripts/0[0-6]_*.py scripts/06b_consistencia.py scripts/07_areas_transi
 done
 echo "=== scripts/11_avaliacao_exatidao.py --sem-baixa"
 .venv/bin/python -I scripts/11_avaliacao_exatidao.py --sem-baixa
+echo "=== scripts/20_valores_artigo.py (antes do 12: o 12 confere os KPIs contra artigo/valores.json)"
+.venv/bin/python -I scripts/20_valores_artigo.py
 echo "=== scripts/12_resultados.py"
 .venv/bin/python -I scripts/12_resultados.py
 # 05_rotulos.py, 06_classificar.py, 07_areas_transicoes.py e 08_qa_classificacao.py rodam pelo laco acima
 # (glob scripts/[0-9][0-9]_*.py, ordem numerica); nao repetir aqui para nao executar duas vezes.
+echo "=== scripts/21_artigo.py"
+.venv/bin/python -I scripts/21_artigo.py --tolerar

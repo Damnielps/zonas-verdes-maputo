@@ -556,8 +556,18 @@ def _tr_ll():
     return Transformer.from_crs("EPSG:3857", "EPSG:4326", always_xy=True)
 
 
-def para_3857(arr, src_transform, src_crs, resampling, dtype, fill=0):
-    """arr (H,W) ou (B,H,W) -> (B,H',W') em EPSG:3857 + cantos lon/lat [[NW],[NE],[SE],[SW]]."""
+def _ver(p):
+    """Marcador de versão pelo conteúdo, para o navegador não reaproveitar imagem antiga do cache."""
+    import hashlib
+    return hashlib.md5(Path(p).read_bytes()).hexdigest()[:8]
+
+
+def para_3857(arr, src_transform, src_crs, resampling, dtype, fill=0, src_nodata=None):
+    """arr (H,W) ou (B,H,W) -> (B,H',W') em EPSG:3857 + cantos lon/lat [[NW],[NE],[SE],[SW]].
+
+    Mapas categóricos devem passar src_nodata com um valor AUSENTE do mapa (ex.: 255): com src_nodata=None
+    o GDAL tratava 0 como sem-dado e preenchia esses píxeis com a classe vizinha (bug corrigido em 11/11/2026:
+    buracos de nuvem apareciam como construído no painel)."""
     if arr.ndim == 2:
         arr = arr[None]
     b, h, w = arr.shape
@@ -569,7 +579,9 @@ def para_3857(arr, src_transform, src_crs, resampling, dtype, fill=0):
     out = np.full((b, dh, dw), fill, dtype=dtype)
     for i in range(b):
         reproject(arr[i], out[i], src_transform=src_transform, src_crs=src_crs, dst_transform=dtr, dst_crs="EPSG:3857",
-                  resampling=resampling, src_nodata=None, dst_nodata=fill)
+                  resampling=resampling, src_nodata=src_nodata, dst_nodata=(fill if src_nodata is None else src_nodata))
+        if src_nodata is not None:
+            out[i][out[i] == src_nodata] = fill
     x0, y1 = dtr.c, dtr.f
     x1, y0 = x0 + dw * dtr.a, y1 + dh * dtr.e
     t = _tr_ll()
@@ -616,18 +628,18 @@ def rasters_painel():
             rgb[i][~ok] = med[i]
         a = (ok * 255).astype("uint8")
         rgb3, cantos = para_3857(rgb, TRANSFORM, CRS, Resampling.bilinear, "uint8")
-        al, _ = para_3857(a, TRANSFORM, CRS, Resampling.nearest, "uint8")
+        al, _ = para_3857(a, TRANSFORM, CRS, Resampling.nearest, "uint8", src_nodata=1)
         rgba = np.concatenate([rgb3, al], 0)
         p = SPAINEL / f"img_{ep}.webp"
         tot += salva_webp(rgba, p, lossless=False, q=80)
-        info["imagem"][str(ep)] = dict(arquivo=f"img/painel/{p.name}", coordenadas=cantos,
+        info["imagem"][str(ep)] = dict(arquivo=f"img/painel/{p.name}?v={_ver(p)}", coordenadas=cantos,
                                        composicao="falsa-cor NIR-vermelho-verde" if ep == 1979 else "cor verdadeira (vermelho, verde, azul)",
                                        estiramento="percentis 2-98% por canal")
         if ep == 1979:
             continue
         cl = rasterio.open(CLS / f"{ep}.tif").read(1)
         agr = np.array([0, 1, 2, 3, 4, 4, 5, 6], dtype="uint8")[cl]  # índice 1..6 em AGR_COD
-        idx, cantos = para_3857(agr, TRANSFORM, CRS, Resampling.nearest, "uint8")
+        idx, cantos = para_3857(agr, TRANSFORM, CRS, Resampling.nearest, "uint8", src_nodata=255)
         rgba = np.zeros((4,) + idx.shape[1:], "uint8")
         for i, k in enumerate(AGR_COD, 1):
             m = idx[0] == i
@@ -636,10 +648,10 @@ def rasters_painel():
             rgba[3][m] = 255
         p = SPAINEL / f"cls_{ep}.webp"
         tot += salva_webp(rgba, p, lossless=True)
-        info["classes"][str(ep)] = dict(arquivo=f"img/painel/{p.name}", coordenadas=cantos)
+        info["classes"][str(ep)] = dict(arquivo=f"img/painel/{p.name}?v={_ver(p)}", coordenadas=cantos)
     # conversão
     cv = rasterio.open(CLS / "conversao_agri_construido.tif").read(1)
-    idx, cantos = para_3857(cv, TRANSFORM, CRS, Resampling.nearest, "uint16")
+    idx, cantos = para_3857(cv, TRANSFORM, CRS, Resampling.nearest, "uint16", src_nodata=65535)
     anos = [e for e in EP_ANALISE if e != 1985]
     from matplotlib.colors import LinearSegmentedColormap
     cm = LinearSegmentedColormap.from_list("seq", P.VIZ_SEQUENTIAL[1:])
@@ -652,7 +664,7 @@ def rasters_painel():
         rgba[3][m] = 255
     p = SPAINEL / "conversao.webp"
     tot += salva_webp(rgba, p, lossless=True)
-    info["conversao"] = dict(arquivo=f"img/painel/{p.name}", coordenadas=cantos, anos=anos,
+    info["conversao"] = dict(arquivo=f"img/painel/{p.name}?v={_ver(p)}", coordenadas=cantos, anos=anos,
                              cores_hex={str(a): "#%02X%02X%02X" % c for a, c in cores.items()})
     # planos
     for nome, arq in (("plano_1985", "plano_1985_mapa7.tif"), ("peumm_2008", "peumm_2008_ordenamento.tif")):
@@ -662,7 +674,7 @@ def rasters_painel():
         out, cantos = para_3857(a, tr, CRS, Resampling.bilinear, "uint8")
         p = SPAINEL / f"{nome}.webp"
         tot += salva_webp(out, p, lossless=False, q=80)
-        info["planos"][nome] = dict(arquivo=f"img/painel/{p.name}", coordenadas=cantos)
+        info["planos"][nome] = dict(arquivo=f"img/painel/{p.name}?v={_ver(p)}", coordenadas=cantos)
     info["tamanho_total_bytes"] = int(tot)
     json.dump(info, open(SPAINEL / "painel.json", "w"), indent=1, ensure_ascii=False)
     return info

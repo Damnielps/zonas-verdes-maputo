@@ -1,7 +1,7 @@
 {
  "imagem": {
   "1979": {
-   "arquivo": "img/painel/img_1979.webp",
+   "arquivo": "img/painel/img_1979.webp?v=b8dec39b",
    "coordenadas": [
     [
      32.397963,
@@ -24,7 +24,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "1985": {
-   "arquivo": "img/painel/img_1985.webp",
+   "arquivo": "img/painel/img_1985.webp?v=5d99cd12",
    "coordenadas": [
     [
      32.397963,
@@ -47,7 +47,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "1990": {
-   "arquivo": "img/painel/img_1990.webp",
+   "arquivo": "img/painel/img_1990.webp?v=2ccbd2a5",
    "coordenadas": [
     [
      32.397963,
@@ -70,7 +70,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "1995": {
-   "arquivo": "img/painel/img_1995.webp",
+   "arquivo": "img/painel/img_1995.webp?v=4a3f42e8",
    "coordenadas": [
     [
      32.397963,
@@ -93,7 +93,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "1997": {
-   "arquivo": "img/painel/img_1997.webp",
+   "arquivo": "img/painel/img_1997.webp?v=e46dfeb6",
    "coordenadas": [
     [
      32.397963,
@@ -116,7 +116,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2000": {
-   "arquivo": "img/painel/img_2000.webp",
+   "arquivo": "img/painel/img_2000.webp?v=53e3537d",
    "coordenadas": [
     [
      32.397963,
@@ -139,7 +139,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2005": {
-   "arquivo": "img/painel/img_2005.webp",
+   "arquivo": "img/painel/img_2005.webp?v=bdaf7943",
    "coordenadas": [
     [
      32.397963,
@@ -162,7 +162,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2007": {
-   "arquivo": "img/painel/img_2007.webp",
+   "arquivo": "img/painel/img_2007.webp?v=ffe186b4",
    "coordenadas": [
     [
      32.397963,
@@ -185,7 +185,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2010": {
-   "arquivo": "img/painel/img_2010.webp",
+   "arquivo": "img/painel/img_2010.webp?v=871ebcf8",
    "coordenadas": [
     [
      32.397963,
@@ -208,7 +208,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2015": {
-   "arquivo": "img/painel/img_2015.webp",
+   "arquivo": "img/painel/img_2015.webp?v=0b504b62",
    "coordenadas": [
     [
      32.397963,
@@ -231,7 +231,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2017": {
-   "arquivo": "img/painel/img_2017.webp",
+   "arquivo": "img/painel/img_2017.webp?v=d75af890",
    "coordenadas": [
     [
      32.397963,
@@ -254,7 +254,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2020": {
-   "arquivo": "img/painel/img_2020.webp",
+   "arquivo": "img/painel/img_2020.webp?v=b0178d1f",
    "coordenadas": [
     [
      32.397963,
@@ -277,7 +277,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2025": {
-   "arquivo": "img/painel/img_2025.webp",
+   "arquivo": "img/painel/img_2025.webp?v=02b8e207",
    "coordenadas": [
     [
      32.397963,
@@ -300,7 +300,7 @@
    "estiramento": "percentis 2-98% por canal"
   },
   "2026": {
-   "arquivo": "img/painel/img_2026.webp",
+   "arquivo": "img/painel/img_2026.webp?v=11e0afb3",
    "coordenadas": [
     [
      32.397963,
@@ -325,7 +325,7 @@
  },
  "classes": {
   "1985": {
-   "arquivo": "img/painel/cls_1985.webp",
+   "arquivo": "img/painel/cls_1985.webp?v=57da7440",
    "coordenadas": [
     [
      32.397963,
@@ -346,7 +346,7 @@
    ]
   },
   "1990": {
-   "arquivo": "img/painel/cls_1990.webp",
+   "arquivo": "img/painel/cls_1990.webp?v=73f12854",
    "coordenadas": [
     [
      32.397963,
@@ -367,7 +367,7 @@
    ]
   },
   "1995": {
-   "arquivo": "img/painel/cls_1995.webp",
+   "arquivo": "img/painel/cls_1995.webp?v=783d94f8",
    "coordenadas": [
     [
      32.397963,
@@ -388,7 +388,7 @@
    ]
   },
   "1997": {
-   "arquivo": "img/painel/cls_1997.webp",
+   "arquivo": "img/painel/cls_1997.webp?v=b884833f",
    "coordenadas": [
     [
      32.397963,
@@ -409,7 +409,7 @@
    ]
   },
   "2000": {
-   "arquivo": "img/painel/cls_2000.webp",
+   "arquivo": "img/painel/cls_2000.webp?v=68700dc9",
    "coordenadas": [
     [
      32.397963,
@@ -430,7 +430,7 @@
    ]
   },
   "2005": {
-   "arquivo": "img/painel/cls_2005.webp",
+   "arquivo": "img/painel/cls_2005.webp?v=97d65e25",
    "coordenadas": [
     [
      32.397963,
@@ -451,7 +451,7 @@
    ]
   },
   "2007": {
-   "arquivo": "img/painel/cls_2007.webp",
+   "arquivo": "img/painel/cls_2007.webp?v=d141d6ed",
    "coordenadas": [
     [
      32.397963,
@@ -472,7 +472,7 @@
    ]
   },
   "2010": {
-   "arquivo": "img/painel/cls_2010.webp",
+   "arquivo": "img/painel/cls_2010.webp?v=6d590f71",
    "coordenadas": [
     [
      32.397963,
@@ -493,7 +493,7 @@
    ]
   },
   "2015": {
-   "arquivo": "img/painel/cls_2015.webp",
+   "arquivo": "img/painel/cls_2015.webp?v=da06ba69",
    "coordenadas": [
     [
      32.397963,
@@ -514,7 +514,7 @@
    ]
   },
   "2017": {
-   "arquivo": "img/painel/cls_2017.webp",
+   "arquivo": "img/painel/cls_2017.webp?v=9720a30b",
    "coordenadas": [
     [
      32.397963,
@@ -535,7 +535,7 @@
    ]
   },
   "2020": {
-   "arquivo": "img/painel/cls_2020.webp",
+   "arquivo": "img/painel/cls_2020.webp?v=cce7c0d9",
    "coordenadas": [
     [
      32.397963,
@@ -556,7 +556,7 @@
    ]
   },
   "2025": {
-   "arquivo": "img/painel/cls_2025.webp",
+   "arquivo": "img/painel/cls_2025.webp?v=6fc8bf06",
    "coordenadas": [
     [
      32.397963,
@@ -577,7 +577,7 @@
    ]
   },
   "2026": {
-   "arquivo": "img/painel/cls_2026.webp",
+   "arquivo": "img/painel/cls_2026.webp?v=75fab67d",
    "coordenadas": [
     [
      32.397963,
@@ -599,7 +599,7 @@
   }
  },
  "conversao": {
-  "arquivo": "img/painel/conversao.webp",
+  "arquivo": "img/painel/conversao.webp?v=69570da7",
   "coordenadas": [
    [
     32.397963,
@@ -649,7 +649,7 @@
  },
  "planos": {
   "plano_1985": {
-   "arquivo": "img/painel/plano_1985.webp",
+   "arquivo": "img/painel/plano_1985.webp?v=9292e7d1",
    "coordenadas": [
     [
      32.415616,
@@ -670,7 +670,7 @@
    ]
   },
   "peumm_2008": {
-   "arquivo": "img/painel/peumm_2008.webp",
+   "arquivo": "img/painel/peumm_2008.webp?v=18f2c27b",
    "coordenadas": [
     [
      32.440564,
@@ -692,5 +692,5 @@
   }
  },
  "tamanhos_bytes": {},
- "tamanho_total_bytes": 5265462
+ "tamanho_total_bytes": 5237576
 }

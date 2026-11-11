@@ -40,6 +40,15 @@ def main():
     A = np.stack(st, 0).astype("uint8")
     n = len(SEQ)
     orig = A.copy()
+    # ---- regra 0 (revisão de 11/11/2026): máscara de mar ----
+    # Píxeis que são água em pelo menos metade das épocas são mar, estuário ou leito de rio. Quando
+    # aparecem com outra classe numa época, trata-se de nuvem, névoa ou reflexo especular (ex.: as
+    # nuvens sobre a baía na composição de 2020, classificadas como construído). Passam a água.
+    validas = (A != 0).sum(0)
+    mar = (validas > 0) & ((A == 6).sum(0) >= np.ceil(validas / 2))
+    # inclui os buracos de nuvem (sem dado) sobre o mar, que passam a água
+    mar_corrigidos = mar[None, :, :] & (A != 6)
+    A[mar_corrigidos] = 6
     B = (A == 1)
 
     # ---- regra 1a (revista após a auditoria final): maioria numa janela de 3 épocas ----
@@ -104,13 +113,14 @@ def main():
         conta[ep]["total_alterados"] = 0
     for t, ep in enumerate(SEQ):
         conta[ep]["total_alterados"] = int((F[t] != orig[t]).sum())
+        conta[ep]["regra0_mar"] = int(mar_corrigidos[t].sum())
 
     # ---- grava ----
     for t, ep in enumerate(SEQ):
         p = perfil_in.copy()
         with rasterio.open(OUT / f"{ep}.tif.tmp", "w", **p) as d:
             d.write(F[t], 1)
-            d.update_tags(origem="06b_consistencia.py", regras="1 construido consistente+monotonico; 2 flicker 2-5")
+            d.update_tags(origem="06b_consistencia.py", regras="0 mascara de mar; 1 construido consistente+monotonico; 2 flicker 2-5")
         (OUT / f"{ep}.tif.tmp").replace(OUT / f"{ep}.tif")
     shutil.copy2(CLS / "1979.tif", OUT / "1979.tif")
 

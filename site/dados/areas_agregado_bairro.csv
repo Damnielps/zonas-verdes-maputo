@@ -811,13 +811,13 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Alto Mae A,MZ11019901,45,5.4
 1985,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 1985,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
-1985,bairro_maputo,Alto Mae B,MZ11019902,0,6.12
+1985,bairro_maputo,Alto Mae B,MZ11019902,0,5.13
 1985,bairro_maputo,Alto Mae B,MZ11019902,1,138.42
 1985,bairro_maputo,Alto Mae B,MZ11019902,2,7.02
 1985,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-1985,bairro_maputo,Alto Mae B,MZ11019902,45,13.05
-1985,bairro_maputo,Alto Mae B,MZ11019902,6,2.52
-1985,bairro_maputo,Alto Mae B,MZ11019902,7,16.11
+1985,bairro_maputo,Alto Mae B,MZ11019902,45,12.87
+1985,bairro_maputo,Alto Mae B,MZ11019902,6,4.14
+1985,bairro_maputo,Alto Mae B,MZ11019902,7,15.66
 1985,bairro_maputo,Central A,MZ11019903,0,0.09
 1985,bairro_maputo,Central A,MZ11019903,1,53.01
 1985,bairro_maputo,Central A,MZ11019903,2,0.0
@@ -832,13 +832,13 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Central B,MZ11019904,45,4.14
 1985,bairro_maputo,Central B,MZ11019904,6,0.0
 1985,bairro_maputo,Central B,MZ11019904,7,0.0
-1985,bairro_maputo,Central C,MZ11019905,0,1.53
-1985,bairro_maputo,Central C,MZ11019905,1,137.61
+1985,bairro_maputo,Central C,MZ11019905,0,1.44
+1985,bairro_maputo,Central C,MZ11019905,1,137.52
 1985,bairro_maputo,Central C,MZ11019905,2,19.44
 1985,bairro_maputo,Central C,MZ11019905,3,0.09
 1985,bairro_maputo,Central C,MZ11019905,45,34.38
-1985,bairro_maputo,Central C,MZ11019905,6,4.95
-1985,bairro_maputo,Central C,MZ11019905,7,6.12
+1985,bairro_maputo,Central C,MZ11019905,6,6.12
+1985,bairro_maputo,Central C,MZ11019905,7,5.13
 1985,bairro_maputo,Coop,MZ11019906,0,0.0
 1985,bairro_maputo,Coop,MZ11019906,1,65.79
 1985,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -865,8 +865,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Polana Cimento A,MZ11019909,2,0.63
 1985,bairro_maputo,Polana Cimento A,MZ11019909,3,0.99
 1985,bairro_maputo,Polana Cimento A,MZ11019909,45,53.55
-1985,bairro_maputo,Polana Cimento A,MZ11019909,6,0.99
-1985,bairro_maputo,Polana Cimento A,MZ11019909,7,2.16
+1985,bairro_maputo,Polana Cimento A,MZ11019909,6,1.53
+1985,bairro_maputo,Polana Cimento A,MZ11019909,7,1.62
 1985,bairro_maputo,Polana Cimento B,MZ11019910,0,0.27
 1985,bairro_maputo,Polana Cimento B,MZ11019910,1,77.49
 1985,bairro_maputo,Polana Cimento B,MZ11019910,2,0.0
@@ -878,9 +878,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Sommerschield,MZ11019911,1,180.45
 1985,bairro_maputo,Sommerschield,MZ11019911,2,31.41
 1985,bairro_maputo,Sommerschield,MZ11019911,3,7.83
-1985,bairro_maputo,Sommerschield,MZ11019911,45,129.42
-1985,bairro_maputo,Sommerschield,MZ11019911,6,4.59
-1985,bairro_maputo,Sommerschield,MZ11019911,7,14.76
+1985,bairro_maputo,Sommerschield,MZ11019911,45,129.33
+1985,bairro_maputo,Sommerschield,MZ11019911,6,6.03
+1985,bairro_maputo,Sommerschield,MZ11019911,7,13.41
 1985,bairro_maputo,Aeroporto A,MZ11029901,0,0.09
 1985,bairro_maputo,Aeroporto A,MZ11029901,1,84.33
 1985,bairro_maputo,Aeroporto A,MZ11029901,2,0.18
@@ -1032,16 +1032,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Albazine,MZ11049903,1,38.52
 1985,bairro_maputo,Albazine,MZ11049903,2,305.82
 1985,bairro_maputo,Albazine,MZ11049903,3,332.82
-1985,bairro_maputo,Albazine,MZ11049903,45,1880.91
-1985,bairro_maputo,Albazine,MZ11049903,6,21.42
-1985,bairro_maputo,Albazine,MZ11049903,7,26.46
+1985,bairro_maputo,Albazine,MZ11049903,45,1873.62
+1985,bairro_maputo,Albazine,MZ11049903,6,29.07
+1985,bairro_maputo,Albazine,MZ11049903,7,26.1
 1985,bairro_maputo,Costa do Sol,MZ11049904,0,0.09
 1985,bairro_maputo,Costa do Sol,MZ11049904,1,63.09
 1985,bairro_maputo,Costa do Sol,MZ11049904,2,125.28
 1985,bairro_maputo,Costa do Sol,MZ11049904,3,66.69
-1985,bairro_maputo,Costa do Sol,MZ11049904,45,1442.7
-1985,bairro_maputo,Costa do Sol,MZ11049904,6,125.55
-1985,bairro_maputo,Costa do Sol,MZ11049904,7,167.13
+1985,bairro_maputo,Costa do Sol,MZ11049904,45,1440.63
+1985,bairro_maputo,Costa do Sol,MZ11049904,6,142.11
+1985,bairro_maputo,Costa do Sol,MZ11049904,7,152.64
 1985,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 1985,bairro_maputo,Ferroviario,MZ11049905,1,252.72
 1985,bairro_maputo,Ferroviario,MZ11049905,2,82.89
@@ -1147,13 +1147,13 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Jardim,MZ11059907,45,53.82
 1985,bairro_maputo,Jardim,MZ11059907,6,0.0
 1985,bairro_maputo,Jardim,MZ11059907,7,0.0
-1985,bairro_maputo,Luis Cabral,MZ11059908,0,3.15
+1985,bairro_maputo,Luis Cabral,MZ11059908,0,2.25
 1985,bairro_maputo,Luis Cabral,MZ11059908,1,300.33
 1985,bairro_maputo,Luis Cabral,MZ11059908,2,48.06
 1985,bairro_maputo,Luis Cabral,MZ11059908,3,12.96
 1985,bairro_maputo,Luis Cabral,MZ11059908,45,114.39
-1985,bairro_maputo,Luis Cabral,MZ11059908,6,12.42
-1985,bairro_maputo,Luis Cabral,MZ11059908,7,43.38
+1985,bairro_maputo,Luis Cabral,MZ11059908,6,14.85
+1985,bairro_maputo,Luis Cabral,MZ11059908,7,41.85
 1985,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 1985,bairro_maputo,Magoanine A,MZ11059909,1,159.48
 1985,bairro_maputo,Magoanine A,MZ11059909,2,68.04
@@ -1201,8 +1201,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Chali,MZ11069901,2,82.26
 1985,bairro_maputo,Chali,MZ11069901,3,193.95
 1985,bairro_maputo,Chali,MZ11069901,45,1036.98
-1985,bairro_maputo,Chali,MZ11069901,6,40.05
-1985,bairro_maputo,Chali,MZ11069901,7,18.27
+1985,bairro_maputo,Chali,MZ11069901,6,41.4
+1985,bairro_maputo,Chali,MZ11069901,7,16.92
 1985,bairro_maputo,Chamissava,MZ11069902,0,0.0
 1985,bairro_maputo,Chamissava,MZ11069902,1,24.84
 1985,bairro_maputo,Chamissava,MZ11069902,2,194.76
@@ -1215,22 +1215,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_maputo,Guachene,MZ11069903,2,4.68
 1985,bairro_maputo,Guachene,MZ11069903,3,29.07
 1985,bairro_maputo,Guachene,MZ11069903,45,222.39
-1985,bairro_maputo,Guachene,MZ11069903,6,52.74
-1985,bairro_maputo,Guachene,MZ11069903,7,40.86
+1985,bairro_maputo,Guachene,MZ11069903,6,57.6
+1985,bairro_maputo,Guachene,MZ11069903,7,36.0
 1985,bairro_maputo,Incassane,MZ11069904,0,0.0
 1985,bairro_maputo,Incassane,MZ11069904,1,38.97
 1985,bairro_maputo,Incassane,MZ11069904,2,209.61
 1985,bairro_maputo,Incassane,MZ11069904,3,457.38
-1985,bairro_maputo,Incassane,MZ11069904,45,5646.78
-1985,bairro_maputo,Incassane,MZ11069904,6,395.1
-1985,bairro_maputo,Incassane,MZ11069904,7,120.06
+1985,bairro_maputo,Incassane,MZ11069904,45,5604.39
+1985,bairro_maputo,Incassane,MZ11069904,6,437.85
+1985,bairro_maputo,Incassane,MZ11069904,7,119.7
 1985,bairro_maputo,Inguide,MZ11069905,0,0.0
 1985,bairro_maputo,Inguide,MZ11069905,1,63.09
 1985,bairro_maputo,Inguide,MZ11069905,2,32.94
 1985,bairro_maputo,Inguide,MZ11069905,3,188.19
-1985,bairro_maputo,Inguide,MZ11069905,45,1044.81
-1985,bairro_maputo,Inguide,MZ11069905,6,44.19
-1985,bairro_maputo,Inguide,MZ11069905,7,13.5
+1985,bairro_maputo,Inguide,MZ11069905,45,1042.74
+1985,bairro_maputo,Inguide,MZ11069905,6,50.49
+1985,bairro_maputo,Inguide,MZ11069905,7,9.27
 1985,bairro_maputo,Inguane,MZ11079901,0,0.0
 1985,bairro_maputo,Inguane,MZ11079901,1,0.0
 1985,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -1277,16 +1277,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,Malhampsene,MZ10010104,1,13.59
 1985,bairro_matola,Malhampsene,MZ10010104,2,98.1
 1985,bairro_matola,Malhampsene,MZ10010104,3,269.46
-1985,bairro_matola,Malhampsene,MZ10010104,45,237.42
-1985,bairro_matola,Malhampsene,MZ10010104,6,0.0
+1985,bairro_matola,Malhampsene,MZ10010104,45,237.24
+1985,bairro_matola,Malhampsene,MZ10010104,6,0.18
 1985,bairro_matola,Malhampsene,MZ10010104,7,0.0
 1985,bairro_matola,Matola A,MZ10010105,0,9.72
-1985,bairro_matola,Matola A,MZ10010105,1,525.96
+1985,bairro_matola,Matola A,MZ10010105,1,525.78
 1985,bairro_matola,Matola A,MZ10010105,2,263.43
 1985,bairro_matola,Matola A,MZ10010105,3,239.67
-1985,bairro_matola,Matola A,MZ10010105,45,789.48
-1985,bairro_matola,Matola A,MZ10010105,6,177.75
-1985,bairro_matola,Matola A,MZ10010105,7,209.16
+1985,bairro_matola,Matola A,MZ10010105,45,710.1
+1985,bairro_matola,Matola A,MZ10010105,6,337.14
+1985,bairro_matola,Matola A,MZ10010105,7,129.33
 1985,bairro_matola,Matola B,MZ10010106,0,0.0
 1985,bairro_matola,Matola B,MZ10010106,1,114.57
 1985,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -1298,15 +1298,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,Matola C,MZ10010107,1,111.24
 1985,bairro_matola,Matola C,MZ10010107,2,54.81
 1985,bairro_matola,Matola C,MZ10010107,3,130.14
-1985,bairro_matola,Matola C,MZ10010107,45,138.69
-1985,bairro_matola,Matola C,MZ10010107,6,41.67
-1985,bairro_matola,Matola C,MZ10010107,7,21.51
+1985,bairro_matola,Matola C,MZ10010107,45,132.93
+1985,bairro_matola,Matola C,MZ10010107,6,62.55
+1985,bairro_matola,Matola C,MZ10010107,7,6.39
 1985,bairro_matola,Matola D,MZ10010108,0,0.0
 1985,bairro_matola,Matola D,MZ10010108,1,79.02
 1985,bairro_matola,Matola D,MZ10010108,2,22.05
 1985,bairro_matola,Matola D,MZ10010108,3,102.6
-1985,bairro_matola,Matola D,MZ10010108,45,95.85
-1985,bairro_matola,Matola D,MZ10010108,6,10.98
+1985,bairro_matola,Matola D,MZ10010108,45,94.5
+1985,bairro_matola,Matola D,MZ10010108,6,12.33
 1985,bairro_matola,Matola D,MZ10010108,7,4.14
 1985,bairro_matola,Matola F,MZ10010109,0,0.0
 1985,bairro_matola,Matola F,MZ10010109,1,89.73
@@ -1333,16 +1333,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,Matola J,MZ10010112,1,67.5
 1985,bairro_matola,Matola J,MZ10010112,2,14.58
 1985,bairro_matola,Matola J,MZ10010112,3,33.03
-1985,bairro_matola,Matola J,MZ10010112,45,16.74
-1985,bairro_matola,Matola J,MZ10010112,6,0.63
+1985,bairro_matola,Matola J,MZ10010112,45,16.65
+1985,bairro_matola,Matola J,MZ10010112,6,0.72
 1985,bairro_matola,Matola J,MZ10010112,7,0.99
 1985,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 1985,bairro_matola,Mussumbuluco,MZ10010113,1,164.07
 1985,bairro_matola,Mussumbuluco,MZ10010113,2,42.3
 1985,bairro_matola,Mussumbuluco,MZ10010113,3,203.31
-1985,bairro_matola,Mussumbuluco,MZ10010113,45,114.84
-1985,bairro_matola,Mussumbuluco,MZ10010113,6,0.45
-1985,bairro_matola,Mussumbuluco,MZ10010113,7,11.52
+1985,bairro_matola,Mussumbuluco,MZ10010113,45,114.48
+1985,bairro_matola,Mussumbuluco,MZ10010113,6,1.35
+1985,bairro_matola,Mussumbuluco,MZ10010113,7,10.98
 1985,bairro_matola,Infulene D,MZ10010201,0,0.0
 1985,bairro_matola,Infulene D,MZ10010201,1,104.76
 1985,bairro_matola,Infulene D,MZ10010201,2,7.02
@@ -1422,10 +1422,10 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,T3,MZ10010213,7,0.0
 1985,bairro_matola,Vale de Infulene,MZ10010214,0,0.0
 1985,bairro_matola,Vale de Infulene,MZ10010214,1,92.88
-1985,bairro_matola,Vale de Infulene,MZ10010214,2,203.49
-1985,bairro_matola,Vale de Infulene,MZ10010214,3,27.63
-1985,bairro_matola,Vale de Infulene,MZ10010214,45,80.37
-1985,bairro_matola,Vale de Infulene,MZ10010214,6,0.0
+1985,bairro_matola,Vale de Infulene,MZ10010214,2,203.13
+1985,bairro_matola,Vale de Infulene,MZ10010214,3,25.29
+1985,bairro_matola,Vale de Infulene,MZ10010214,45,80.28
+1985,bairro_matola,Vale de Infulene,MZ10010214,6,2.79
 1985,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 1985,bairro_matola,Zona Verde,MZ10010215,0,0.0
 1985,bairro_matola,Zona Verde,MZ10010215,1,178.74
@@ -1536,23 +1536,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,Eduardo Mondlane,MZ10020101,1,1.71
 1985,bairro_matola,Eduardo Mondlane,MZ10020101,2,526.05
 1985,bairro_matola,Eduardo Mondlane,MZ10020101,3,197.37
-1985,bairro_matola,Eduardo Mondlane,MZ10020101,45,4740.84
-1985,bairro_matola,Eduardo Mondlane,MZ10020101,6,430.65
-1985,bairro_matola,Eduardo Mondlane,MZ10020101,7,26.37
+1985,bairro_matola,Eduardo Mondlane,MZ10020101,45,4670.73
+1985,bairro_matola,Eduardo Mondlane,MZ10020101,6,500.94
+1985,bairro_matola,Eduardo Mondlane,MZ10020101,7,26.19
 1985,bairro_matola,Gueguegue,MZ10020102,0,0.0
 1985,bairro_matola,Gueguegue,MZ10020102,1,14.85
 1985,bairro_matola,Gueguegue,MZ10020102,2,87.75
 1985,bairro_matola,Gueguegue,MZ10020102,3,31.86
-1985,bairro_matola,Gueguegue,MZ10020102,45,295.02
-1985,bairro_matola,Gueguegue,MZ10020102,6,9.99
+1985,bairro_matola,Gueguegue,MZ10020102,45,294.75
+1985,bairro_matola,Gueguegue,MZ10020102,6,10.26
 1985,bairro_matola,Gueguegue,MZ10020102,7,0.09
 1985,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 1985,bairro_matola,Matola Rio-Sede,MZ10020201,1,216.54
 1985,bairro_matola,Matola Rio-Sede,MZ10020201,2,669.6
 1985,bairro_matola,Matola Rio-Sede,MZ10020201,3,1590.57
-1985,bairro_matola,Matola Rio-Sede,MZ10020201,45,3546.72
-1985,bairro_matola,Matola Rio-Sede,MZ10020201,6,261.99
-1985,bairro_matola,Matola Rio-Sede,MZ10020201,7,161.19
+1985,bairro_matola,Matola Rio-Sede,MZ10020201,45,3380.22
+1985,bairro_matola,Matola Rio-Sede,MZ10020201,6,461.25
+1985,bairro_matola,Matola Rio-Sede,MZ10020201,7,128.43
 1985,bairro_matola,Mulotana,MZ10020202,0,0.0
 1985,bairro_matola,Mulotana,MZ10020202,1,3.24
 1985,bairro_matola,Mulotana,MZ10020202,2,208.89
@@ -1564,16 +1564,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,Marracuene-Sede,MZ10050101,1,1.8
 1985,bairro_matola,Marracuene-Sede,MZ10050101,2,645.66
 1985,bairro_matola,Marracuene-Sede,MZ10050101,3,427.95
-1985,bairro_matola,Marracuene-Sede,MZ10050101,45,3584.7
-1985,bairro_matola,Marracuene-Sede,MZ10050101,6,136.89
-1985,bairro_matola,Marracuene-Sede,MZ10050101,7,9.36
+1985,bairro_matola,Marracuene-Sede,MZ10050101,45,3571.83
+1985,bairro_matola,Marracuene-Sede,MZ10050101,6,150.75
+1985,bairro_matola,Marracuene-Sede,MZ10050101,7,8.37
 1985,bairro_matola,Macaneta,MZ10050102,0,0.0
 1985,bairro_matola,Macaneta,MZ10050102,1,1.35
 1985,bairro_matola,Macaneta,MZ10050102,2,71.28
 1985,bairro_matola,Macaneta,MZ10050102,3,26.55
-1985,bairro_matola,Macaneta,MZ10050102,45,2345.58
-1985,bairro_matola,Macaneta,MZ10050102,6,689.49
-1985,bairro_matola,Macaneta,MZ10050102,7,181.26
+1985,bairro_matola,Macaneta,MZ10050102,45,2318.85
+1985,bairro_matola,Macaneta,MZ10050102,6,724.86
+1985,bairro_matola,Macaneta,MZ10050102,7,172.62
 1985,bairro_matola,Michafutene,MZ10050104,0,0.0
 1985,bairro_matola,Michafutene,MZ10050104,1,177.57
 1985,bairro_matola,Michafutene,MZ10050104,2,417.96
@@ -1593,14 +1593,14 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1985,bairro_matola,M'Sime,MZ10060201,2,283.5
 1985,bairro_matola,M'Sime,MZ10060201,3,251.55
 1985,bairro_matola,M'Sime,MZ10060201,45,2518.65
-1985,bairro_matola,M'Sime,MZ10060201,6,129.33
-1985,bairro_matola,M'Sime,MZ10060201,7,51.66
+1985,bairro_matola,M'Sime,MZ10060201,6,137.34
+1985,bairro_matola,M'Sime,MZ10060201,7,43.65
 1985,bairro_matola,Mugazine,MZ10060202,0,0.0
 1985,bairro_matola,Mugazine,MZ10060202,1,11.43
 1985,bairro_matola,Mugazine,MZ10060202,2,31.41
 1985,bairro_matola,Mugazine,MZ10060202,3,55.35
-1985,bairro_matola,Mugazine,MZ10060202,45,2021.22
-1985,bairro_matola,Mugazine,MZ10060202,6,12.06
+1985,bairro_matola,Mugazine,MZ10060202,45,2020.59
+1985,bairro_matola,Mugazine,MZ10060202,6,12.69
 1985,bairro_matola,Mugazine,MZ10060202,7,9.45
 1985,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 1985,bairro_matola,Pessene-Sede,MZ10070201,1,76.23
@@ -1638,11 +1638,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Central B,MZ11019904,6,0.0
 1990,bairro_maputo,Central B,MZ11019904,7,0.0
 1990,bairro_maputo,Central C,MZ11019905,0,0.0
-1990,bairro_maputo,Central C,MZ11019905,1,155.16
+1990,bairro_maputo,Central C,MZ11019905,1,155.07
 1990,bairro_maputo,Central C,MZ11019905,2,18.54
 1990,bairro_maputo,Central C,MZ11019905,3,0.45
 1990,bairro_maputo,Central C,MZ11019905,45,21.6
-1990,bairro_maputo,Central C,MZ11019905,6,6.84
+1990,bairro_maputo,Central C,MZ11019905,6,6.93
 1990,bairro_maputo,Central C,MZ11019905,7,1.53
 1990,bairro_maputo,Coop,MZ11019906,0,0.0
 1990,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -1684,8 +1684,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Sommerschield,MZ11019911,2,31.77
 1990,bairro_maputo,Sommerschield,MZ11019911,3,10.89
 1990,bairro_maputo,Sommerschield,MZ11019911,45,53.19
-1990,bairro_maputo,Sommerschield,MZ11019911,6,5.58
-1990,bairro_maputo,Sommerschield,MZ11019911,7,15.48
+1990,bairro_maputo,Sommerschield,MZ11019911,6,6.3
+1990,bairro_maputo,Sommerschield,MZ11019911,7,14.76
 1990,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 1990,bairro_maputo,Aeroporto A,MZ11029901,1,87.66
 1990,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -1837,16 +1837,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Albazine,MZ11049903,1,41.58
 1990,bairro_maputo,Albazine,MZ11049903,2,544.5
 1990,bairro_maputo,Albazine,MZ11049903,3,595.71
-1990,bairro_maputo,Albazine,MZ11049903,45,1234.89
-1990,bairro_maputo,Albazine,MZ11049903,6,40.14
-1990,bairro_maputo,Albazine,MZ11049903,7,149.13
+1990,bairro_maputo,Albazine,MZ11049903,45,1233.81
+1990,bairro_maputo,Albazine,MZ11049903,6,41.94
+1990,bairro_maputo,Albazine,MZ11049903,7,148.41
 1990,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 1990,bairro_maputo,Costa do Sol,MZ11049904,1,74.34
 1990,bairro_maputo,Costa do Sol,MZ11049904,2,247.95
 1990,bairro_maputo,Costa do Sol,MZ11049904,3,153.54
-1990,bairro_maputo,Costa do Sol,MZ11049904,45,1176.03
-1990,bairro_maputo,Costa do Sol,MZ11049904,6,177.39
-1990,bairro_maputo,Costa do Sol,MZ11049904,7,161.28
+1990,bairro_maputo,Costa do Sol,MZ11049904,45,1173.87
+1990,bairro_maputo,Costa do Sol,MZ11049904,6,190.26
+1990,bairro_maputo,Costa do Sol,MZ11049904,7,150.57
 1990,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 1990,bairro_maputo,Ferroviario,MZ11049905,1,294.48
 1990,bairro_maputo,Ferroviario,MZ11049905,2,94.05
@@ -1957,8 +1957,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Luis Cabral,MZ11059908,2,25.83
 1990,bairro_maputo,Luis Cabral,MZ11059908,3,12.51
 1990,bairro_maputo,Luis Cabral,MZ11059908,45,118.26
-1990,bairro_maputo,Luis Cabral,MZ11059908,6,16.92
-1990,bairro_maputo,Luis Cabral,MZ11059908,7,8.46
+1990,bairro_maputo,Luis Cabral,MZ11059908,6,18.09
+1990,bairro_maputo,Luis Cabral,MZ11059908,7,7.29
 1990,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 1990,bairro_maputo,Magoanine A,MZ11059909,1,222.21
 1990,bairro_maputo,Magoanine A,MZ11059909,2,102.15
@@ -2006,8 +2006,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Chali,MZ11069901,2,91.35
 1990,bairro_maputo,Chali,MZ11069901,3,680.94
 1990,bairro_maputo,Chali,MZ11069901,45,496.53
-1990,bairro_maputo,Chali,MZ11069901,6,39.24
-1990,bairro_maputo,Chali,MZ11069901,7,18.27
+1990,bairro_maputo,Chali,MZ11069901,6,41.4
+1990,bairro_maputo,Chali,MZ11069901,7,16.11
 1990,bairro_maputo,Chamissava,MZ11069902,0,0.0
 1990,bairro_maputo,Chamissava,MZ11069902,1,26.55
 1990,bairro_maputo,Chamissava,MZ11069902,2,186.39
@@ -2020,22 +2020,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_maputo,Guachene,MZ11069903,2,2.97
 1990,bairro_maputo,Guachene,MZ11069903,3,1.89
 1990,bairro_maputo,Guachene,MZ11069903,45,250.02
-1990,bairro_maputo,Guachene,MZ11069903,6,60.75
-1990,bairro_maputo,Guachene,MZ11069903,7,30.42
+1990,bairro_maputo,Guachene,MZ11069903,6,64.53
+1990,bairro_maputo,Guachene,MZ11069903,7,26.64
 1990,bairro_maputo,Incassane,MZ11069904,0,0.0
 1990,bairro_maputo,Incassane,MZ11069904,1,39.87
 1990,bairro_maputo,Incassane,MZ11069904,2,267.21
 1990,bairro_maputo,Incassane,MZ11069904,3,1366.92
-1990,bairro_maputo,Incassane,MZ11069904,45,4570.38
-1990,bairro_maputo,Incassane,MZ11069904,6,440.28
-1990,bairro_maputo,Incassane,MZ11069904,7,183.24
+1990,bairro_maputo,Incassane,MZ11069904,45,4565.16
+1990,bairro_maputo,Incassane,MZ11069904,6,446.49
+1990,bairro_maputo,Incassane,MZ11069904,7,182.25
 1990,bairro_maputo,Inguide,MZ11069905,0,0.0
 1990,bairro_maputo,Inguide,MZ11069905,1,87.39
 1990,bairro_maputo,Inguide,MZ11069905,2,51.03
 1990,bairro_maputo,Inguide,MZ11069905,3,477.45
-1990,bairro_maputo,Inguide,MZ11069905,45,711.27
-1990,bairro_maputo,Inguide,MZ11069905,6,45.54
-1990,bairro_maputo,Inguide,MZ11069905,7,14.04
+1990,bairro_maputo,Inguide,MZ11069905,45,711.09
+1990,bairro_maputo,Inguide,MZ11069905,6,50.85
+1990,bairro_maputo,Inguide,MZ11069905,7,8.91
 1990,bairro_maputo,Inguane,MZ11079901,0,0.0
 1990,bairro_maputo,Inguane,MZ11079901,1,0.0
 1990,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -2082,16 +2082,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_matola,Malhampsene,MZ10010104,1,14.13
 1990,bairro_matola,Malhampsene,MZ10010104,2,83.43
 1990,bairro_matola,Malhampsene,MZ10010104,3,146.52
-1990,bairro_matola,Malhampsene,MZ10010104,45,374.49
-1990,bairro_matola,Malhampsene,MZ10010104,6,0.0
+1990,bairro_matola,Malhampsene,MZ10010104,45,374.31
+1990,bairro_matola,Malhampsene,MZ10010104,6,0.18
 1990,bairro_matola,Malhampsene,MZ10010104,7,0.0
 1990,bairro_matola,Matola A,MZ10010105,0,0.0
-1990,bairro_matola,Matola A,MZ10010105,1,1035.09
+1990,bairro_matola,Matola A,MZ10010105,1,1034.91
 1990,bairro_matola,Matola A,MZ10010105,2,151.47
 1990,bairro_matola,Matola A,MZ10010105,3,81.0
-1990,bairro_matola,Matola A,MZ10010105,45,632.7
-1990,bairro_matola,Matola A,MZ10010105,6,231.12
-1990,bairro_matola,Matola A,MZ10010105,7,83.79
+1990,bairro_matola,Matola A,MZ10010105,45,506.07
+1990,bairro_matola,Matola A,MZ10010105,6,371.97
+1990,bairro_matola,Matola A,MZ10010105,7,69.75
 1990,bairro_matola,Matola B,MZ10010106,0,0.0
 1990,bairro_matola,Matola B,MZ10010106,1,122.58
 1990,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -2103,15 +2103,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_matola,Matola C,MZ10010107,1,158.31
 1990,bairro_matola,Matola C,MZ10010107,2,50.4
 1990,bairro_matola,Matola C,MZ10010107,3,49.95
-1990,bairro_matola,Matola C,MZ10010107,45,160.74
-1990,bairro_matola,Matola C,MZ10010107,6,66.96
-1990,bairro_matola,Matola C,MZ10010107,7,11.7
+1990,bairro_matola,Matola C,MZ10010107,45,156.06
+1990,bairro_matola,Matola C,MZ10010107,6,75.24
+1990,bairro_matola,Matola C,MZ10010107,7,8.1
 1990,bairro_matola,Matola D,MZ10010108,0,0.0
 1990,bairro_matola,Matola D,MZ10010108,1,96.75
 1990,bairro_matola,Matola D,MZ10010108,2,17.91
 1990,bairro_matola,Matola D,MZ10010108,3,56.88
-1990,bairro_matola,Matola D,MZ10010108,45,127.71
-1990,bairro_matola,Matola D,MZ10010108,6,14.4
+1990,bairro_matola,Matola D,MZ10010108,45,127.62
+1990,bairro_matola,Matola D,MZ10010108,6,14.49
 1990,bairro_matola,Matola D,MZ10010108,7,0.99
 1990,bairro_matola,Matola F,MZ10010109,0,0.0
 1990,bairro_matola,Matola F,MZ10010109,1,145.17
@@ -2341,23 +2341,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_matola,Eduardo Mondlane,MZ10020101,1,1.71
 1990,bairro_matola,Eduardo Mondlane,MZ10020101,2,682.11
 1990,bairro_matola,Eduardo Mondlane,MZ10020101,3,1183.95
-1990,bairro_matola,Eduardo Mondlane,MZ10020101,45,3485.61
-1990,bairro_matola,Eduardo Mondlane,MZ10020101,6,506.07
-1990,bairro_matola,Eduardo Mondlane,MZ10020101,7,63.54
+1990,bairro_matola,Eduardo Mondlane,MZ10020101,45,3476.07
+1990,bairro_matola,Eduardo Mondlane,MZ10020101,6,516.87
+1990,bairro_matola,Eduardo Mondlane,MZ10020101,7,62.28
 1990,bairro_matola,Gueguegue,MZ10020102,0,0.0
 1990,bairro_matola,Gueguegue,MZ10020102,1,19.26
 1990,bairro_matola,Gueguegue,MZ10020102,2,55.8
 1990,bairro_matola,Gueguegue,MZ10020102,3,53.73
-1990,bairro_matola,Gueguegue,MZ10020102,45,297.81
-1990,bairro_matola,Gueguegue,MZ10020102,6,9.18
+1990,bairro_matola,Gueguegue,MZ10020102,45,297.45
+1990,bairro_matola,Gueguegue,MZ10020102,6,9.54
 1990,bairro_matola,Gueguegue,MZ10020102,7,3.78
 1990,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 1990,bairro_matola,Matola Rio-Sede,MZ10020201,1,304.74
 1990,bairro_matola,Matola Rio-Sede,MZ10020201,2,483.48
 1990,bairro_matola,Matola Rio-Sede,MZ10020201,3,1803.33
-1990,bairro_matola,Matola Rio-Sede,MZ10020201,45,3212.28
-1990,bairro_matola,Matola Rio-Sede,MZ10020201,6,416.52
-1990,bairro_matola,Matola Rio-Sede,MZ10020201,7,226.26
+1990,bairro_matola,Matola Rio-Sede,MZ10020201,45,3124.26
+1990,bairro_matola,Matola Rio-Sede,MZ10020201,6,537.39
+1990,bairro_matola,Matola Rio-Sede,MZ10020201,7,193.41
 1990,bairro_matola,Mulotana,MZ10020202,0,0.0
 1990,bairro_matola,Mulotana,MZ10020202,1,6.84
 1990,bairro_matola,Mulotana,MZ10020202,2,150.48
@@ -2369,16 +2369,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_matola,Marracuene-Sede,MZ10050101,1,2.07
 1990,bairro_matola,Marracuene-Sede,MZ10050101,2,964.26
 1990,bairro_matola,Marracuene-Sede,MZ10050101,3,1053.54
-1990,bairro_matola,Marracuene-Sede,MZ10050101,45,2615.49
-1990,bairro_matola,Marracuene-Sede,MZ10050101,6,146.07
-1990,bairro_matola,Marracuene-Sede,MZ10050101,7,24.93
+1990,bairro_matola,Marracuene-Sede,MZ10050101,45,2608.74
+1990,bairro_matola,Marracuene-Sede,MZ10050101,6,155.61
+1990,bairro_matola,Marracuene-Sede,MZ10050101,7,22.14
 1990,bairro_matola,Macaneta,MZ10050102,0,0.0
 1990,bairro_matola,Macaneta,MZ10050102,1,2.7
 1990,bairro_matola,Macaneta,MZ10050102,2,153.9
 1990,bairro_matola,Macaneta,MZ10050102,3,262.89
-1990,bairro_matola,Macaneta,MZ10050102,45,2039.49
-1990,bairro_matola,Macaneta,MZ10050102,6,688.68
-1990,bairro_matola,Macaneta,MZ10050102,7,167.85
+1990,bairro_matola,Macaneta,MZ10050102,45,2018.97
+1990,bairro_matola,Macaneta,MZ10050102,6,716.13
+1990,bairro_matola,Macaneta,MZ10050102,7,160.92
 1990,bairro_matola,Michafutene,MZ10050104,0,0.0
 1990,bairro_matola,Michafutene,MZ10050104,1,227.7
 1990,bairro_matola,Michafutene,MZ10050104,2,600.12
@@ -2398,8 +2398,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1990,bairro_matola,M'Sime,MZ10060201,2,275.94
 1990,bairro_matola,M'Sime,MZ10060201,3,1278.54
 1990,bairro_matola,M'Sime,MZ10060201,45,1497.6
-1990,bairro_matola,M'Sime,MZ10060201,6,130.05
-1990,bairro_matola,M'Sime,MZ10060201,7,48.96
+1990,bairro_matola,M'Sime,MZ10060201,6,137.07
+1990,bairro_matola,M'Sime,MZ10060201,7,41.94
 1990,bairro_matola,Mugazine,MZ10060202,0,0.0
 1990,bairro_matola,Mugazine,MZ10060202,1,31.95
 1990,bairro_matola,Mugazine,MZ10060202,2,101.25
@@ -2443,11 +2443,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Central B,MZ11019904,6,0.0
 1995,bairro_maputo,Central B,MZ11019904,7,0.0
 1995,bairro_maputo,Central C,MZ11019905,0,0.0
-1995,bairro_maputo,Central C,MZ11019905,1,157.59
+1995,bairro_maputo,Central C,MZ11019905,1,157.5
 1995,bairro_maputo,Central C,MZ11019905,2,5.31
 1995,bairro_maputo,Central C,MZ11019905,3,0.0
 1995,bairro_maputo,Central C,MZ11019905,45,33.03
-1995,bairro_maputo,Central C,MZ11019905,6,6.66
+1995,bairro_maputo,Central C,MZ11019905,6,6.75
 1995,bairro_maputo,Central C,MZ11019905,7,1.53
 1995,bairro_maputo,Coop,MZ11019906,0,0.0
 1995,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -2489,8 +2489,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Sommerschield,MZ11019911,2,24.3
 1995,bairro_maputo,Sommerschield,MZ11019911,3,8.73
 1995,bairro_maputo,Sommerschield,MZ11019911,45,54.18
-1995,bairro_maputo,Sommerschield,MZ11019911,6,6.57
-1995,bairro_maputo,Sommerschield,MZ11019911,7,11.88
+1995,bairro_maputo,Sommerschield,MZ11019911,6,6.84
+1995,bairro_maputo,Sommerschield,MZ11019911,7,11.61
 1995,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 1995,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 1995,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -2642,16 +2642,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Albazine,MZ11049903,1,69.66
 1995,bairro_maputo,Albazine,MZ11049903,2,567.81
 1995,bairro_maputo,Albazine,MZ11049903,3,504.27
-1995,bairro_maputo,Albazine,MZ11049903,45,1424.88
-1995,bairro_maputo,Albazine,MZ11049903,6,32.76
-1995,bairro_maputo,Albazine,MZ11049903,7,6.57
+1995,bairro_maputo,Albazine,MZ11049903,45,1423.8
+1995,bairro_maputo,Albazine,MZ11049903,6,34.02
+1995,bairro_maputo,Albazine,MZ11049903,7,6.39
 1995,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 1995,bairro_maputo,Costa do Sol,MZ11049904,1,97.92
 1995,bairro_maputo,Costa do Sol,MZ11049904,2,315.99
 1995,bairro_maputo,Costa do Sol,MZ11049904,3,201.06
-1995,bairro_maputo,Costa do Sol,MZ11049904,45,1136.25
-1995,bairro_maputo,Costa do Sol,MZ11049904,6,133.83
-1995,bairro_maputo,Costa do Sol,MZ11049904,7,105.48
+1995,bairro_maputo,Costa do Sol,MZ11049904,45,1135.71
+1995,bairro_maputo,Costa do Sol,MZ11049904,6,146.16
+1995,bairro_maputo,Costa do Sol,MZ11049904,7,93.69
 1995,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 1995,bairro_maputo,Ferroviario,MZ11049905,1,304.2
 1995,bairro_maputo,Ferroviario,MZ11049905,2,94.95
@@ -2761,8 +2761,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Luis Cabral,MZ11059908,1,371.16
 1995,bairro_maputo,Luis Cabral,MZ11059908,2,24.84
 1995,bairro_maputo,Luis Cabral,MZ11059908,3,2.07
-1995,bairro_maputo,Luis Cabral,MZ11059908,45,111.6
-1995,bairro_maputo,Luis Cabral,MZ11059908,6,23.22
+1995,bairro_maputo,Luis Cabral,MZ11059908,45,111.51
+1995,bairro_maputo,Luis Cabral,MZ11059908,6,23.31
 1995,bairro_maputo,Luis Cabral,MZ11059908,7,1.8
 1995,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 1995,bairro_maputo,Magoanine A,MZ11059909,1,230.04
@@ -2811,8 +2811,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Chali,MZ11069901,2,74.88
 1995,bairro_maputo,Chali,MZ11069901,3,296.55
 1995,bairro_maputo,Chali,MZ11069901,45,888.48
-1995,bairro_maputo,Chali,MZ11069901,6,40.95
-1995,bairro_maputo,Chali,MZ11069901,7,20.07
+1995,bairro_maputo,Chali,MZ11069901,6,41.4
+1995,bairro_maputo,Chali,MZ11069901,7,19.62
 1995,bairro_maputo,Chamissava,MZ11069902,0,0.0
 1995,bairro_maputo,Chamissava,MZ11069902,1,27.27
 1995,bairro_maputo,Chamissava,MZ11069902,2,170.91
@@ -2825,22 +2825,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_maputo,Guachene,MZ11069903,2,2.25
 1995,bairro_maputo,Guachene,MZ11069903,3,9.9
 1995,bairro_maputo,Guachene,MZ11069903,45,223.38
-1995,bairro_maputo,Guachene,MZ11069903,6,65.43
-1995,bairro_maputo,Guachene,MZ11069903,7,24.84
+1995,bairro_maputo,Guachene,MZ11069903,6,66.24
+1995,bairro_maputo,Guachene,MZ11069903,7,24.03
 1995,bairro_maputo,Incassane,MZ11069904,0,0.0
 1995,bairro_maputo,Incassane,MZ11069904,1,42.84
 1995,bairro_maputo,Incassane,MZ11069904,2,204.84
 1995,bairro_maputo,Incassane,MZ11069904,3,508.41
-1995,bairro_maputo,Incassane,MZ11069904,45,5565.42
-1995,bairro_maputo,Incassane,MZ11069904,6,458.91
+1995,bairro_maputo,Incassane,MZ11069904,45,5563.53
+1995,bairro_maputo,Incassane,MZ11069904,6,460.8
 1995,bairro_maputo,Incassane,MZ11069904,7,87.48
 1995,bairro_maputo,Inguide,MZ11069905,0,0.0
 1995,bairro_maputo,Inguide,MZ11069905,1,89.01
 1995,bairro_maputo,Inguide,MZ11069905,2,24.21
 1995,bairro_maputo,Inguide,MZ11069905,3,354.33
 1995,bairro_maputo,Inguide,MZ11069905,45,855.36
-1995,bairro_maputo,Inguide,MZ11069905,6,55.53
-1995,bairro_maputo,Inguide,MZ11069905,7,8.28
+1995,bairro_maputo,Inguide,MZ11069905,6,56.43
+1995,bairro_maputo,Inguide,MZ11069905,7,7.38
 1995,bairro_maputo,Inguane,MZ11079901,0,0.0
 1995,bairro_maputo,Inguane,MZ11079901,1,0.0
 1995,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -2887,16 +2887,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_matola,Malhampsene,MZ10010104,1,14.13
 1995,bairro_matola,Malhampsene,MZ10010104,2,87.84
 1995,bairro_matola,Malhampsene,MZ10010104,3,364.41
-1995,bairro_matola,Malhampsene,MZ10010104,45,152.19
-1995,bairro_matola,Malhampsene,MZ10010104,6,0.0
+1995,bairro_matola,Malhampsene,MZ10010104,45,152.01
+1995,bairro_matola,Malhampsene,MZ10010104,6,0.18
 1995,bairro_matola,Malhampsene,MZ10010104,7,0.0
 1995,bairro_matola,Matola A,MZ10010105,0,0.0
-1995,bairro_matola,Matola A,MZ10010105,1,1070.19
+1995,bairro_matola,Matola A,MZ10010105,1,1070.01
 1995,bairro_matola,Matola A,MZ10010105,2,145.26
 1995,bairro_matola,Matola A,MZ10010105,3,57.78
-1995,bairro_matola,Matola A,MZ10010105,45,674.1
-1995,bairro_matola,Matola A,MZ10010105,6,256.5
-1995,bairro_matola,Matola A,MZ10010105,7,11.34
+1995,bairro_matola,Matola A,MZ10010105,45,605.43
+1995,bairro_matola,Matola A,MZ10010105,6,325.71
+1995,bairro_matola,Matola A,MZ10010105,7,10.98
 1995,bairro_matola,Matola B,MZ10010106,0,0.0
 1995,bairro_matola,Matola B,MZ10010106,1,122.94
 1995,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -2908,15 +2908,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_matola,Matola C,MZ10010107,1,177.93
 1995,bairro_matola,Matola C,MZ10010107,2,47.88
 1995,bairro_matola,Matola C,MZ10010107,3,77.49
-1995,bairro_matola,Matola C,MZ10010107,45,108.63
-1995,bairro_matola,Matola C,MZ10010107,6,83.07
-1995,bairro_matola,Matola C,MZ10010107,7,3.06
+1995,bairro_matola,Matola C,MZ10010107,45,107.55
+1995,bairro_matola,Matola C,MZ10010107,6,84.24
+1995,bairro_matola,Matola C,MZ10010107,7,2.97
 1995,bairro_matola,Matola D,MZ10010108,0,0.0
 1995,bairro_matola,Matola D,MZ10010108,1,98.64
 1995,bairro_matola,Matola D,MZ10010108,2,20.16
 1995,bairro_matola,Matola D,MZ10010108,3,93.33
-1995,bairro_matola,Matola D,MZ10010108,45,88.11
-1995,bairro_matola,Matola D,MZ10010108,6,13.5
+1995,bairro_matola,Matola D,MZ10010108,45,88.02
+1995,bairro_matola,Matola D,MZ10010108,6,13.59
 1995,bairro_matola,Matola D,MZ10010108,7,0.9
 1995,bairro_matola,Matola F,MZ10010109,0,0.0
 1995,bairro_matola,Matola F,MZ10010109,1,149.4
@@ -3146,23 +3146,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_matola,Eduardo Mondlane,MZ10020101,1,2.07
 1995,bairro_matola,Eduardo Mondlane,MZ10020101,2,420.39
 1995,bairro_matola,Eduardo Mondlane,MZ10020101,3,186.39
-1995,bairro_matola,Eduardo Mondlane,MZ10020101,45,4719.15
-1995,bairro_matola,Eduardo Mondlane,MZ10020101,6,544.68
+1995,bairro_matola,Eduardo Mondlane,MZ10020101,45,4715.19
+1995,bairro_matola,Eduardo Mondlane,MZ10020101,6,548.64
 1995,bairro_matola,Eduardo Mondlane,MZ10020101,7,50.31
 1995,bairro_matola,Gueguegue,MZ10020102,0,0.0
 1995,bairro_matola,Gueguegue,MZ10020102,1,20.79
 1995,bairro_matola,Gueguegue,MZ10020102,2,31.5
 1995,bairro_matola,Gueguegue,MZ10020102,3,7.92
-1995,bairro_matola,Gueguegue,MZ10020102,45,368.91
-1995,bairro_matola,Gueguegue,MZ10020102,6,9.9
+1995,bairro_matola,Gueguegue,MZ10020102,45,368.73
+1995,bairro_matola,Gueguegue,MZ10020102,6,10.08
 1995,bairro_matola,Gueguegue,MZ10020102,7,0.54
 1995,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 1995,bairro_matola,Matola Rio-Sede,MZ10020201,1,546.21
 1995,bairro_matola,Matola Rio-Sede,MZ10020201,2,378.81
 1995,bairro_matola,Matola Rio-Sede,MZ10020201,3,1565.01
-1995,bairro_matola,Matola Rio-Sede,MZ10020201,45,3387.6
-1995,bairro_matola,Matola Rio-Sede,MZ10020201,6,498.06
-1995,bairro_matola,Matola Rio-Sede,MZ10020201,7,70.92
+1995,bairro_matola,Matola Rio-Sede,MZ10020201,45,3347.01
+1995,bairro_matola,Matola Rio-Sede,MZ10020201,6,546.03
+1995,bairro_matola,Matola Rio-Sede,MZ10020201,7,63.54
 1995,bairro_matola,Mulotana,MZ10020202,0,0.0
 1995,bairro_matola,Mulotana,MZ10020202,1,12.51
 1995,bairro_matola,Mulotana,MZ10020202,2,165.51
@@ -3174,16 +3174,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_matola,Marracuene-Sede,MZ10050101,1,2.88
 1995,bairro_matola,Marracuene-Sede,MZ10050101,2,974.7
 1995,bairro_matola,Marracuene-Sede,MZ10050101,3,742.95
-1995,bairro_matola,Marracuene-Sede,MZ10050101,45,2902.05
-1995,bairro_matola,Marracuene-Sede,MZ10050101,6,161.46
-1995,bairro_matola,Marracuene-Sede,MZ10050101,7,22.32
+1995,bairro_matola,Marracuene-Sede,MZ10050101,45,2899.8
+1995,bairro_matola,Marracuene-Sede,MZ10050101,6,164.88
+1995,bairro_matola,Marracuene-Sede,MZ10050101,7,21.15
 1995,bairro_matola,Macaneta,MZ10050102,0,0.0
 1995,bairro_matola,Macaneta,MZ10050102,1,5.4
 1995,bairro_matola,Macaneta,MZ10050102,2,152.28
 1995,bairro_matola,Macaneta,MZ10050102,3,160.74
-1995,bairro_matola,Macaneta,MZ10050102,45,2103.93
-1995,bairro_matola,Macaneta,MZ10050102,6,713.7
-1995,bairro_matola,Macaneta,MZ10050102,7,179.46
+1995,bairro_matola,Macaneta,MZ10050102,45,2096.64
+1995,bairro_matola,Macaneta,MZ10050102,6,723.87
+1995,bairro_matola,Macaneta,MZ10050102,7,176.58
 1995,bairro_matola,Michafutene,MZ10050104,0,0.0
 1995,bairro_matola,Michafutene,MZ10050104,1,367.29
 1995,bairro_matola,Michafutene,MZ10050104,2,533.16
@@ -3203,14 +3203,14 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1995,bairro_matola,M'Sime,MZ10060201,2,83.79
 1995,bairro_matola,M'Sime,MZ10060201,3,304.2
 1995,bairro_matola,M'Sime,MZ10060201,45,2661.93
-1995,bairro_matola,M'Sime,MZ10060201,6,140.4
-1995,bairro_matola,M'Sime,MZ10060201,7,40.5
+1995,bairro_matola,M'Sime,MZ10060201,6,140.58
+1995,bairro_matola,M'Sime,MZ10060201,7,40.32
 1995,bairro_matola,Mugazine,MZ10060202,0,0.0
 1995,bairro_matola,Mugazine,MZ10060202,1,32.85
 1995,bairro_matola,Mugazine,MZ10060202,2,16.83
 1995,bairro_matola,Mugazine,MZ10060202,3,81.81
-1995,bairro_matola,Mugazine,MZ10060202,45,1989.09
-1995,bairro_matola,Mugazine,MZ10060202,6,12.78
+1995,bairro_matola,Mugazine,MZ10060202,45,1988.91
+1995,bairro_matola,Mugazine,MZ10060202,6,12.96
 1995,bairro_matola,Mugazine,MZ10060202,7,7.56
 1995,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 1995,bairro_matola,Pessene-Sede,MZ10070201,1,92.79
@@ -3230,8 +3230,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Alto Mae B,MZ11019902,1,163.8
 1997,bairro_maputo,Alto Mae B,MZ11019902,2,0.18
 1997,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-1997,bairro_maputo,Alto Mae B,MZ11019902,45,12.33
-1997,bairro_maputo,Alto Mae B,MZ11019902,6,5.58
+1997,bairro_maputo,Alto Mae B,MZ11019902,45,12.24
+1997,bairro_maputo,Alto Mae B,MZ11019902,6,5.67
 1997,bairro_maputo,Alto Mae B,MZ11019902,7,1.35
 1997,bairro_maputo,Central A,MZ11019903,0,0.0
 1997,bairro_maputo,Central A,MZ11019903,1,56.07
@@ -3248,11 +3248,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Central B,MZ11019904,6,0.0
 1997,bairro_maputo,Central B,MZ11019904,7,0.0
 1997,bairro_maputo,Central C,MZ11019905,0,0.0
-1997,bairro_maputo,Central C,MZ11019905,1,160.83
+1997,bairro_maputo,Central C,MZ11019905,1,160.29
 1997,bairro_maputo,Central C,MZ11019905,2,8.01
 1997,bairro_maputo,Central C,MZ11019905,3,0.0
-1997,bairro_maputo,Central C,MZ11019905,45,29.07
-1997,bairro_maputo,Central C,MZ11019905,6,5.94
+1997,bairro_maputo,Central C,MZ11019905,45,28.98
+1997,bairro_maputo,Central C,MZ11019905,6,6.57
 1997,bairro_maputo,Central C,MZ11019905,7,0.27
 1997,bairro_maputo,Coop,MZ11019906,0,0.0
 1997,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -3279,8 +3279,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Polana Cimento A,MZ11019909,1,112.32
 1997,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 1997,bairro_maputo,Polana Cimento A,MZ11019909,3,0.18
-1997,bairro_maputo,Polana Cimento A,MZ11019909,45,21.15
-1997,bairro_maputo,Polana Cimento A,MZ11019909,6,1.71
+1997,bairro_maputo,Polana Cimento A,MZ11019909,45,21.06
+1997,bairro_maputo,Polana Cimento A,MZ11019909,6,1.8
 1997,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 1997,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 1997,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -3293,8 +3293,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Sommerschield,MZ11019911,1,268.74
 1997,bairro_maputo,Sommerschield,MZ11019911,2,24.12
 1997,bairro_maputo,Sommerschield,MZ11019911,3,3.24
-1997,bairro_maputo,Sommerschield,MZ11019911,45,57.96
-1997,bairro_maputo,Sommerschield,MZ11019911,6,5.58
+1997,bairro_maputo,Sommerschield,MZ11019911,45,57.33
+1997,bairro_maputo,Sommerschield,MZ11019911,6,6.21
 1997,bairro_maputo,Sommerschield,MZ11019911,7,8.82
 1997,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 1997,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
@@ -3447,16 +3447,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Albazine,MZ11049903,1,70.56
 1997,bairro_maputo,Albazine,MZ11049903,2,536.85
 1997,bairro_maputo,Albazine,MZ11049903,3,428.4
-1997,bairro_maputo,Albazine,MZ11049903,45,1527.48
-1997,bairro_maputo,Albazine,MZ11049903,6,38.61
+1997,bairro_maputo,Albazine,MZ11049903,45,1526.76
+1997,bairro_maputo,Albazine,MZ11049903,6,39.33
 1997,bairro_maputo,Albazine,MZ11049903,7,4.05
 1997,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 1997,bairro_maputo,Costa do Sol,MZ11049904,1,139.77
 1997,bairro_maputo,Costa do Sol,MZ11049904,2,268.65
 1997,bairro_maputo,Costa do Sol,MZ11049904,3,195.75
-1997,bairro_maputo,Costa do Sol,MZ11049904,45,1158.39
-1997,bairro_maputo,Costa do Sol,MZ11049904,6,140.13
-1997,bairro_maputo,Costa do Sol,MZ11049904,7,87.84
+1997,bairro_maputo,Costa do Sol,MZ11049904,45,1157.85
+1997,bairro_maputo,Costa do Sol,MZ11049904,6,148.05
+1997,bairro_maputo,Costa do Sol,MZ11049904,7,80.46
 1997,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 1997,bairro_maputo,Ferroviario,MZ11049905,1,306.99
 1997,bairro_maputo,Ferroviario,MZ11049905,2,89.28
@@ -3566,9 +3566,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Luis Cabral,MZ11059908,1,374.04
 1997,bairro_maputo,Luis Cabral,MZ11059908,2,25.92
 1997,bairro_maputo,Luis Cabral,MZ11059908,3,2.88
-1997,bairro_maputo,Luis Cabral,MZ11059908,45,112.68
-1997,bairro_maputo,Luis Cabral,MZ11059908,6,16.29
-1997,bairro_maputo,Luis Cabral,MZ11059908,7,2.88
+1997,bairro_maputo,Luis Cabral,MZ11059908,45,112.32
+1997,bairro_maputo,Luis Cabral,MZ11059908,6,16.83
+1997,bairro_maputo,Luis Cabral,MZ11059908,7,2.7
 1997,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 1997,bairro_maputo,Magoanine A,MZ11059909,1,232.29
 1997,bairro_maputo,Magoanine A,MZ11059909,2,113.67
@@ -3636,9 +3636,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_maputo,Incassane,MZ11069904,1,43.02
 1997,bairro_maputo,Incassane,MZ11069904,2,274.68
 1997,bairro_maputo,Incassane,MZ11069904,3,360.45
-1997,bairro_maputo,Incassane,MZ11069904,45,5684.58
-1997,bairro_maputo,Incassane,MZ11069904,6,444.24
-1997,bairro_maputo,Incassane,MZ11069904,7,60.93
+1997,bairro_maputo,Incassane,MZ11069904,45,5679.27
+1997,bairro_maputo,Incassane,MZ11069904,6,449.73
+1997,bairro_maputo,Incassane,MZ11069904,7,60.75
 1997,bairro_maputo,Inguide,MZ11069905,0,0.0
 1997,bairro_maputo,Inguide,MZ11069905,1,92.34
 1997,bairro_maputo,Inguide,MZ11069905,2,25.29
@@ -3692,16 +3692,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_matola,Malhampsene,MZ10010104,1,14.67
 1997,bairro_matola,Malhampsene,MZ10010104,2,98.55
 1997,bairro_matola,Malhampsene,MZ10010104,3,86.04
-1997,bairro_matola,Malhampsene,MZ10010104,45,419.31
-1997,bairro_matola,Malhampsene,MZ10010104,6,0.0
+1997,bairro_matola,Malhampsene,MZ10010104,45,419.13
+1997,bairro_matola,Malhampsene,MZ10010104,6,0.18
 1997,bairro_matola,Malhampsene,MZ10010104,7,0.0
 1997,bairro_matola,Matola A,MZ10010105,0,0.0
-1997,bairro_matola,Matola A,MZ10010105,1,1077.48
+1997,bairro_matola,Matola A,MZ10010105,1,1077.3
 1997,bairro_matola,Matola A,MZ10010105,2,151.02
 1997,bairro_matola,Matola A,MZ10010105,3,20.34
-1997,bairro_matola,Matola A,MZ10010105,45,648.9
-1997,bairro_matola,Matola A,MZ10010105,6,278.01
-1997,bairro_matola,Matola A,MZ10010105,7,39.42
+1997,bairro_matola,Matola A,MZ10010105,45,613.53
+1997,bairro_matola,Matola A,MZ10010105,6,325.8
+1997,bairro_matola,Matola A,MZ10010105,7,27.18
 1997,bairro_matola,Matola B,MZ10010106,0,0.0
 1997,bairro_matola,Matola B,MZ10010106,1,122.94
 1997,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -3713,15 +3713,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_matola,Matola C,MZ10010107,1,185.49
 1997,bairro_matola,Matola C,MZ10010107,2,55.53
 1997,bairro_matola,Matola C,MZ10010107,3,45.09
-1997,bairro_matola,Matola C,MZ10010107,45,131.76
-1997,bairro_matola,Matola C,MZ10010107,6,77.04
-1997,bairro_matola,Matola C,MZ10010107,7,3.15
+1997,bairro_matola,Matola C,MZ10010107,45,130.5
+1997,bairro_matola,Matola C,MZ10010107,6,78.66
+1997,bairro_matola,Matola C,MZ10010107,7,2.79
 1997,bairro_matola,Matola D,MZ10010108,0,0.0
 1997,bairro_matola,Matola D,MZ10010108,1,101.79
 1997,bairro_matola,Matola D,MZ10010108,2,23.13
 1997,bairro_matola,Matola D,MZ10010108,3,32.49
-1997,bairro_matola,Matola D,MZ10010108,45,143.28
-1997,bairro_matola,Matola D,MZ10010108,6,13.05
+1997,bairro_matola,Matola D,MZ10010108,45,142.92
+1997,bairro_matola,Matola D,MZ10010108,6,13.41
 1997,bairro_matola,Matola D,MZ10010108,7,0.9
 1997,bairro_matola,Matola F,MZ10010109,0,0.0
 1997,bairro_matola,Matola F,MZ10010109,1,150.21
@@ -3951,23 +3951,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_matola,Eduardo Mondlane,MZ10020101,1,2.07
 1997,bairro_matola,Eduardo Mondlane,MZ10020101,2,446.67
 1997,bairro_matola,Eduardo Mondlane,MZ10020101,3,155.52
-1997,bairro_matola,Eduardo Mondlane,MZ10020101,45,4773.78
-1997,bairro_matola,Eduardo Mondlane,MZ10020101,6,495.81
-1997,bairro_matola,Eduardo Mondlane,MZ10020101,7,49.14
+1997,bairro_matola,Eduardo Mondlane,MZ10020101,45,4761.63
+1997,bairro_matola,Eduardo Mondlane,MZ10020101,6,515.88
+1997,bairro_matola,Eduardo Mondlane,MZ10020101,7,41.22
 1997,bairro_matola,Gueguegue,MZ10020102,0,0.0
 1997,bairro_matola,Gueguegue,MZ10020102,1,23.94
 1997,bairro_matola,Gueguegue,MZ10020102,2,30.78
 1997,bairro_matola,Gueguegue,MZ10020102,3,10.53
-1997,bairro_matola,Gueguegue,MZ10020102,45,363.69
-1997,bairro_matola,Gueguegue,MZ10020102,6,7.74
-1997,bairro_matola,Gueguegue,MZ10020102,7,2.88
+1997,bairro_matola,Gueguegue,MZ10020102,45,363.51
+1997,bairro_matola,Gueguegue,MZ10020102,6,8.28
+1997,bairro_matola,Gueguegue,MZ10020102,7,2.52
 1997,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 1997,bairro_matola,Matola Rio-Sede,MZ10020201,1,563.31
 1997,bairro_matola,Matola Rio-Sede,MZ10020201,2,379.53
 1997,bairro_matola,Matola Rio-Sede,MZ10020201,3,544.32
-1997,bairro_matola,Matola Rio-Sede,MZ10020201,45,4398.57
-1997,bairro_matola,Matola Rio-Sede,MZ10020201,6,480.33
-1997,bairro_matola,Matola Rio-Sede,MZ10020201,7,80.55
+1997,bairro_matola,Matola Rio-Sede,MZ10020201,45,4358.7
+1997,bairro_matola,Matola Rio-Sede,MZ10020201,6,525.87
+1997,bairro_matola,Matola Rio-Sede,MZ10020201,7,74.88
 1997,bairro_matola,Mulotana,MZ10020202,0,0.0
 1997,bairro_matola,Mulotana,MZ10020202,1,15.3
 1997,bairro_matola,Mulotana,MZ10020202,2,220.23
@@ -3979,16 +3979,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_matola,Marracuene-Sede,MZ10050101,1,22.14
 1997,bairro_matola,Marracuene-Sede,MZ10050101,2,819.45
 1997,bairro_matola,Marracuene-Sede,MZ10050101,3,626.49
-1997,bairro_matola,Marracuene-Sede,MZ10050101,45,3176.55
-1997,bairro_matola,Marracuene-Sede,MZ10050101,6,155.07
-1997,bairro_matola,Marracuene-Sede,MZ10050101,7,6.66
+1997,bairro_matola,Marracuene-Sede,MZ10050101,45,3173.76
+1997,bairro_matola,Marracuene-Sede,MZ10050101,6,158.58
+1997,bairro_matola,Marracuene-Sede,MZ10050101,7,5.94
 1997,bairro_matola,Macaneta,MZ10050102,0,0.0
 1997,bairro_matola,Macaneta,MZ10050102,1,10.8
 1997,bairro_matola,Macaneta,MZ10050102,2,108.54
 1997,bairro_matola,Macaneta,MZ10050102,3,158.85
-1997,bairro_matola,Macaneta,MZ10050102,45,2176.02
-1997,bairro_matola,Macaneta,MZ10050102,6,712.17
-1997,bairro_matola,Macaneta,MZ10050102,7,149.13
+1997,bairro_matola,Macaneta,MZ10050102,45,2166.39
+1997,bairro_matola,Macaneta,MZ10050102,6,722.52
+1997,bairro_matola,Macaneta,MZ10050102,7,148.41
 1997,bairro_matola,Michafutene,MZ10050104,0,0.0
 1997,bairro_matola,Michafutene,MZ10050104,1,412.56
 1997,bairro_matola,Michafutene,MZ10050104,2,515.07
@@ -4007,16 +4007,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 1997,bairro_matola,M'Sime,MZ10060201,1,14.49
 1997,bairro_matola,M'Sime,MZ10060201,2,106.56
 1997,bairro_matola,M'Sime,MZ10060201,3,86.49
-1997,bairro_matola,M'Sime,MZ10060201,45,2860.65
-1997,bairro_matola,M'Sime,MZ10060201,6,140.58
-1997,bairro_matola,M'Sime,MZ10060201,7,36.0
+1997,bairro_matola,M'Sime,MZ10060201,45,2860.38
+1997,bairro_matola,M'Sime,MZ10060201,6,141.75
+1997,bairro_matola,M'Sime,MZ10060201,7,35.1
 1997,bairro_matola,Mugazine,MZ10060202,0,0.0
 1997,bairro_matola,Mugazine,MZ10060202,1,32.85
 1997,bairro_matola,Mugazine,MZ10060202,2,22.23
 1997,bairro_matola,Mugazine,MZ10060202,3,16.11
-1997,bairro_matola,Mugazine,MZ10060202,45,2056.86
-1997,bairro_matola,Mugazine,MZ10060202,6,11.52
-1997,bairro_matola,Mugazine,MZ10060202,7,1.35
+1997,bairro_matola,Mugazine,MZ10060202,45,2056.68
+1997,bairro_matola,Mugazine,MZ10060202,6,12.15
+1997,bairro_matola,Mugazine,MZ10060202,7,0.9
 1997,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 1997,bairro_matola,Pessene-Sede,MZ10070201,1,101.88
 1997,bairro_matola,Pessene-Sede,MZ10070201,2,8.28
@@ -4032,12 +4032,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2000,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2000,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2000,bairro_maputo,Alto Mae B,MZ11019902,1,164.88
+2000,bairro_maputo,Alto Mae B,MZ11019902,1,164.7
 2000,bairro_maputo,Alto Mae B,MZ11019902,2,0.09
 2000,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2000,bairro_maputo,Alto Mae B,MZ11019902,45,14.4
-2000,bairro_maputo,Alto Mae B,MZ11019902,6,3.6
-2000,bairro_maputo,Alto Mae B,MZ11019902,7,0.27
+2000,bairro_maputo,Alto Mae B,MZ11019902,45,14.22
+2000,bairro_maputo,Alto Mae B,MZ11019902,6,4.05
+2000,bairro_maputo,Alto Mae B,MZ11019902,7,0.18
 2000,bairro_maputo,Central A,MZ11019903,0,0.0
 2000,bairro_maputo,Central A,MZ11019903,1,56.16
 2000,bairro_maputo,Central A,MZ11019903,2,0.0
@@ -4053,12 +4053,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Central B,MZ11019904,6,0.0
 2000,bairro_maputo,Central B,MZ11019904,7,0.0
 2000,bairro_maputo,Central C,MZ11019905,0,0.0
-2000,bairro_maputo,Central C,MZ11019905,1,165.51
+2000,bairro_maputo,Central C,MZ11019905,1,164.97
 2000,bairro_maputo,Central C,MZ11019905,2,5.58
 2000,bairro_maputo,Central C,MZ11019905,3,0.0
-2000,bairro_maputo,Central C,MZ11019905,45,28.17
-2000,bairro_maputo,Central C,MZ11019905,6,4.77
-2000,bairro_maputo,Central C,MZ11019905,7,0.09
+2000,bairro_maputo,Central C,MZ11019905,45,27.63
+2000,bairro_maputo,Central C,MZ11019905,6,5.94
+2000,bairro_maputo,Central C,MZ11019905,7,0.0
 2000,bairro_maputo,Coop,MZ11019906,0,0.0
 2000,bairro_maputo,Coop,MZ11019906,1,66.33
 2000,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -4081,11 +4081,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2000,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2000,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2000,bairro_maputo,Polana Cimento A,MZ11019909,1,115.65
+2000,bairro_maputo,Polana Cimento A,MZ11019909,1,115.38
 2000,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2000,bairro_maputo,Polana Cimento A,MZ11019909,3,2.25
 2000,bairro_maputo,Polana Cimento A,MZ11019909,45,16.2
-2000,bairro_maputo,Polana Cimento A,MZ11019909,6,1.08
+2000,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
 2000,bairro_maputo,Polana Cimento A,MZ11019909,7,0.18
 2000,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2000,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -4098,9 +4098,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Sommerschield,MZ11019911,1,287.19
 2000,bairro_maputo,Sommerschield,MZ11019911,2,17.1
 2000,bairro_maputo,Sommerschield,MZ11019911,3,5.58
-2000,bairro_maputo,Sommerschield,MZ11019911,45,43.11
-2000,bairro_maputo,Sommerschield,MZ11019911,6,5.49
-2000,bairro_maputo,Sommerschield,MZ11019911,7,9.99
+2000,bairro_maputo,Sommerschield,MZ11019911,45,42.84
+2000,bairro_maputo,Sommerschield,MZ11019911,6,6.03
+2000,bairro_maputo,Sommerschield,MZ11019911,7,9.72
 2000,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2000,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 2000,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -4252,16 +4252,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Albazine,MZ11049903,1,230.04
 2000,bairro_maputo,Albazine,MZ11049903,2,348.84
 2000,bairro_maputo,Albazine,MZ11049903,3,280.89
-2000,bairro_maputo,Albazine,MZ11049903,45,1696.5
-2000,bairro_maputo,Albazine,MZ11049903,6,42.12
-2000,bairro_maputo,Albazine,MZ11049903,7,7.56
+2000,bairro_maputo,Albazine,MZ11049903,45,1694.97
+2000,bairro_maputo,Albazine,MZ11049903,6,43.83
+2000,bairro_maputo,Albazine,MZ11049903,7,7.38
 2000,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2000,bairro_maputo,Costa do Sol,MZ11049904,1,161.19
 2000,bairro_maputo,Costa do Sol,MZ11049904,2,194.85
 2000,bairro_maputo,Costa do Sol,MZ11049904,3,48.6
-2000,bairro_maputo,Costa do Sol,MZ11049904,45,1370.79
-2000,bairro_maputo,Costa do Sol,MZ11049904,6,134.19
-2000,bairro_maputo,Costa do Sol,MZ11049904,7,80.91
+2000,bairro_maputo,Costa do Sol,MZ11049904,45,1370.07
+2000,bairro_maputo,Costa do Sol,MZ11049904,6,141.57
+2000,bairro_maputo,Costa do Sol,MZ11049904,7,74.25
 2000,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2000,bairro_maputo,Ferroviario,MZ11049905,1,320.58
 2000,bairro_maputo,Ferroviario,MZ11049905,2,72.99
@@ -4371,9 +4371,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Luis Cabral,MZ11059908,1,380.52
 2000,bairro_maputo,Luis Cabral,MZ11059908,2,14.67
 2000,bairro_maputo,Luis Cabral,MZ11059908,3,2.34
-2000,bairro_maputo,Luis Cabral,MZ11059908,45,118.62
-2000,bairro_maputo,Luis Cabral,MZ11059908,6,15.12
-2000,bairro_maputo,Luis Cabral,MZ11059908,7,3.42
+2000,bairro_maputo,Luis Cabral,MZ11059908,45,118.44
+2000,bairro_maputo,Luis Cabral,MZ11059908,6,15.48
+2000,bairro_maputo,Luis Cabral,MZ11059908,7,3.24
 2000,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2000,bairro_maputo,Magoanine A,MZ11059909,1,355.05
 2000,bairro_maputo,Magoanine A,MZ11059909,2,23.85
@@ -4421,8 +4421,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Chali,MZ11069901,2,50.49
 2000,bairro_maputo,Chali,MZ11069901,3,61.38
 2000,bairro_maputo,Chali,MZ11069901,45,1120.32
-2000,bairro_maputo,Chali,MZ11069901,6,53.91
-2000,bairro_maputo,Chali,MZ11069901,7,15.93
+2000,bairro_maputo,Chali,MZ11069901,6,54.81
+2000,bairro_maputo,Chali,MZ11069901,7,15.03
 2000,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2000,bairro_maputo,Chamissava,MZ11069902,1,35.37
 2000,bairro_maputo,Chamissava,MZ11069902,2,136.89
@@ -4434,23 +4434,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_maputo,Guachene,MZ11069903,1,40.41
 2000,bairro_maputo,Guachene,MZ11069903,2,0.0
 2000,bairro_maputo,Guachene,MZ11069903,3,0.0
-2000,bairro_maputo,Guachene,MZ11069903,45,235.26
-2000,bairro_maputo,Guachene,MZ11069903,6,60.12
-2000,bairro_maputo,Guachene,MZ11069903,7,21.78
+2000,bairro_maputo,Guachene,MZ11069903,45,234.99
+2000,bairro_maputo,Guachene,MZ11069903,6,61.29
+2000,bairro_maputo,Guachene,MZ11069903,7,20.88
 2000,bairro_maputo,Incassane,MZ11069904,0,0.0
 2000,bairro_maputo,Incassane,MZ11069904,1,48.15
 2000,bairro_maputo,Incassane,MZ11069904,2,128.16
 2000,bairro_maputo,Incassane,MZ11069904,3,86.4
-2000,bairro_maputo,Incassane,MZ11069904,45,6052.23
-2000,bairro_maputo,Incassane,MZ11069904,6,429.48
+2000,bairro_maputo,Incassane,MZ11069904,45,6042.78
+2000,bairro_maputo,Incassane,MZ11069904,6,438.93
 2000,bairro_maputo,Incassane,MZ11069904,7,123.48
 2000,bairro_maputo,Inguide,MZ11069905,0,0.0
 2000,bairro_maputo,Inguide,MZ11069905,1,129.15
 2000,bairro_maputo,Inguide,MZ11069905,2,17.64
 2000,bairro_maputo,Inguide,MZ11069905,3,142.74
 2000,bairro_maputo,Inguide,MZ11069905,45,1035.18
-2000,bairro_maputo,Inguide,MZ11069905,6,52.38
-2000,bairro_maputo,Inguide,MZ11069905,7,9.63
+2000,bairro_maputo,Inguide,MZ11069905,6,53.01
+2000,bairro_maputo,Inguide,MZ11069905,7,9.0
 2000,bairro_maputo,Inguane,MZ11079901,0,0.0
 2000,bairro_maputo,Inguane,MZ11079901,1,0.0
 2000,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -4501,12 +4501,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,Malhampsene,MZ10010104,6,0.9
 2000,bairro_matola,Malhampsene,MZ10010104,7,0.72
 2000,bairro_matola,Matola A,MZ10010105,0,0.0
-2000,bairro_matola,Matola A,MZ10010105,1,1137.42
+2000,bairro_matola,Matola A,MZ10010105,1,1137.24
 2000,bairro_matola,Matola A,MZ10010105,2,85.77
 2000,bairro_matola,Matola A,MZ10010105,3,13.68
-2000,bairro_matola,Matola A,MZ10010105,45,665.37
-2000,bairro_matola,Matola A,MZ10010105,6,291.51
-2000,bairro_matola,Matola A,MZ10010105,7,21.42
+2000,bairro_matola,Matola A,MZ10010105,45,618.12
+2000,bairro_matola,Matola A,MZ10010105,6,342.45
+2000,bairro_matola,Matola A,MZ10010105,7,17.91
 2000,bairro_matola,Matola B,MZ10010106,0,0.0
 2000,bairro_matola,Matola B,MZ10010106,1,127.08
 2000,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -4518,15 +4518,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,Matola C,MZ10010107,1,212.85
 2000,bairro_matola,Matola C,MZ10010107,2,42.21
 2000,bairro_matola,Matola C,MZ10010107,3,24.21
-2000,bairro_matola,Matola C,MZ10010107,45,139.41
-2000,bairro_matola,Matola C,MZ10010107,6,69.84
-2000,bairro_matola,Matola C,MZ10010107,7,9.54
+2000,bairro_matola,Matola C,MZ10010107,45,137.34
+2000,bairro_matola,Matola C,MZ10010107,6,73.17
+2000,bairro_matola,Matola C,MZ10010107,7,8.28
 2000,bairro_matola,Matola D,MZ10010108,0,0.0
 2000,bairro_matola,Matola D,MZ10010108,1,118.98
 2000,bairro_matola,Matola D,MZ10010108,2,18.27
 2000,bairro_matola,Matola D,MZ10010108,3,50.49
-2000,bairro_matola,Matola D,MZ10010108,45,115.29
-2000,bairro_matola,Matola D,MZ10010108,6,11.43
+2000,bairro_matola,Matola D,MZ10010108,45,114.21
+2000,bairro_matola,Matola D,MZ10010108,6,12.51
 2000,bairro_matola,Matola D,MZ10010108,7,0.18
 2000,bairro_matola,Matola F,MZ10010109,0,0.0
 2000,bairro_matola,Matola F,MZ10010109,1,155.25
@@ -4553,15 +4553,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,Matola J,MZ10010112,1,85.59
 2000,bairro_matola,Matola J,MZ10010112,2,10.26
 2000,bairro_matola,Matola J,MZ10010112,3,12.24
-2000,bairro_matola,Matola J,MZ10010112,45,24.75
-2000,bairro_matola,Matola J,MZ10010112,6,0.63
+2000,bairro_matola,Matola J,MZ10010112,45,24.66
+2000,bairro_matola,Matola J,MZ10010112,6,0.72
 2000,bairro_matola,Matola J,MZ10010112,7,0.0
 2000,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2000,bairro_matola,Mussumbuluco,MZ10010113,1,232.29
 2000,bairro_matola,Mussumbuluco,MZ10010113,2,6.66
 2000,bairro_matola,Mussumbuluco,MZ10010113,3,64.08
-2000,bairro_matola,Mussumbuluco,MZ10010113,45,217.71
-2000,bairro_matola,Mussumbuluco,MZ10010113,6,3.51
+2000,bairro_matola,Mussumbuluco,MZ10010113,45,217.62
+2000,bairro_matola,Mussumbuluco,MZ10010113,6,3.6
 2000,bairro_matola,Mussumbuluco,MZ10010113,7,12.24
 2000,bairro_matola,Infulene D,MZ10010201,0,0.0
 2000,bairro_matola,Infulene D,MZ10010201,1,161.73
@@ -4756,23 +4756,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,Eduardo Mondlane,MZ10020101,1,2.34
 2000,bairro_matola,Eduardo Mondlane,MZ10020101,2,210.15
 2000,bairro_matola,Eduardo Mondlane,MZ10020101,3,190.53
-2000,bairro_matola,Eduardo Mondlane,MZ10020101,45,4983.66
-2000,bairro_matola,Eduardo Mondlane,MZ10020101,6,499.41
-2000,bairro_matola,Eduardo Mondlane,MZ10020101,7,36.9
+2000,bairro_matola,Eduardo Mondlane,MZ10020101,45,4972.32
+2000,bairro_matola,Eduardo Mondlane,MZ10020101,6,512.19
+2000,bairro_matola,Eduardo Mondlane,MZ10020101,7,35.46
 2000,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2000,bairro_matola,Gueguegue,MZ10020102,1,38.79
 2000,bairro_matola,Gueguegue,MZ10020102,2,17.1
 2000,bairro_matola,Gueguegue,MZ10020102,3,35.91
-2000,bairro_matola,Gueguegue,MZ10020102,45,336.6
-2000,bairro_matola,Gueguegue,MZ10020102,6,9.9
+2000,bairro_matola,Gueguegue,MZ10020102,45,336.24
+2000,bairro_matola,Gueguegue,MZ10020102,6,10.26
 2000,bairro_matola,Gueguegue,MZ10020102,7,1.26
 2000,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2000,bairro_matola,Matola Rio-Sede,MZ10020201,1,874.8
 2000,bairro_matola,Matola Rio-Sede,MZ10020201,2,244.98
 2000,bairro_matola,Matola Rio-Sede,MZ10020201,3,593.37
-2000,bairro_matola,Matola Rio-Sede,MZ10020201,45,4158.18
-2000,bairro_matola,Matola Rio-Sede,MZ10020201,6,513.9
-2000,bairro_matola,Matola Rio-Sede,MZ10020201,7,61.38
+2000,bairro_matola,Matola Rio-Sede,MZ10020201,45,4140.63
+2000,bairro_matola,Matola Rio-Sede,MZ10020201,6,533.16
+2000,bairro_matola,Matola Rio-Sede,MZ10020201,7,59.67
 2000,bairro_matola,Mulotana,MZ10020202,0,0.0
 2000,bairro_matola,Mulotana,MZ10020202,1,38.52
 2000,bairro_matola,Mulotana,MZ10020202,2,171.36
@@ -4784,16 +4784,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,Marracuene-Sede,MZ10050101,1,68.04
 2000,bairro_matola,Marracuene-Sede,MZ10050101,2,571.77
 2000,bairro_matola,Marracuene-Sede,MZ10050101,3,312.03
-2000,bairro_matola,Marracuene-Sede,MZ10050101,45,3711.6
-2000,bairro_matola,Marracuene-Sede,MZ10050101,6,136.35
-2000,bairro_matola,Marracuene-Sede,MZ10050101,7,6.57
+2000,bairro_matola,Marracuene-Sede,MZ10050101,45,3703.68
+2000,bairro_matola,Marracuene-Sede,MZ10050101,6,144.54
+2000,bairro_matola,Marracuene-Sede,MZ10050101,7,6.3
 2000,bairro_matola,Macaneta,MZ10050102,0,0.0
 2000,bairro_matola,Macaneta,MZ10050102,1,14.58
 2000,bairro_matola,Macaneta,MZ10050102,2,66.51
 2000,bairro_matola,Macaneta,MZ10050102,3,55.62
-2000,bairro_matola,Macaneta,MZ10050102,45,2334.06
-2000,bairro_matola,Macaneta,MZ10050102,6,670.77
-2000,bairro_matola,Macaneta,MZ10050102,7,173.97
+2000,bairro_matola,Macaneta,MZ10050102,45,2314.44
+2000,bairro_matola,Macaneta,MZ10050102,6,697.68
+2000,bairro_matola,Macaneta,MZ10050102,7,166.68
 2000,bairro_matola,Michafutene,MZ10050104,0,0.0
 2000,bairro_matola,Michafutene,MZ10050104,1,608.67
 2000,bairro_matola,Michafutene,MZ10050104,2,328.32
@@ -4813,15 +4813,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2000,bairro_matola,M'Sime,MZ10060201,2,40.77
 2000,bairro_matola,M'Sime,MZ10060201,3,147.42
 2000,bairro_matola,M'Sime,MZ10060201,45,2860.74
-2000,bairro_matola,M'Sime,MZ10060201,6,136.53
-2000,bairro_matola,M'Sime,MZ10060201,7,43.65
+2000,bairro_matola,M'Sime,MZ10060201,6,138.33
+2000,bairro_matola,M'Sime,MZ10060201,7,41.85
 2000,bairro_matola,Mugazine,MZ10060202,0,0.0
 2000,bairro_matola,Mugazine,MZ10060202,1,33.12
 2000,bairro_matola,Mugazine,MZ10060202,2,5.13
 2000,bairro_matola,Mugazine,MZ10060202,3,2.79
-2000,bairro_matola,Mugazine,MZ10060202,45,2087.55
-2000,bairro_matola,Mugazine,MZ10060202,6,11.07
-2000,bairro_matola,Mugazine,MZ10060202,7,1.26
+2000,bairro_matola,Mugazine,MZ10060202,45,2086.56
+2000,bairro_matola,Mugazine,MZ10060202,6,12.15
+2000,bairro_matola,Mugazine,MZ10060202,7,1.17
 2000,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2000,bairro_matola,Pessene-Sede,MZ10070201,1,106.83
 2000,bairro_matola,Pessene-Sede,MZ10070201,2,11.43
@@ -4837,12 +4837,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2005,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2005,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2005,bairro_maputo,Alto Mae B,MZ11019902,1,165.15
+2005,bairro_maputo,Alto Mae B,MZ11019902,1,164.97
 2005,bairro_maputo,Alto Mae B,MZ11019902,2,0.09
 2005,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
 2005,bairro_maputo,Alto Mae B,MZ11019902,45,12.51
-2005,bairro_maputo,Alto Mae B,MZ11019902,6,3.6
-2005,bairro_maputo,Alto Mae B,MZ11019902,7,1.89
+2005,bairro_maputo,Alto Mae B,MZ11019902,6,3.96
+2005,bairro_maputo,Alto Mae B,MZ11019902,7,1.71
 2005,bairro_maputo,Central A,MZ11019903,0,0.0
 2005,bairro_maputo,Central A,MZ11019903,1,56.52
 2005,bairro_maputo,Central A,MZ11019903,2,0.0
@@ -4858,11 +4858,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Central B,MZ11019904,6,0.0
 2005,bairro_maputo,Central B,MZ11019904,7,0.0
 2005,bairro_maputo,Central C,MZ11019905,0,0.0
-2005,bairro_maputo,Central C,MZ11019905,1,169.47
+2005,bairro_maputo,Central C,MZ11019905,1,168.84
 2005,bairro_maputo,Central C,MZ11019905,2,5.58
 2005,bairro_maputo,Central C,MZ11019905,3,1.08
 2005,bairro_maputo,Central C,MZ11019905,45,21.96
-2005,bairro_maputo,Central C,MZ11019905,6,5.58
+2005,bairro_maputo,Central C,MZ11019905,6,6.21
 2005,bairro_maputo,Central C,MZ11019905,7,0.45
 2005,bairro_maputo,Coop,MZ11019906,0,0.0
 2005,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -4886,11 +4886,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2005,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2005,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2005,bairro_maputo,Polana Cimento A,MZ11019909,1,117.09
+2005,bairro_maputo,Polana Cimento A,MZ11019909,1,116.82
 2005,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2005,bairro_maputo,Polana Cimento A,MZ11019909,3,12.33
 2005,bairro_maputo,Polana Cimento A,MZ11019909,45,4.68
-2005,bairro_maputo,Polana Cimento A,MZ11019909,6,1.26
+2005,bairro_maputo,Polana Cimento A,MZ11019909,6,1.53
 2005,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2005,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2005,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -4903,9 +4903,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Sommerschield,MZ11019911,1,300.69
 2005,bairro_maputo,Sommerschield,MZ11019911,2,12.69
 2005,bairro_maputo,Sommerschield,MZ11019911,3,9.09
-2005,bairro_maputo,Sommerschield,MZ11019911,45,30.87
-2005,bairro_maputo,Sommerschield,MZ11019911,6,5.04
-2005,bairro_maputo,Sommerschield,MZ11019911,7,10.08
+2005,bairro_maputo,Sommerschield,MZ11019911,45,30.6
+2005,bairro_maputo,Sommerschield,MZ11019911,6,6.03
+2005,bairro_maputo,Sommerschield,MZ11019911,7,9.36
 2005,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2005,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 2005,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -5057,16 +5057,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Albazine,MZ11049903,1,351.99
 2005,bairro_maputo,Albazine,MZ11049903,2,340.11
 2005,bairro_maputo,Albazine,MZ11049903,3,292.41
-2005,bairro_maputo,Albazine,MZ11049903,45,1560.42
-2005,bairro_maputo,Albazine,MZ11049903,6,32.22
+2005,bairro_maputo,Albazine,MZ11049903,45,1559.61
+2005,bairro_maputo,Albazine,MZ11049903,6,33.03
 2005,bairro_maputo,Albazine,MZ11049903,7,28.8
 2005,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2005,bairro_maputo,Costa do Sol,MZ11049904,1,179.28
 2005,bairro_maputo,Costa do Sol,MZ11049904,2,164.07
 2005,bairro_maputo,Costa do Sol,MZ11049904,3,57.87
-2005,bairro_maputo,Costa do Sol,MZ11049904,45,1352.16
-2005,bairro_maputo,Costa do Sol,MZ11049904,6,112.59
-2005,bairro_maputo,Costa do Sol,MZ11049904,7,124.56
+2005,bairro_maputo,Costa do Sol,MZ11049904,45,1351.98
+2005,bairro_maputo,Costa do Sol,MZ11049904,6,124.11
+2005,bairro_maputo,Costa do Sol,MZ11049904,7,113.22
 2005,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2005,bairro_maputo,Ferroviario,MZ11049905,1,341.73
 2005,bairro_maputo,Ferroviario,MZ11049905,2,69.57
@@ -5176,8 +5176,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Luis Cabral,MZ11059908,1,395.91
 2005,bairro_maputo,Luis Cabral,MZ11059908,2,14.31
 2005,bairro_maputo,Luis Cabral,MZ11059908,3,4.59
-2005,bairro_maputo,Luis Cabral,MZ11059908,45,102.51
-2005,bairro_maputo,Luis Cabral,MZ11059908,6,14.67
+2005,bairro_maputo,Luis Cabral,MZ11059908,45,102.42
+2005,bairro_maputo,Luis Cabral,MZ11059908,6,14.76
 2005,bairro_maputo,Luis Cabral,MZ11059908,7,2.7
 2005,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2005,bairro_maputo,Magoanine A,MZ11059909,1,432.0
@@ -5226,8 +5226,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Chali,MZ11069901,2,66.24
 2005,bairro_maputo,Chali,MZ11069901,3,379.53
 2005,bairro_maputo,Chali,MZ11069901,45,791.46
-2005,bairro_maputo,Chali,MZ11069901,6,41.58
-2005,bairro_maputo,Chali,MZ11069901,7,19.53
+2005,bairro_maputo,Chali,MZ11069901,6,41.85
+2005,bairro_maputo,Chali,MZ11069901,7,19.26
 2005,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2005,bairro_maputo,Chamissava,MZ11069902,1,61.65
 2005,bairro_maputo,Chamissava,MZ11069902,2,152.37
@@ -5246,16 +5246,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_maputo,Incassane,MZ11069904,1,55.89
 2005,bairro_maputo,Incassane,MZ11069904,2,102.33
 2005,bairro_maputo,Incassane,MZ11069904,3,83.7
-2005,bairro_maputo,Incassane,MZ11069904,45,6100.65
-2005,bairro_maputo,Incassane,MZ11069904,6,434.07
+2005,bairro_maputo,Incassane,MZ11069904,45,6095.88
+2005,bairro_maputo,Incassane,MZ11069904,6,438.84
 2005,bairro_maputo,Incassane,MZ11069904,7,91.26
 2005,bairro_maputo,Inguide,MZ11069905,0,0.0
 2005,bairro_maputo,Inguide,MZ11069905,1,140.58
 2005,bairro_maputo,Inguide,MZ11069905,2,11.97
 2005,bairro_maputo,Inguide,MZ11069905,3,407.7
-2005,bairro_maputo,Inguide,MZ11069905,45,764.28
-2005,bairro_maputo,Inguide,MZ11069905,6,52.38
-2005,bairro_maputo,Inguide,MZ11069905,7,9.81
+2005,bairro_maputo,Inguide,MZ11069905,45,764.1
+2005,bairro_maputo,Inguide,MZ11069905,6,52.65
+2005,bairro_maputo,Inguide,MZ11069905,7,9.72
 2005,bairro_maputo,Inguane,MZ11079901,0,0.0
 2005,bairro_maputo,Inguane,MZ11079901,1,0.0
 2005,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -5306,12 +5306,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,Malhampsene,MZ10010104,6,0.45
 2005,bairro_matola,Malhampsene,MZ10010104,7,0.36
 2005,bairro_matola,Matola A,MZ10010105,0,0.0
-2005,bairro_matola,Matola A,MZ10010105,1,1191.33
+2005,bairro_matola,Matola A,MZ10010105,1,1191.15
 2005,bairro_matola,Matola A,MZ10010105,2,78.93
 2005,bairro_matola,Matola A,MZ10010105,3,40.68
-2005,bairro_matola,Matola A,MZ10010105,45,599.85
-2005,bairro_matola,Matola A,MZ10010105,6,297.36
-2005,bairro_matola,Matola A,MZ10010105,7,7.02
+2005,bairro_matola,Matola A,MZ10010105,45,581.67
+2005,bairro_matola,Matola A,MZ10010105,6,316.17
+2005,bairro_matola,Matola A,MZ10010105,7,6.57
 2005,bairro_matola,Matola B,MZ10010106,0,0.0
 2005,bairro_matola,Matola B,MZ10010106,1,128.61
 2005,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -5323,15 +5323,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,Matola C,MZ10010107,1,231.48
 2005,bairro_matola,Matola C,MZ10010107,2,37.71
 2005,bairro_matola,Matola C,MZ10010107,3,23.4
-2005,bairro_matola,Matola C,MZ10010107,45,132.84
-2005,bairro_matola,Matola C,MZ10010107,6,70.2
+2005,bairro_matola,Matola C,MZ10010107,45,131.04
+2005,bairro_matola,Matola C,MZ10010107,6,72.0
 2005,bairro_matola,Matola C,MZ10010107,7,2.43
 2005,bairro_matola,Matola D,MZ10010108,0,0.0
 2005,bairro_matola,Matola D,MZ10010108,1,128.34
 2005,bairro_matola,Matola D,MZ10010108,2,15.57
 2005,bairro_matola,Matola D,MZ10010108,3,22.77
-2005,bairro_matola,Matola D,MZ10010108,45,135.27
-2005,bairro_matola,Matola D,MZ10010108,6,11.88
+2005,bairro_matola,Matola D,MZ10010108,45,135.0
+2005,bairro_matola,Matola D,MZ10010108,6,12.15
 2005,bairro_matola,Matola D,MZ10010108,7,0.81
 2005,bairro_matola,Matola F,MZ10010109,0,0.0
 2005,bairro_matola,Matola F,MZ10010109,1,162.45
@@ -5448,9 +5448,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,Vale de Infulene,MZ10010214,0,0.0
 2005,bairro_matola,Vale de Infulene,MZ10010214,1,124.83
 2005,bairro_matola,Vale de Infulene,MZ10010214,2,182.34
-2005,bairro_matola,Vale de Infulene,MZ10010214,3,7.02
-2005,bairro_matola,Vale de Infulene,MZ10010214,45,88.2
-2005,bairro_matola,Vale de Infulene,MZ10010214,6,1.98
+2005,bairro_matola,Vale de Infulene,MZ10010214,3,6.93
+2005,bairro_matola,Vale de Infulene,MZ10010214,45,87.3
+2005,bairro_matola,Vale de Infulene,MZ10010214,6,2.97
 2005,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2005,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2005,bairro_matola,Zona Verde,MZ10010215,1,361.17
@@ -5561,23 +5561,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,Eduardo Mondlane,MZ10020101,1,8.1
 2005,bairro_matola,Eduardo Mondlane,MZ10020101,2,20.34
 2005,bairro_matola,Eduardo Mondlane,MZ10020101,3,39.6
-2005,bairro_matola,Eduardo Mondlane,MZ10020101,45,5331.6
-2005,bairro_matola,Eduardo Mondlane,MZ10020101,6,499.77
+2005,bairro_matola,Eduardo Mondlane,MZ10020101,45,5322.96
+2005,bairro_matola,Eduardo Mondlane,MZ10020101,6,508.41
 2005,bairro_matola,Eduardo Mondlane,MZ10020101,7,23.58
 2005,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2005,bairro_matola,Gueguegue,MZ10020102,1,107.28
 2005,bairro_matola,Gueguegue,MZ10020102,2,15.84
 2005,bairro_matola,Gueguegue,MZ10020102,3,0.27
-2005,bairro_matola,Gueguegue,MZ10020102,45,307.71
-2005,bairro_matola,Gueguegue,MZ10020102,6,8.46
+2005,bairro_matola,Gueguegue,MZ10020102,45,307.53
+2005,bairro_matola,Gueguegue,MZ10020102,6,8.64
 2005,bairro_matola,Gueguegue,MZ10020102,7,0.0
 2005,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2005,bairro_matola,Matola Rio-Sede,MZ10020201,1,1234.08
 2005,bairro_matola,Matola Rio-Sede,MZ10020201,2,180.81
 2005,bairro_matola,Matola Rio-Sede,MZ10020201,3,500.94
-2005,bairro_matola,Matola Rio-Sede,MZ10020201,45,3975.75
-2005,bairro_matola,Matola Rio-Sede,MZ10020201,6,494.1
-2005,bairro_matola,Matola Rio-Sede,MZ10020201,7,60.93
+2005,bairro_matola,Matola Rio-Sede,MZ10020201,45,3960.45
+2005,bairro_matola,Matola Rio-Sede,MZ10020201,6,509.76
+2005,bairro_matola,Matola Rio-Sede,MZ10020201,7,60.57
 2005,bairro_matola,Mulotana,MZ10020202,0,0.0
 2005,bairro_matola,Mulotana,MZ10020202,1,44.46
 2005,bairro_matola,Mulotana,MZ10020202,2,95.13
@@ -5589,16 +5589,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,Marracuene-Sede,MZ10050101,1,165.78
 2005,bairro_matola,Marracuene-Sede,MZ10050101,2,495.09
 2005,bairro_matola,Marracuene-Sede,MZ10050101,3,461.25
-2005,bairro_matola,Marracuene-Sede,MZ10050101,45,3535.11
-2005,bairro_matola,Marracuene-Sede,MZ10050101,6,140.22
-2005,bairro_matola,Marracuene-Sede,MZ10050101,7,8.91
+2005,bairro_matola,Marracuene-Sede,MZ10050101,45,3531.78
+2005,bairro_matola,Marracuene-Sede,MZ10050101,6,143.82
+2005,bairro_matola,Marracuene-Sede,MZ10050101,7,8.64
 2005,bairro_matola,Macaneta,MZ10050102,0,0.0
 2005,bairro_matola,Macaneta,MZ10050102,1,18.99
 2005,bairro_matola,Macaneta,MZ10050102,2,53.73
 2005,bairro_matola,Macaneta,MZ10050102,3,115.56
-2005,bairro_matola,Macaneta,MZ10050102,45,2286.9
-2005,bairro_matola,Macaneta,MZ10050102,6,678.78
-2005,bairro_matola,Macaneta,MZ10050102,7,161.55
+2005,bairro_matola,Macaneta,MZ10050102,45,2278.08
+2005,bairro_matola,Macaneta,MZ10050102,6,689.85
+2005,bairro_matola,Macaneta,MZ10050102,7,159.3
 2005,bairro_matola,Michafutene,MZ10050104,0,0.0
 2005,bairro_matola,Michafutene,MZ10050104,1,1362.78
 2005,bairro_matola,Michafutene,MZ10050104,2,263.52
@@ -5618,14 +5618,14 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2005,bairro_matola,M'Sime,MZ10060201,2,65.79
 2005,bairro_matola,M'Sime,MZ10060201,3,279.36
 2005,bairro_matola,M'Sime,MZ10060201,45,2699.55
-2005,bairro_matola,M'Sime,MZ10060201,6,139.77
-2005,bairro_matola,M'Sime,MZ10060201,7,43.65
+2005,bairro_matola,M'Sime,MZ10060201,6,139.86
+2005,bairro_matola,M'Sime,MZ10060201,7,43.56
 2005,bairro_matola,Mugazine,MZ10060202,0,0.0
 2005,bairro_matola,Mugazine,MZ10060202,1,34.47
 2005,bairro_matola,Mugazine,MZ10060202,2,15.66
 2005,bairro_matola,Mugazine,MZ10060202,3,113.94
-2005,bairro_matola,Mugazine,MZ10060202,45,1960.92
-2005,bairro_matola,Mugazine,MZ10060202,6,11.43
+2005,bairro_matola,Mugazine,MZ10060202,45,1960.2
+2005,bairro_matola,Mugazine,MZ10060202,6,12.15
 2005,bairro_matola,Mugazine,MZ10060202,7,4.5
 2005,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2005,bairro_matola,Pessene-Sede,MZ10070201,1,145.98
@@ -5642,11 +5642,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2007,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2007,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2007,bairro_maputo,Alto Mae B,MZ11019902,1,165.15
+2007,bairro_maputo,Alto Mae B,MZ11019902,1,164.97
 2007,bairro_maputo,Alto Mae B,MZ11019902,2,0.0
 2007,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2007,bairro_maputo,Alto Mae B,MZ11019902,45,15.12
-2007,bairro_maputo,Alto Mae B,MZ11019902,6,2.88
+2007,bairro_maputo,Alto Mae B,MZ11019902,45,14.13
+2007,bairro_maputo,Alto Mae B,MZ11019902,6,4.05
 2007,bairro_maputo,Alto Mae B,MZ11019902,7,0.09
 2007,bairro_maputo,Central A,MZ11019903,0,0.0
 2007,bairro_maputo,Central A,MZ11019903,1,56.52
@@ -5663,11 +5663,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Central B,MZ11019904,6,0.0
 2007,bairro_maputo,Central B,MZ11019904,7,0.0
 2007,bairro_maputo,Central C,MZ11019905,0,0.0
-2007,bairro_maputo,Central C,MZ11019905,1,170.28
+2007,bairro_maputo,Central C,MZ11019905,1,169.65
 2007,bairro_maputo,Central C,MZ11019905,2,4.59
 2007,bairro_maputo,Central C,MZ11019905,3,0.0
 2007,bairro_maputo,Central C,MZ11019905,45,23.13
-2007,bairro_maputo,Central C,MZ11019905,6,5.49
+2007,bairro_maputo,Central C,MZ11019905,6,6.12
 2007,bairro_maputo,Central C,MZ11019905,7,0.63
 2007,bairro_maputo,Coop,MZ11019906,0,0.0
 2007,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -5691,11 +5691,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2007,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2007,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2007,bairro_maputo,Polana Cimento A,MZ11019909,1,118.17
+2007,bairro_maputo,Polana Cimento A,MZ11019909,1,117.9
 2007,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2007,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
 2007,bairro_maputo,Polana Cimento A,MZ11019909,45,15.93
-2007,bairro_maputo,Polana Cimento A,MZ11019909,6,1.26
+2007,bairro_maputo,Polana Cimento A,MZ11019909,6,1.53
 2007,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2007,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2007,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -5709,8 +5709,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Sommerschield,MZ11019911,2,11.7
 2007,bairro_maputo,Sommerschield,MZ11019911,3,0.0
 2007,bairro_maputo,Sommerschield,MZ11019911,45,34.47
-2007,bairro_maputo,Sommerschield,MZ11019911,6,5.04
-2007,bairro_maputo,Sommerschield,MZ11019911,7,11.97
+2007,bairro_maputo,Sommerschield,MZ11019911,6,6.3
+2007,bairro_maputo,Sommerschield,MZ11019911,7,10.71
 2007,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2007,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 2007,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -5862,16 +5862,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Albazine,MZ11049903,1,449.64
 2007,bairro_maputo,Albazine,MZ11049903,2,332.46
 2007,bairro_maputo,Albazine,MZ11049903,3,148.68
-2007,bairro_maputo,Albazine,MZ11049903,45,1613.79
-2007,bairro_maputo,Albazine,MZ11049903,6,30.96
-2007,bairro_maputo,Albazine,MZ11049903,7,30.42
+2007,bairro_maputo,Albazine,MZ11049903,45,1613.43
+2007,bairro_maputo,Albazine,MZ11049903,6,31.59
+2007,bairro_maputo,Albazine,MZ11049903,7,30.15
 2007,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2007,bairro_maputo,Costa do Sol,MZ11049904,1,211.41
 2007,bairro_maputo,Costa do Sol,MZ11049904,2,168.48
 2007,bairro_maputo,Costa do Sol,MZ11049904,3,46.08
-2007,bairro_maputo,Costa do Sol,MZ11049904,45,1307.7
-2007,bairro_maputo,Costa do Sol,MZ11049904,6,94.68
-2007,bairro_maputo,Costa do Sol,MZ11049904,7,162.18
+2007,bairro_maputo,Costa do Sol,MZ11049904,45,1307.16
+2007,bairro_maputo,Costa do Sol,MZ11049904,6,116.55
+2007,bairro_maputo,Costa do Sol,MZ11049904,7,140.85
 2007,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2007,bairro_maputo,Ferroviario,MZ11049905,1,345.87
 2007,bairro_maputo,Ferroviario,MZ11049905,2,68.67
@@ -5981,8 +5981,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Luis Cabral,MZ11059908,1,397.26
 2007,bairro_maputo,Luis Cabral,MZ11059908,2,18.54
 2007,bairro_maputo,Luis Cabral,MZ11059908,3,0.54
-2007,bairro_maputo,Luis Cabral,MZ11059908,45,101.07
-2007,bairro_maputo,Luis Cabral,MZ11059908,6,13.86
+2007,bairro_maputo,Luis Cabral,MZ11059908,45,100.62
+2007,bairro_maputo,Luis Cabral,MZ11059908,6,14.31
 2007,bairro_maputo,Luis Cabral,MZ11059908,7,3.42
 2007,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2007,bairro_maputo,Magoanine A,MZ11059909,1,540.09
@@ -6031,8 +6031,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Chali,MZ11069901,2,52.02
 2007,bairro_maputo,Chali,MZ11069901,3,0.18
 2007,bairro_maputo,Chali,MZ11069901,45,1140.84
-2007,bairro_maputo,Chali,MZ11069901,6,41.58
-2007,bairro_maputo,Chali,MZ11069901,7,20.97
+2007,bairro_maputo,Chali,MZ11069901,6,43.2
+2007,bairro_maputo,Chali,MZ11069901,7,19.35
 2007,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2007,bairro_maputo,Chamissava,MZ11069902,1,78.03
 2007,bairro_maputo,Chamissava,MZ11069902,2,119.07
@@ -6044,23 +6044,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_maputo,Guachene,MZ11069903,1,43.65
 2007,bairro_maputo,Guachene,MZ11069903,2,2.34
 2007,bairro_maputo,Guachene,MZ11069903,3,0.9
-2007,bairro_maputo,Guachene,MZ11069903,45,230.22
-2007,bairro_maputo,Guachene,MZ11069903,6,51.21
-2007,bairro_maputo,Guachene,MZ11069903,7,29.25
+2007,bairro_maputo,Guachene,MZ11069903,45,229.5
+2007,bairro_maputo,Guachene,MZ11069903,6,57.42
+2007,bairro_maputo,Guachene,MZ11069903,7,23.76
 2007,bairro_maputo,Incassane,MZ11069904,0,0.0
 2007,bairro_maputo,Incassane,MZ11069904,1,60.66
 2007,bairro_maputo,Incassane,MZ11069904,2,95.22
 2007,bairro_maputo,Incassane,MZ11069904,3,3.6
-2007,bairro_maputo,Incassane,MZ11069904,45,6197.94
-2007,bairro_maputo,Incassane,MZ11069904,6,430.38
+2007,bairro_maputo,Incassane,MZ11069904,45,6190.65
+2007,bairro_maputo,Incassane,MZ11069904,6,437.67
 2007,bairro_maputo,Incassane,MZ11069904,7,80.1
 2007,bairro_maputo,Inguide,MZ11069905,0,0.0
 2007,bairro_maputo,Inguide,MZ11069905,1,194.76
 2007,bairro_maputo,Inguide,MZ11069905,2,4.5
 2007,bairro_maputo,Inguide,MZ11069905,3,4.23
-2007,bairro_maputo,Inguide,MZ11069905,45,1124.46
-2007,bairro_maputo,Inguide,MZ11069905,6,36.99
-2007,bairro_maputo,Inguide,MZ11069905,7,21.78
+2007,bairro_maputo,Inguide,MZ11069905,45,1121.4
+2007,bairro_maputo,Inguide,MZ11069905,6,50.49
+2007,bairro_maputo,Inguide,MZ11069905,7,11.34
 2007,bairro_maputo,Inguane,MZ11079901,0,0.0
 2007,bairro_maputo,Inguane,MZ11079901,1,0.0
 2007,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -6107,16 +6107,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,Malhampsene,MZ10010104,1,204.48
 2007,bairro_matola,Malhampsene,MZ10010104,2,32.04
 2007,bairro_matola,Malhampsene,MZ10010104,3,42.12
-2007,bairro_matola,Malhampsene,MZ10010104,45,339.66
-2007,bairro_matola,Malhampsene,MZ10010104,6,0.27
+2007,bairro_matola,Malhampsene,MZ10010104,45,339.48
+2007,bairro_matola,Malhampsene,MZ10010104,6,0.45
 2007,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2007,bairro_matola,Matola A,MZ10010105,0,0.0
-2007,bairro_matola,Matola A,MZ10010105,1,1213.92
+2007,bairro_matola,Matola A,MZ10010105,1,1213.74
 2007,bairro_matola,Matola A,MZ10010105,2,99.72
 2007,bairro_matola,Matola A,MZ10010105,3,4.32
-2007,bairro_matola,Matola A,MZ10010105,45,609.12
-2007,bairro_matola,Matola A,MZ10010105,6,275.58
-2007,bairro_matola,Matola A,MZ10010105,7,12.51
+2007,bairro_matola,Matola A,MZ10010105,45,579.33
+2007,bairro_matola,Matola A,MZ10010105,6,307.44
+2007,bairro_matola,Matola A,MZ10010105,7,10.62
 2007,bairro_matola,Matola B,MZ10010106,0,0.0
 2007,bairro_matola,Matola B,MZ10010106,1,128.88
 2007,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -6128,15 +6128,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,Matola C,MZ10010107,1,246.33
 2007,bairro_matola,Matola C,MZ10010107,2,29.52
 2007,bairro_matola,Matola C,MZ10010107,3,0.99
-2007,bairro_matola,Matola C,MZ10010107,45,154.8
-2007,bairro_matola,Matola C,MZ10010107,6,64.26
-2007,bairro_matola,Matola C,MZ10010107,7,2.16
+2007,bairro_matola,Matola C,MZ10010107,45,152.1
+2007,bairro_matola,Matola C,MZ10010107,6,67.68
+2007,bairro_matola,Matola C,MZ10010107,7,1.44
 2007,bairro_matola,Matola D,MZ10010108,0,0.0
 2007,bairro_matola,Matola D,MZ10010108,1,137.7
 2007,bairro_matola,Matola D,MZ10010108,2,16.29
 2007,bairro_matola,Matola D,MZ10010108,3,0.63
-2007,bairro_matola,Matola D,MZ10010108,45,147.51
-2007,bairro_matola,Matola D,MZ10010108,6,11.7
+2007,bairro_matola,Matola D,MZ10010108,45,147.15
+2007,bairro_matola,Matola D,MZ10010108,6,12.06
 2007,bairro_matola,Matola D,MZ10010108,7,0.81
 2007,bairro_matola,Matola F,MZ10010109,0,0.0
 2007,bairro_matola,Matola F,MZ10010109,1,162.45
@@ -6254,8 +6254,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,Vale de Infulene,MZ10010214,1,129.69
 2007,bairro_matola,Vale de Infulene,MZ10010214,2,173.7
 2007,bairro_matola,Vale de Infulene,MZ10010214,3,1.53
-2007,bairro_matola,Vale de Infulene,MZ10010214,45,97.65
-2007,bairro_matola,Vale de Infulene,MZ10010214,6,1.8
+2007,bairro_matola,Vale de Infulene,MZ10010214,45,96.66
+2007,bairro_matola,Vale de Infulene,MZ10010214,6,2.79
 2007,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2007,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2007,bairro_matola,Zona Verde,MZ10010215,1,403.65
@@ -6366,23 +6366,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,Eduardo Mondlane,MZ10020101,1,11.43
 2007,bairro_matola,Eduardo Mondlane,MZ10020101,2,22.14
 2007,bairro_matola,Eduardo Mondlane,MZ10020101,3,1.62
-2007,bairro_matola,Eduardo Mondlane,MZ10020101,45,5361.84
-2007,bairro_matola,Eduardo Mondlane,MZ10020101,6,494.1
+2007,bairro_matola,Eduardo Mondlane,MZ10020101,45,5351.31
+2007,bairro_matola,Eduardo Mondlane,MZ10020101,6,504.63
 2007,bairro_matola,Eduardo Mondlane,MZ10020101,7,31.86
 2007,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2007,bairro_matola,Gueguegue,MZ10020102,1,136.71
 2007,bairro_matola,Gueguegue,MZ10020102,2,29.88
 2007,bairro_matola,Gueguegue,MZ10020102,3,1.44
-2007,bairro_matola,Gueguegue,MZ10020102,45,263.61
-2007,bairro_matola,Gueguegue,MZ10020102,6,7.92
+2007,bairro_matola,Gueguegue,MZ10020102,45,263.25
+2007,bairro_matola,Gueguegue,MZ10020102,6,8.28
 2007,bairro_matola,Gueguegue,MZ10020102,7,0.0
 2007,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2007,bairro_matola,Matola Rio-Sede,MZ10020201,1,1712.52
 2007,bairro_matola,Matola Rio-Sede,MZ10020201,2,175.77
 2007,bairro_matola,Matola Rio-Sede,MZ10020201,3,303.3
-2007,bairro_matola,Matola Rio-Sede,MZ10020201,45,3747.24
-2007,bairro_matola,Matola Rio-Sede,MZ10020201,6,456.03
-2007,bairro_matola,Matola Rio-Sede,MZ10020201,7,51.75
+2007,bairro_matola,Matola Rio-Sede,MZ10020201,45,3725.37
+2007,bairro_matola,Matola Rio-Sede,MZ10020201,6,482.94
+2007,bairro_matola,Matola Rio-Sede,MZ10020201,7,46.71
 2007,bairro_matola,Mulotana,MZ10020202,0,0.0
 2007,bairro_matola,Mulotana,MZ10020202,1,52.47
 2007,bairro_matola,Mulotana,MZ10020202,2,60.84
@@ -6394,16 +6394,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,Marracuene-Sede,MZ10050101,1,310.68
 2007,bairro_matola,Marracuene-Sede,MZ10050101,2,479.88
 2007,bairro_matola,Marracuene-Sede,MZ10050101,3,323.82
-2007,bairro_matola,Marracuene-Sede,MZ10050101,45,3542.31
-2007,bairro_matola,Marracuene-Sede,MZ10050101,6,141.12
-2007,bairro_matola,Marracuene-Sede,MZ10050101,7,8.55
+2007,bairro_matola,Marracuene-Sede,MZ10050101,45,3539.97
+2007,bairro_matola,Marracuene-Sede,MZ10050101,6,144.99
+2007,bairro_matola,Marracuene-Sede,MZ10050101,7,7.02
 2007,bairro_matola,Macaneta,MZ10050102,0,0.0
 2007,bairro_matola,Macaneta,MZ10050102,1,28.89
 2007,bairro_matola,Macaneta,MZ10050102,2,82.62
 2007,bairro_matola,Macaneta,MZ10050102,3,76.95
-2007,bairro_matola,Macaneta,MZ10050102,45,2276.28
-2007,bairro_matola,Macaneta,MZ10050102,6,667.53
-2007,bairro_matola,Macaneta,MZ10050102,7,183.24
+2007,bairro_matola,Macaneta,MZ10050102,45,2270.25
+2007,bairro_matola,Macaneta,MZ10050102,6,682.38
+2007,bairro_matola,Macaneta,MZ10050102,7,174.42
 2007,bairro_matola,Michafutene,MZ10050104,0,0.0
 2007,bairro_matola,Michafutene,MZ10050104,1,3016.71
 2007,bairro_matola,Michafutene,MZ10050104,2,210.6
@@ -6422,15 +6422,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2007,bairro_matola,M'Sime,MZ10060201,1,21.87
 2007,bairro_matola,M'Sime,MZ10060201,2,11.61
 2007,bairro_matola,M'Sime,MZ10060201,3,30.78
-2007,bairro_matola,M'Sime,MZ10060201,45,2993.94
-2007,bairro_matola,M'Sime,MZ10060201,6,127.98
-2007,bairro_matola,M'Sime,MZ10060201,7,58.59
+2007,bairro_matola,M'Sime,MZ10060201,45,2993.67
+2007,bairro_matola,M'Sime,MZ10060201,6,137.34
+2007,bairro_matola,M'Sime,MZ10060201,7,49.5
 2007,bairro_matola,Mugazine,MZ10060202,0,0.0
 2007,bairro_matola,Mugazine,MZ10060202,1,34.92
 2007,bairro_matola,Mugazine,MZ10060202,2,5.49
 2007,bairro_matola,Mugazine,MZ10060202,3,0.0
-2007,bairro_matola,Mugazine,MZ10060202,45,2082.96
-2007,bairro_matola,Mugazine,MZ10060202,6,11.07
+2007,bairro_matola,Mugazine,MZ10060202,45,2082.15
+2007,bairro_matola,Mugazine,MZ10060202,6,11.88
 2007,bairro_matola,Mugazine,MZ10060202,7,6.48
 2007,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2007,bairro_matola,Pessene-Sede,MZ10070201,1,148.59
@@ -6447,12 +6447,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2010,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2010,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2010,bairro_maputo,Alto Mae B,MZ11019902,1,165.24
+2010,bairro_maputo,Alto Mae B,MZ11019902,1,165.06
 2010,bairro_maputo,Alto Mae B,MZ11019902,2,1.62
 2010,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2010,bairro_maputo,Alto Mae B,MZ11019902,45,11.34
-2010,bairro_maputo,Alto Mae B,MZ11019902,6,3.51
-2010,bairro_maputo,Alto Mae B,MZ11019902,7,1.53
+2010,bairro_maputo,Alto Mae B,MZ11019902,45,11.25
+2010,bairro_maputo,Alto Mae B,MZ11019902,6,4.05
+2010,bairro_maputo,Alto Mae B,MZ11019902,7,1.26
 2010,bairro_maputo,Central A,MZ11019903,0,0.0
 2010,bairro_maputo,Central A,MZ11019903,1,56.52
 2010,bairro_maputo,Central A,MZ11019903,2,0.0
@@ -6468,12 +6468,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Central B,MZ11019904,6,0.0
 2010,bairro_maputo,Central B,MZ11019904,7,0.0
 2010,bairro_maputo,Central C,MZ11019905,0,0.0
-2010,bairro_maputo,Central C,MZ11019905,1,174.6
+2010,bairro_maputo,Central C,MZ11019905,1,173.97
 2010,bairro_maputo,Central C,MZ11019905,2,2.25
 2010,bairro_maputo,Central C,MZ11019905,3,0.0
 2010,bairro_maputo,Central C,MZ11019905,45,20.16
-2010,bairro_maputo,Central C,MZ11019905,6,5.58
-2010,bairro_maputo,Central C,MZ11019905,7,1.53
+2010,bairro_maputo,Central C,MZ11019905,6,6.3
+2010,bairro_maputo,Central C,MZ11019905,7,1.44
 2010,bairro_maputo,Coop,MZ11019906,0,0.0
 2010,bairro_maputo,Coop,MZ11019906,1,66.33
 2010,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -6496,11 +6496,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2010,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2010,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2010,bairro_maputo,Polana Cimento A,MZ11019909,1,118.53
+2010,bairro_maputo,Polana Cimento A,MZ11019909,1,118.26
 2010,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2010,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
 2010,bairro_maputo,Polana Cimento A,MZ11019909,45,15.48
-2010,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
+2010,bairro_maputo,Polana Cimento A,MZ11019909,6,1.62
 2010,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2010,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2010,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -6667,16 +6667,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Albazine,MZ11049903,1,468.27
 2010,bairro_maputo,Albazine,MZ11049903,2,346.05
 2010,bairro_maputo,Albazine,MZ11049903,3,141.75
-2010,bairro_maputo,Albazine,MZ11049903,45,1586.88
-2010,bairro_maputo,Albazine,MZ11049903,6,34.2
+2010,bairro_maputo,Albazine,MZ11049903,45,1586.16
+2010,bairro_maputo,Albazine,MZ11049903,6,34.92
 2010,bairro_maputo,Albazine,MZ11049903,7,28.8
-2010,bairro_maputo,Costa do Sol,MZ11049904,0,0.45
+2010,bairro_maputo,Costa do Sol,MZ11049904,0,0.36
 2010,bairro_maputo,Costa do Sol,MZ11049904,1,235.89
 2010,bairro_maputo,Costa do Sol,MZ11049904,2,157.68
 2010,bairro_maputo,Costa do Sol,MZ11049904,3,31.77
-2010,bairro_maputo,Costa do Sol,MZ11049904,45,1307.25
-2010,bairro_maputo,Costa do Sol,MZ11049904,6,137.43
-2010,bairro_maputo,Costa do Sol,MZ11049904,7,120.06
+2010,bairro_maputo,Costa do Sol,MZ11049904,45,1306.35
+2010,bairro_maputo,Costa do Sol,MZ11049904,6,150.21
+2010,bairro_maputo,Costa do Sol,MZ11049904,7,108.27
 2010,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2010,bairro_maputo,Ferroviario,MZ11049905,1,354.42
 2010,bairro_maputo,Ferroviario,MZ11049905,2,69.39
@@ -6786,8 +6786,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Luis Cabral,MZ11059908,1,397.89
 2010,bairro_maputo,Luis Cabral,MZ11059908,2,17.64
 2010,bairro_maputo,Luis Cabral,MZ11059908,3,0.36
-2010,bairro_maputo,Luis Cabral,MZ11059908,45,98.1
-2010,bairro_maputo,Luis Cabral,MZ11059908,6,16.02
+2010,bairro_maputo,Luis Cabral,MZ11059908,45,97.92
+2010,bairro_maputo,Luis Cabral,MZ11059908,6,16.2
 2010,bairro_maputo,Luis Cabral,MZ11059908,7,4.68
 2010,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2010,bairro_maputo,Magoanine A,MZ11059909,1,540.9
@@ -6836,8 +6836,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Chali,MZ11069901,2,47.7
 2010,bairro_maputo,Chali,MZ11069901,3,0.36
 2010,bairro_maputo,Chali,MZ11069901,45,1138.95
-2010,bairro_maputo,Chali,MZ11069901,6,47.43
-2010,bairro_maputo,Chali,MZ11069901,7,11.52
+2010,bairro_maputo,Chali,MZ11069901,6,47.52
+2010,bairro_maputo,Chali,MZ11069901,7,11.43
 2010,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2010,bairro_maputo,Chamissava,MZ11069902,1,84.51
 2010,bairro_maputo,Chamissava,MZ11069902,2,127.17
@@ -6849,23 +6849,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_maputo,Guachene,MZ11069903,1,43.92
 2010,bairro_maputo,Guachene,MZ11069903,2,8.64
 2010,bairro_maputo,Guachene,MZ11069903,3,17.91
-2010,bairro_maputo,Guachene,MZ11069903,45,211.95
-2010,bairro_maputo,Guachene,MZ11069903,6,59.31
-2010,bairro_maputo,Guachene,MZ11069903,7,15.84
+2010,bairro_maputo,Guachene,MZ11069903,45,211.14
+2010,bairro_maputo,Guachene,MZ11069903,6,60.39
+2010,bairro_maputo,Guachene,MZ11069903,7,15.57
 2010,bairro_maputo,Incassane,MZ11069904,0,0.0
 2010,bairro_maputo,Incassane,MZ11069904,1,66.96
 2010,bairro_maputo,Incassane,MZ11069904,2,71.28
 2010,bairro_maputo,Incassane,MZ11069904,3,17.28
-2010,bairro_maputo,Incassane,MZ11069904,45,6170.04
-2010,bairro_maputo,Incassane,MZ11069904,6,434.07
+2010,bairro_maputo,Incassane,MZ11069904,45,6163.2
+2010,bairro_maputo,Incassane,MZ11069904,6,440.91
 2010,bairro_maputo,Incassane,MZ11069904,7,108.27
 2010,bairro_maputo,Inguide,MZ11069905,0,0.0
 2010,bairro_maputo,Inguide,MZ11069905,1,210.24
 2010,bairro_maputo,Inguide,MZ11069905,2,1.98
 2010,bairro_maputo,Inguide,MZ11069905,3,0.09
-2010,bairro_maputo,Inguide,MZ11069905,45,1115.73
-2010,bairro_maputo,Inguide,MZ11069905,6,49.77
-2010,bairro_maputo,Inguide,MZ11069905,7,8.91
+2010,bairro_maputo,Inguide,MZ11069905,45,1115.46
+2010,bairro_maputo,Inguide,MZ11069905,6,51.3
+2010,bairro_maputo,Inguide,MZ11069905,7,7.65
 2010,bairro_maputo,Inguane,MZ11079901,0,0.0
 2010,bairro_maputo,Inguane,MZ11079901,1,0.0
 2010,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -6912,16 +6912,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Malhampsene,MZ10010104,1,290.34
 2010,bairro_matola,Malhampsene,MZ10010104,2,32.31
 2010,bairro_matola,Malhampsene,MZ10010104,3,1.71
-2010,bairro_matola,Malhampsene,MZ10010104,45,293.76
-2010,bairro_matola,Malhampsene,MZ10010104,6,0.0
+2010,bairro_matola,Malhampsene,MZ10010104,45,293.58
+2010,bairro_matola,Malhampsene,MZ10010104,6,0.18
 2010,bairro_matola,Malhampsene,MZ10010104,7,0.45
 2010,bairro_matola,Matola A,MZ10010105,0,0.63
-2010,bairro_matola,Matola A,MZ10010105,1,1237.59
+2010,bairro_matola,Matola A,MZ10010105,1,1237.41
 2010,bairro_matola,Matola A,MZ10010105,2,95.49
 2010,bairro_matola,Matola A,MZ10010105,3,3.87
-2010,bairro_matola,Matola A,MZ10010105,45,524.88
-2010,bairro_matola,Matola A,MZ10010105,6,331.92
-2010,bairro_matola,Matola A,MZ10010105,7,20.79
+2010,bairro_matola,Matola A,MZ10010105,45,517.41
+2010,bairro_matola,Matola A,MZ10010105,6,341.1
+2010,bairro_matola,Matola A,MZ10010105,7,19.26
 2010,bairro_matola,Matola B,MZ10010106,0,0.0
 2010,bairro_matola,Matola B,MZ10010106,1,129.06
 2010,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -6933,15 +6933,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Matola C,MZ10010107,1,255.6
 2010,bairro_matola,Matola C,MZ10010107,2,28.89
 2010,bairro_matola,Matola C,MZ10010107,3,0.72
-2010,bairro_matola,Matola C,MZ10010107,45,146.61
-2010,bairro_matola,Matola C,MZ10010107,6,65.88
+2010,bairro_matola,Matola C,MZ10010107,45,144.18
+2010,bairro_matola,Matola C,MZ10010107,6,68.31
 2010,bairro_matola,Matola C,MZ10010107,7,0.36
 2010,bairro_matola,Matola D,MZ10010108,0,0.0
 2010,bairro_matola,Matola D,MZ10010108,1,165.06
 2010,bairro_matola,Matola D,MZ10010108,2,16.02
 2010,bairro_matola,Matola D,MZ10010108,3,0.63
-2010,bairro_matola,Matola D,MZ10010108,45,121.14
-2010,bairro_matola,Matola D,MZ10010108,6,11.7
+2010,bairro_matola,Matola D,MZ10010108,45,120.6
+2010,bairro_matola,Matola D,MZ10010108,6,12.24
 2010,bairro_matola,Matola D,MZ10010108,7,0.09
 2010,bairro_matola,Matola F,MZ10010109,0,0.0
 2010,bairro_matola,Matola F,MZ10010109,1,163.17
@@ -6968,16 +6968,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Matola J,MZ10010112,1,88.11
 2010,bairro_matola,Matola J,MZ10010112,2,5.22
 2010,bairro_matola,Matola J,MZ10010112,3,0.18
-2010,bairro_matola,Matola J,MZ10010112,45,39.33
-2010,bairro_matola,Matola J,MZ10010112,6,0.63
+2010,bairro_matola,Matola J,MZ10010112,45,39.24
+2010,bairro_matola,Matola J,MZ10010112,6,0.72
 2010,bairro_matola,Matola J,MZ10010112,7,0.0
 2010,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2010,bairro_matola,Mussumbuluco,MZ10010113,1,363.51
 2010,bairro_matola,Mussumbuluco,MZ10010113,2,15.48
 2010,bairro_matola,Mussumbuluco,MZ10010113,3,1.17
-2010,bairro_matola,Mussumbuluco,MZ10010113,45,151.02
-2010,bairro_matola,Mussumbuluco,MZ10010113,6,0.72
-2010,bairro_matola,Mussumbuluco,MZ10010113,7,4.59
+2010,bairro_matola,Mussumbuluco,MZ10010113,45,150.48
+2010,bairro_matola,Mussumbuluco,MZ10010113,6,1.53
+2010,bairro_matola,Mussumbuluco,MZ10010113,7,4.32
 2010,bairro_matola,Infulene D,MZ10010201,0,0.0
 2010,bairro_matola,Infulene D,MZ10010201,1,176.13
 2010,bairro_matola,Infulene D,MZ10010201,2,0.99
@@ -7059,8 +7059,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Vale de Infulene,MZ10010214,1,130.95
 2010,bairro_matola,Vale de Infulene,MZ10010214,2,161.1
 2010,bairro_matola,Vale de Infulene,MZ10010214,3,0.45
-2010,bairro_matola,Vale de Infulene,MZ10010214,45,109.35
-2010,bairro_matola,Vale de Infulene,MZ10010214,6,2.52
+2010,bairro_matola,Vale de Infulene,MZ10010214,45,108.72
+2010,bairro_matola,Vale de Infulene,MZ10010214,6,3.15
 2010,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2010,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2010,bairro_matola,Zona Verde,MZ10010215,1,414.99
@@ -7171,23 +7171,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Eduardo Mondlane,MZ10020101,1,17.37
 2010,bairro_matola,Eduardo Mondlane,MZ10020101,2,27.72
 2010,bairro_matola,Eduardo Mondlane,MZ10020101,3,5.13
-2010,bairro_matola,Eduardo Mondlane,MZ10020101,45,5366.79
-2010,bairro_matola,Eduardo Mondlane,MZ10020101,6,490.77
+2010,bairro_matola,Eduardo Mondlane,MZ10020101,45,5353.2
+2010,bairro_matola,Eduardo Mondlane,MZ10020101,6,504.36
 2010,bairro_matola,Eduardo Mondlane,MZ10020101,7,15.21
 2010,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2010,bairro_matola,Gueguegue,MZ10020102,1,146.16
 2010,bairro_matola,Gueguegue,MZ10020102,2,35.91
 2010,bairro_matola,Gueguegue,MZ10020102,3,18.18
-2010,bairro_matola,Gueguegue,MZ10020102,45,230.4
-2010,bairro_matola,Gueguegue,MZ10020102,6,7.92
+2010,bairro_matola,Gueguegue,MZ10020102,45,229.95
+2010,bairro_matola,Gueguegue,MZ10020102,6,8.37
 2010,bairro_matola,Gueguegue,MZ10020102,7,0.99
-2010,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.27
+2010,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.18
 2010,bairro_matola,Matola Rio-Sede,MZ10020201,1,1980.63
 2010,bairro_matola,Matola Rio-Sede,MZ10020201,2,179.91
 2010,bairro_matola,Matola Rio-Sede,MZ10020201,3,202.05
-2010,bairro_matola,Matola Rio-Sede,MZ10020201,45,3597.93
-2010,bairro_matola,Matola Rio-Sede,MZ10020201,6,438.39
-2010,bairro_matola,Matola Rio-Sede,MZ10020201,7,47.43
+2010,bairro_matola,Matola Rio-Sede,MZ10020201,45,3569.31
+2010,bairro_matola,Matola Rio-Sede,MZ10020201,6,470.97
+2010,bairro_matola,Matola Rio-Sede,MZ10020201,7,43.56
 2010,bairro_matola,Mulotana,MZ10020202,0,0.0
 2010,bairro_matola,Mulotana,MZ10020202,1,62.01
 2010,bairro_matola,Mulotana,MZ10020202,2,57.42
@@ -7199,16 +7199,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,Marracuene-Sede,MZ10050101,1,421.92
 2010,bairro_matola,Marracuene-Sede,MZ10050101,2,438.57
 2010,bairro_matola,Marracuene-Sede,MZ10050101,3,263.25
-2010,bairro_matola,Marracuene-Sede,MZ10050101,45,3553.56
-2010,bairro_matola,Marracuene-Sede,MZ10050101,6,124.92
+2010,bairro_matola,Marracuene-Sede,MZ10050101,45,3527.73
+2010,bairro_matola,Marracuene-Sede,MZ10050101,6,150.75
 2010,bairro_matola,Marracuene-Sede,MZ10050101,7,4.14
 2010,bairro_matola,Macaneta,MZ10050102,0,2.16
 2010,bairro_matola,Macaneta,MZ10050102,1,48.42
 2010,bairro_matola,Macaneta,MZ10050102,2,51.39
 2010,bairro_matola,Macaneta,MZ10050102,3,82.26
-2010,bairro_matola,Macaneta,MZ10050102,45,2318.13
-2010,bairro_matola,Macaneta,MZ10050102,6,672.12
-2010,bairro_matola,Macaneta,MZ10050102,7,141.03
+2010,bairro_matola,Macaneta,MZ10050102,45,2293.38
+2010,bairro_matola,Macaneta,MZ10050102,6,712.08
+2010,bairro_matola,Macaneta,MZ10050102,7,125.82
 2010,bairro_matola,Michafutene,MZ10050104,0,0.0
 2010,bairro_matola,Michafutene,MZ10050104,1,3712.41
 2010,bairro_matola,Michafutene,MZ10050104,2,211.77
@@ -7228,14 +7228,14 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2010,bairro_matola,M'Sime,MZ10060201,2,10.35
 2010,bairro_matola,M'Sime,MZ10060201,3,4.59
 2010,bairro_matola,M'Sime,MZ10060201,45,3028.95
-2010,bairro_matola,M'Sime,MZ10060201,6,132.39
-2010,bairro_matola,M'Sime,MZ10060201,7,36.54
+2010,bairro_matola,M'Sime,MZ10060201,6,138.15
+2010,bairro_matola,M'Sime,MZ10060201,7,30.78
 2010,bairro_matola,Mugazine,MZ10060202,0,0.0
 2010,bairro_matola,Mugazine,MZ10060202,1,35.73
 2010,bairro_matola,Mugazine,MZ10060202,2,2.43
 2010,bairro_matola,Mugazine,MZ10060202,3,0.27
-2010,bairro_matola,Mugazine,MZ10060202,45,2085.03
-2010,bairro_matola,Mugazine,MZ10060202,6,11.79
+2010,bairro_matola,Mugazine,MZ10060202,45,2084.49
+2010,bairro_matola,Mugazine,MZ10060202,6,12.33
 2010,bairro_matola,Mugazine,MZ10060202,7,5.67
 2010,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2010,bairro_matola,Pessene-Sede,MZ10070201,1,148.95
@@ -7252,11 +7252,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2015,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2015,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2015,bairro_maputo,Alto Mae B,MZ11019902,1,168.48
+2015,bairro_maputo,Alto Mae B,MZ11019902,1,168.3
 2015,bairro_maputo,Alto Mae B,MZ11019902,2,0.0
 2015,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2015,bairro_maputo,Alto Mae B,MZ11019902,45,7.92
-2015,bairro_maputo,Alto Mae B,MZ11019902,6,3.78
+2015,bairro_maputo,Alto Mae B,MZ11019902,45,7.83
+2015,bairro_maputo,Alto Mae B,MZ11019902,6,4.05
 2015,bairro_maputo,Alto Mae B,MZ11019902,7,3.06
 2015,bairro_maputo,Central A,MZ11019903,0,0.0
 2015,bairro_maputo,Central A,MZ11019903,1,56.52
@@ -7273,11 +7273,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Central B,MZ11019904,6,0.0
 2015,bairro_maputo,Central B,MZ11019904,7,0.0
 2015,bairro_maputo,Central C,MZ11019905,0,0.0
-2015,bairro_maputo,Central C,MZ11019905,1,178.11
+2015,bairro_maputo,Central C,MZ11019905,1,177.21
 2015,bairro_maputo,Central C,MZ11019905,2,0.99
 2015,bairro_maputo,Central C,MZ11019905,3,0.0
-2015,bairro_maputo,Central C,MZ11019905,45,19.62
-2015,bairro_maputo,Central C,MZ11019905,6,4.95
+2015,bairro_maputo,Central C,MZ11019905,45,19.44
+2015,bairro_maputo,Central C,MZ11019905,6,6.03
 2015,bairro_maputo,Central C,MZ11019905,7,0.45
 2015,bairro_maputo,Coop,MZ11019906,0,0.0
 2015,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -7301,11 +7301,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2015,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2015,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2015,bairro_maputo,Polana Cimento A,MZ11019909,1,118.98
+2015,bairro_maputo,Polana Cimento A,MZ11019909,1,118.71
 2015,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2015,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
-2015,bairro_maputo,Polana Cimento A,MZ11019909,45,15.39
-2015,bairro_maputo,Polana Cimento A,MZ11019909,6,0.99
+2015,bairro_maputo,Polana Cimento A,MZ11019909,45,15.3
+2015,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
 2015,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2015,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2015,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -7318,8 +7318,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Sommerschield,MZ11019911,1,313.92
 2015,bairro_maputo,Sommerschield,MZ11019911,2,5.04
 2015,bairro_maputo,Sommerschield,MZ11019911,3,0.09
-2015,bairro_maputo,Sommerschield,MZ11019911,45,33.3
-2015,bairro_maputo,Sommerschield,MZ11019911,6,7.11
+2015,bairro_maputo,Sommerschield,MZ11019911,45,33.21
+2015,bairro_maputo,Sommerschield,MZ11019911,6,7.2
 2015,bairro_maputo,Sommerschield,MZ11019911,7,9.0
 2015,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2015,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
@@ -7472,16 +7472,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Albazine,MZ11049903,1,593.1
 2015,bairro_maputo,Albazine,MZ11049903,2,303.66
 2015,bairro_maputo,Albazine,MZ11049903,3,129.24
-2015,bairro_maputo,Albazine,MZ11049903,45,1511.46
-2015,bairro_maputo,Albazine,MZ11049903,6,29.07
+2015,bairro_maputo,Albazine,MZ11049903,45,1509.66
+2015,bairro_maputo,Albazine,MZ11049903,6,30.87
 2015,bairro_maputo,Albazine,MZ11049903,7,39.42
 2015,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2015,bairro_maputo,Costa do Sol,MZ11049904,1,353.61
 2015,bairro_maputo,Costa do Sol,MZ11049904,2,103.59
 2015,bairro_maputo,Costa do Sol,MZ11049904,3,25.83
-2015,bairro_maputo,Costa do Sol,MZ11049904,45,1140.75
-2015,bairro_maputo,Costa do Sol,MZ11049904,6,112.14
-2015,bairro_maputo,Costa do Sol,MZ11049904,7,254.61
+2015,bairro_maputo,Costa do Sol,MZ11049904,45,1138.68
+2015,bairro_maputo,Costa do Sol,MZ11049904,6,136.44
+2015,bairro_maputo,Costa do Sol,MZ11049904,7,232.38
 2015,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2015,bairro_maputo,Ferroviario,MZ11049905,1,365.85
 2015,bairro_maputo,Ferroviario,MZ11049905,2,67.05
@@ -7591,8 +7591,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Luis Cabral,MZ11059908,1,408.42
 2015,bairro_maputo,Luis Cabral,MZ11059908,2,12.33
 2015,bairro_maputo,Luis Cabral,MZ11059908,3,0.0
-2015,bairro_maputo,Luis Cabral,MZ11059908,45,100.8
-2015,bairro_maputo,Luis Cabral,MZ11059908,6,11.43
+2015,bairro_maputo,Luis Cabral,MZ11059908,45,98.19
+2015,bairro_maputo,Luis Cabral,MZ11059908,6,14.04
 2015,bairro_maputo,Luis Cabral,MZ11059908,7,1.71
 2015,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2015,bairro_maputo,Magoanine A,MZ11059909,1,541.62
@@ -7654,22 +7654,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_maputo,Guachene,MZ11069903,1,49.5
 2015,bairro_maputo,Guachene,MZ11069903,2,0.54
 2015,bairro_maputo,Guachene,MZ11069903,3,0.0
-2015,bairro_maputo,Guachene,MZ11069903,45,215.19
-2015,bairro_maputo,Guachene,MZ11069903,6,57.51
-2015,bairro_maputo,Guachene,MZ11069903,7,34.83
+2015,bairro_maputo,Guachene,MZ11069903,45,214.38
+2015,bairro_maputo,Guachene,MZ11069903,6,58.68
+2015,bairro_maputo,Guachene,MZ11069903,7,34.47
 2015,bairro_maputo,Incassane,MZ11069904,0,0.0
 2015,bairro_maputo,Incassane,MZ11069904,1,71.64
 2015,bairro_maputo,Incassane,MZ11069904,2,58.32
 2015,bairro_maputo,Incassane,MZ11069904,3,1.17
-2015,bairro_maputo,Incassane,MZ11069904,45,6245.46
-2015,bairro_maputo,Incassane,MZ11069904,6,440.37
+2015,bairro_maputo,Incassane,MZ11069904,45,6241.95
+2015,bairro_maputo,Incassane,MZ11069904,6,443.88
 2015,bairro_maputo,Incassane,MZ11069904,7,50.94
 2015,bairro_maputo,Inguide,MZ11069905,0,0.0
 2015,bairro_maputo,Inguide,MZ11069905,1,254.97
 2015,bairro_maputo,Inguide,MZ11069905,2,0.18
 2015,bairro_maputo,Inguide,MZ11069905,3,0.9
-2015,bairro_maputo,Inguide,MZ11069905,45,1073.25
-2015,bairro_maputo,Inguide,MZ11069905,6,54.27
+2015,bairro_maputo,Inguide,MZ11069905,45,1072.62
+2015,bairro_maputo,Inguide,MZ11069905,6,54.9
 2015,bairro_maputo,Inguide,MZ11069905,7,3.15
 2015,bairro_maputo,Inguane,MZ11079901,0,0.0
 2015,bairro_maputo,Inguane,MZ11079901,1,0.0
@@ -7721,12 +7721,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Malhampsene,MZ10010104,6,1.17
 2015,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2015,bairro_matola,Matola A,MZ10010105,0,0.0
-2015,bairro_matola,Matola A,MZ10010105,1,1292.85
+2015,bairro_matola,Matola A,MZ10010105,1,1292.67
 2015,bairro_matola,Matola A,MZ10010105,2,50.31
 2015,bairro_matola,Matola A,MZ10010105,3,0.36
-2015,bairro_matola,Matola A,MZ10010105,45,530.37
-2015,bairro_matola,Matola A,MZ10010105,6,333.0
-2015,bairro_matola,Matola A,MZ10010105,7,8.28
+2015,bairro_matola,Matola A,MZ10010105,45,520.38
+2015,bairro_matola,Matola A,MZ10010105,6,343.53
+2015,bairro_matola,Matola A,MZ10010105,7,7.92
 2015,bairro_matola,Matola B,MZ10010106,0,0.0
 2015,bairro_matola,Matola B,MZ10010106,1,129.06
 2015,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -7738,15 +7738,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Matola C,MZ10010107,1,280.26
 2015,bairro_matola,Matola C,MZ10010107,2,19.98
 2015,bairro_matola,Matola C,MZ10010107,3,0.27
-2015,bairro_matola,Matola C,MZ10010107,45,130.14
-2015,bairro_matola,Matola C,MZ10010107,6,64.98
+2015,bairro_matola,Matola C,MZ10010107,45,128.07
+2015,bairro_matola,Matola C,MZ10010107,6,67.05
 2015,bairro_matola,Matola C,MZ10010107,7,2.43
 2015,bairro_matola,Matola D,MZ10010108,0,0.0
 2015,bairro_matola,Matola D,MZ10010108,1,182.43
 2015,bairro_matola,Matola D,MZ10010108,2,9.0
 2015,bairro_matola,Matola D,MZ10010108,3,1.89
-2015,bairro_matola,Matola D,MZ10010108,45,110.07
-2015,bairro_matola,Matola D,MZ10010108,6,11.25
+2015,bairro_matola,Matola D,MZ10010108,45,108.99
+2015,bairro_matola,Matola D,MZ10010108,6,12.33
 2015,bairro_matola,Matola D,MZ10010108,7,0.0
 2015,bairro_matola,Matola F,MZ10010109,0,0.0
 2015,bairro_matola,Matola F,MZ10010109,1,163.35
@@ -7773,15 +7773,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Matola J,MZ10010112,1,91.89
 2015,bairro_matola,Matola J,MZ10010112,2,6.21
 2015,bairro_matola,Matola J,MZ10010112,3,0.27
-2015,bairro_matola,Matola J,MZ10010112,45,34.83
-2015,bairro_matola,Matola J,MZ10010112,6,0.27
+2015,bairro_matola,Matola J,MZ10010112,45,34.38
+2015,bairro_matola,Matola J,MZ10010112,6,0.72
 2015,bairro_matola,Matola J,MZ10010112,7,0.0
 2015,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2015,bairro_matola,Mussumbuluco,MZ10010113,1,373.5
 2015,bairro_matola,Mussumbuluco,MZ10010113,2,11.16
 2015,bairro_matola,Mussumbuluco,MZ10010113,3,1.62
-2015,bairro_matola,Mussumbuluco,MZ10010113,45,148.86
-2015,bairro_matola,Mussumbuluco,MZ10010113,6,1.35
+2015,bairro_matola,Mussumbuluco,MZ10010113,45,148.68
+2015,bairro_matola,Mussumbuluco,MZ10010113,6,1.53
 2015,bairro_matola,Mussumbuluco,MZ10010113,7,0.0
 2015,bairro_matola,Infulene D,MZ10010201,0,0.0
 2015,bairro_matola,Infulene D,MZ10010201,1,177.93
@@ -7864,8 +7864,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Vale de Infulene,MZ10010214,1,133.2
 2015,bairro_matola,Vale de Infulene,MZ10010214,2,142.02
 2015,bairro_matola,Vale de Infulene,MZ10010214,3,1.44
-2015,bairro_matola,Vale de Infulene,MZ10010214,45,127.71
-2015,bairro_matola,Vale de Infulene,MZ10010214,6,0.0
+2015,bairro_matola,Vale de Infulene,MZ10010214,45,124.92
+2015,bairro_matola,Vale de Infulene,MZ10010214,6,2.79
 2015,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2015,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2015,bairro_matola,Zona Verde,MZ10010215,1,421.38
@@ -7976,23 +7976,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Eduardo Mondlane,MZ10020101,1,21.96
 2015,bairro_matola,Eduardo Mondlane,MZ10020101,2,33.75
 2015,bairro_matola,Eduardo Mondlane,MZ10020101,3,0.63
-2015,bairro_matola,Eduardo Mondlane,MZ10020101,45,5350.5
-2015,bairro_matola,Eduardo Mondlane,MZ10020101,6,502.92
+2015,bairro_matola,Eduardo Mondlane,MZ10020101,45,5346.54
+2015,bairro_matola,Eduardo Mondlane,MZ10020101,6,506.88
 2015,bairro_matola,Eduardo Mondlane,MZ10020101,7,13.23
 2015,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2015,bairro_matola,Gueguegue,MZ10020102,1,161.64
 2015,bairro_matola,Gueguegue,MZ10020102,2,22.5
 2015,bairro_matola,Gueguegue,MZ10020102,3,2.34
-2015,bairro_matola,Gueguegue,MZ10020102,45,244.8
-2015,bairro_matola,Gueguegue,MZ10020102,6,8.28
+2015,bairro_matola,Gueguegue,MZ10020102,45,244.53
+2015,bairro_matola,Gueguegue,MZ10020102,6,8.55
 2015,bairro_matola,Gueguegue,MZ10020102,7,0.0
 2015,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2015,bairro_matola,Matola Rio-Sede,MZ10020201,1,2310.12
 2015,bairro_matola,Matola Rio-Sede,MZ10020201,2,161.46
 2015,bairro_matola,Matola Rio-Sede,MZ10020201,3,136.17
-2015,bairro_matola,Matola Rio-Sede,MZ10020201,45,3370.41
-2015,bairro_matola,Matola Rio-Sede,MZ10020201,6,447.21
-2015,bairro_matola,Matola Rio-Sede,MZ10020201,7,21.24
+2015,bairro_matola,Matola Rio-Sede,MZ10020201,45,3347.37
+2015,bairro_matola,Matola Rio-Sede,MZ10020201,6,472.95
+2015,bairro_matola,Matola Rio-Sede,MZ10020201,7,18.54
 2015,bairro_matola,Mulotana,MZ10020202,0,0.0
 2015,bairro_matola,Mulotana,MZ10020202,1,109.8
 2015,bairro_matola,Mulotana,MZ10020202,2,6.12
@@ -8004,16 +8004,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Marracuene-Sede,MZ10050101,1,625.95
 2015,bairro_matola,Marracuene-Sede,MZ10050101,2,341.19
 2015,bairro_matola,Marracuene-Sede,MZ10050101,3,249.3
-2015,bairro_matola,Marracuene-Sede,MZ10050101,45,3431.79
-2015,bairro_matola,Marracuene-Sede,MZ10050101,6,138.15
+2015,bairro_matola,Marracuene-Sede,MZ10050101,45,3427.2
+2015,bairro_matola,Marracuene-Sede,MZ10050101,6,142.74
 2015,bairro_matola,Marracuene-Sede,MZ10050101,7,19.98
 2015,bairro_matola,Macaneta,MZ10050102,0,0.0
 2015,bairro_matola,Macaneta,MZ10050102,1,58.59
 2015,bairro_matola,Macaneta,MZ10050102,2,34.02
 2015,bairro_matola,Macaneta,MZ10050102,3,10.62
-2015,bairro_matola,Macaneta,MZ10050102,45,2382.21
-2015,bairro_matola,Macaneta,MZ10050102,6,676.44
-2015,bairro_matola,Macaneta,MZ10050102,7,153.63
+2015,bairro_matola,Macaneta,MZ10050102,45,2374.65
+2015,bairro_matola,Macaneta,MZ10050102,6,692.28
+2015,bairro_matola,Macaneta,MZ10050102,7,145.35
 2015,bairro_matola,Michafutene,MZ10050104,0,0.0
 2015,bairro_matola,Michafutene,MZ10050104,1,4149.9
 2015,bairro_matola,Michafutene,MZ10050104,2,205.47
@@ -8039,8 +8039,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2015,bairro_matola,Mugazine,MZ10060202,1,36.81
 2015,bairro_matola,Mugazine,MZ10060202,2,0.81
 2015,bairro_matola,Mugazine,MZ10060202,3,3.69
-2015,bairro_matola,Mugazine,MZ10060202,45,2084.58
-2015,bairro_matola,Mugazine,MZ10060202,6,11.88
+2015,bairro_matola,Mugazine,MZ10060202,45,2084.4
+2015,bairro_matola,Mugazine,MZ10060202,6,12.06
 2015,bairro_matola,Mugazine,MZ10060202,7,3.15
 2015,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2015,bairro_matola,Pessene-Sede,MZ10070201,1,149.22
@@ -8057,11 +8057,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2017,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2017,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2017,bairro_maputo,Alto Mae B,MZ11019902,1,168.93
+2017,bairro_maputo,Alto Mae B,MZ11019902,1,168.75
 2017,bairro_maputo,Alto Mae B,MZ11019902,2,0.09
 2017,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2017,bairro_maputo,Alto Mae B,MZ11019902,45,7.83
-2017,bairro_maputo,Alto Mae B,MZ11019902,6,3.87
+2017,bairro_maputo,Alto Mae B,MZ11019902,45,7.74
+2017,bairro_maputo,Alto Mae B,MZ11019902,6,4.14
 2017,bairro_maputo,Alto Mae B,MZ11019902,7,2.52
 2017,bairro_maputo,Central A,MZ11019903,0,0.0
 2017,bairro_maputo,Central A,MZ11019903,1,56.52
@@ -8078,12 +8078,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Central B,MZ11019904,6,0.0
 2017,bairro_maputo,Central B,MZ11019904,7,0.0
 2017,bairro_maputo,Central C,MZ11019905,0,0.0
-2017,bairro_maputo,Central C,MZ11019905,1,178.11
+2017,bairro_maputo,Central C,MZ11019905,1,177.21
 2017,bairro_maputo,Central C,MZ11019905,2,0.18
 2017,bairro_maputo,Central C,MZ11019905,3,0.0
 2017,bairro_maputo,Central C,MZ11019905,45,19.98
-2017,bairro_maputo,Central C,MZ11019905,6,4.95
-2017,bairro_maputo,Central C,MZ11019905,7,0.9
+2017,bairro_maputo,Central C,MZ11019905,6,6.03
+2017,bairro_maputo,Central C,MZ11019905,7,0.72
 2017,bairro_maputo,Coop,MZ11019906,0,0.0
 2017,bairro_maputo,Coop,MZ11019906,1,66.33
 2017,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -8106,11 +8106,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2017,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2017,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2017,bairro_maputo,Polana Cimento A,MZ11019909,1,119.61
+2017,bairro_maputo,Polana Cimento A,MZ11019909,1,119.34
 2017,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2017,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
 2017,bairro_maputo,Polana Cimento A,MZ11019909,45,14.67
-2017,bairro_maputo,Polana Cimento A,MZ11019909,6,1.08
+2017,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
 2017,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2017,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2017,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -8277,16 +8277,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Albazine,MZ11049903,1,608.49
 2017,bairro_maputo,Albazine,MZ11049903,2,300.96
 2017,bairro_maputo,Albazine,MZ11049903,3,93.15
-2017,bairro_maputo,Albazine,MZ11049903,45,1554.12
-2017,bairro_maputo,Albazine,MZ11049903,6,29.07
+2017,bairro_maputo,Albazine,MZ11049903,45,1552.23
+2017,bairro_maputo,Albazine,MZ11049903,6,30.96
 2017,bairro_maputo,Albazine,MZ11049903,7,20.16
 2017,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2017,bairro_maputo,Costa do Sol,MZ11049904,1,392.13
 2017,bairro_maputo,Costa do Sol,MZ11049904,2,92.7
 2017,bairro_maputo,Costa do Sol,MZ11049904,3,25.83
-2017,bairro_maputo,Costa do Sol,MZ11049904,45,1206.99
-2017,bairro_maputo,Costa do Sol,MZ11049904,6,87.75
-2017,bairro_maputo,Costa do Sol,MZ11049904,7,185.13
+2017,bairro_maputo,Costa do Sol,MZ11049904,45,1204.65
+2017,bairro_maputo,Costa do Sol,MZ11049904,6,125.91
+2017,bairro_maputo,Costa do Sol,MZ11049904,7,149.31
 2017,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2017,bairro_maputo,Ferroviario,MZ11049905,1,367.11
 2017,bairro_maputo,Ferroviario,MZ11049905,2,67.68
@@ -8396,8 +8396,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Luis Cabral,MZ11059908,1,415.35
 2017,bairro_maputo,Luis Cabral,MZ11059908,2,13.59
 2017,bairro_maputo,Luis Cabral,MZ11059908,3,0.0
-2017,bairro_maputo,Luis Cabral,MZ11059908,45,92.79
-2017,bairro_maputo,Luis Cabral,MZ11059908,6,11.88
+2017,bairro_maputo,Luis Cabral,MZ11059908,45,90.27
+2017,bairro_maputo,Luis Cabral,MZ11059908,6,14.4
 2017,bairro_maputo,Luis Cabral,MZ11059908,7,1.08
 2017,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2017,bairro_maputo,Magoanine A,MZ11059909,1,541.8
@@ -8459,22 +8459,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_maputo,Guachene,MZ11069903,1,55.35
 2017,bairro_maputo,Guachene,MZ11069903,2,0.36
 2017,bairro_maputo,Guachene,MZ11069903,3,0.72
-2017,bairro_maputo,Guachene,MZ11069903,45,207.54
-2017,bairro_maputo,Guachene,MZ11069903,6,57.69
-2017,bairro_maputo,Guachene,MZ11069903,7,35.91
+2017,bairro_maputo,Guachene,MZ11069903,45,206.46
+2017,bairro_maputo,Guachene,MZ11069903,6,58.95
+2017,bairro_maputo,Guachene,MZ11069903,7,35.73
 2017,bairro_maputo,Incassane,MZ11069904,0,0.0
 2017,bairro_maputo,Incassane,MZ11069904,1,74.88
 2017,bairro_maputo,Incassane,MZ11069904,2,40.59
 2017,bairro_maputo,Incassane,MZ11069904,3,3.87
-2017,bairro_maputo,Incassane,MZ11069904,45,6271.83
-2017,bairro_maputo,Incassane,MZ11069904,6,445.41
+2017,bairro_maputo,Incassane,MZ11069904,45,6271.02
+2017,bairro_maputo,Incassane,MZ11069904,6,446.22
 2017,bairro_maputo,Incassane,MZ11069904,7,31.32
 2017,bairro_maputo,Inguide,MZ11069905,0,0.0
 2017,bairro_maputo,Inguide,MZ11069905,1,277.11
 2017,bairro_maputo,Inguide,MZ11069905,2,0.0
 2017,bairro_maputo,Inguide,MZ11069905,3,0.45
-2017,bairro_maputo,Inguide,MZ11069905,45,1051.29
-2017,bairro_maputo,Inguide,MZ11069905,6,52.83
+2017,bairro_maputo,Inguide,MZ11069905,45,1049.94
+2017,bairro_maputo,Inguide,MZ11069905,6,54.18
 2017,bairro_maputo,Inguide,MZ11069905,7,5.04
 2017,bairro_maputo,Inguane,MZ11079901,0,0.0
 2017,bairro_maputo,Inguane,MZ11079901,1,0.0
@@ -8526,12 +8526,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Malhampsene,MZ10010104,6,0.99
 2017,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2017,bairro_matola,Matola A,MZ10010105,0,0.0
-2017,bairro_matola,Matola A,MZ10010105,1,1308.69
+2017,bairro_matola,Matola A,MZ10010105,1,1308.51
 2017,bairro_matola,Matola A,MZ10010105,2,49.14
 2017,bairro_matola,Matola A,MZ10010105,3,1.89
-2017,bairro_matola,Matola A,MZ10010105,45,518.31
-2017,bairro_matola,Matola A,MZ10010105,6,336.15
-2017,bairro_matola,Matola A,MZ10010105,7,0.99
+2017,bairro_matola,Matola A,MZ10010105,45,506.97
+2017,bairro_matola,Matola A,MZ10010105,6,348.03
+2017,bairro_matola,Matola A,MZ10010105,7,0.63
 2017,bairro_matola,Matola B,MZ10010106,0,0.0
 2017,bairro_matola,Matola B,MZ10010106,1,129.06
 2017,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -8543,15 +8543,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Matola C,MZ10010107,1,285.66
 2017,bairro_matola,Matola C,MZ10010107,2,21.33
 2017,bairro_matola,Matola C,MZ10010107,3,0.09
-2017,bairro_matola,Matola C,MZ10010107,45,123.93
-2017,bairro_matola,Matola C,MZ10010107,6,65.34
+2017,bairro_matola,Matola C,MZ10010107,45,122.4
+2017,bairro_matola,Matola C,MZ10010107,6,66.87
 2017,bairro_matola,Matola C,MZ10010107,7,1.71
 2017,bairro_matola,Matola D,MZ10010108,0,0.0
 2017,bairro_matola,Matola D,MZ10010108,1,186.84
 2017,bairro_matola,Matola D,MZ10010108,2,7.29
 2017,bairro_matola,Matola D,MZ10010108,3,0.09
-2017,bairro_matola,Matola D,MZ10010108,45,108.45
-2017,bairro_matola,Matola D,MZ10010108,6,11.97
+2017,bairro_matola,Matola D,MZ10010108,45,107.55
+2017,bairro_matola,Matola D,MZ10010108,6,12.87
 2017,bairro_matola,Matola D,MZ10010108,7,0.0
 2017,bairro_matola,Matola F,MZ10010109,0,0.0
 2017,bairro_matola,Matola F,MZ10010109,1,163.44
@@ -8578,15 +8578,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Matola J,MZ10010112,1,92.16
 2017,bairro_matola,Matola J,MZ10010112,2,6.03
 2017,bairro_matola,Matola J,MZ10010112,3,0.0
-2017,bairro_matola,Matola J,MZ10010112,45,34.74
-2017,bairro_matola,Matola J,MZ10010112,6,0.54
+2017,bairro_matola,Matola J,MZ10010112,45,34.56
+2017,bairro_matola,Matola J,MZ10010112,6,0.72
 2017,bairro_matola,Matola J,MZ10010112,7,0.0
 2017,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2017,bairro_matola,Mussumbuluco,MZ10010113,1,387.0
 2017,bairro_matola,Mussumbuluco,MZ10010113,2,10.35
 2017,bairro_matola,Mussumbuluco,MZ10010113,3,0.36
-2017,bairro_matola,Mussumbuluco,MZ10010113,45,138.15
-2017,bairro_matola,Mussumbuluco,MZ10010113,6,0.63
+2017,bairro_matola,Mussumbuluco,MZ10010113,45,137.34
+2017,bairro_matola,Mussumbuluco,MZ10010113,6,1.44
 2017,bairro_matola,Mussumbuluco,MZ10010113,7,0.0
 2017,bairro_matola,Infulene D,MZ10010201,0,0.0
 2017,bairro_matola,Infulene D,MZ10010201,1,179.01
@@ -8669,8 +8669,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Vale de Infulene,MZ10010214,1,134.28
 2017,bairro_matola,Vale de Infulene,MZ10010214,2,148.68
 2017,bairro_matola,Vale de Infulene,MZ10010214,3,0.54
-2017,bairro_matola,Vale de Infulene,MZ10010214,45,120.87
-2017,bairro_matola,Vale de Infulene,MZ10010214,6,0.0
+2017,bairro_matola,Vale de Infulene,MZ10010214,45,118.08
+2017,bairro_matola,Vale de Infulene,MZ10010214,6,2.79
 2017,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2017,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2017,bairro_matola,Zona Verde,MZ10010215,1,423.9
@@ -8781,8 +8781,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Eduardo Mondlane,MZ10020101,1,25.83
 2017,bairro_matola,Eduardo Mondlane,MZ10020101,2,21.78
 2017,bairro_matola,Eduardo Mondlane,MZ10020101,3,4.77
-2017,bairro_matola,Eduardo Mondlane,MZ10020101,45,5353.83
-2017,bairro_matola,Eduardo Mondlane,MZ10020101,6,508.05
+2017,bairro_matola,Eduardo Mondlane,MZ10020101,45,5351.76
+2017,bairro_matola,Eduardo Mondlane,MZ10020101,6,510.12
 2017,bairro_matola,Eduardo Mondlane,MZ10020101,7,8.73
 2017,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2017,bairro_matola,Gueguegue,MZ10020102,1,162.18
@@ -8795,9 +8795,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Matola Rio-Sede,MZ10020201,1,2355.12
 2017,bairro_matola,Matola Rio-Sede,MZ10020201,2,155.61
 2017,bairro_matola,Matola Rio-Sede,MZ10020201,3,3.87
-2017,bairro_matola,Matola Rio-Sede,MZ10020201,45,3470.76
-2017,bairro_matola,Matola Rio-Sede,MZ10020201,6,450.99
-2017,bairro_matola,Matola Rio-Sede,MZ10020201,7,10.26
+2017,bairro_matola,Matola Rio-Sede,MZ10020201,45,3450.51
+2017,bairro_matola,Matola Rio-Sede,MZ10020201,6,474.03
+2017,bairro_matola,Matola Rio-Sede,MZ10020201,7,7.47
 2017,bairro_matola,Mulotana,MZ10020202,0,0.0
 2017,bairro_matola,Mulotana,MZ10020202,1,130.68
 2017,bairro_matola,Mulotana,MZ10020202,2,1.08
@@ -8809,16 +8809,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Marracuene-Sede,MZ10050101,1,675.36
 2017,bairro_matola,Marracuene-Sede,MZ10050101,2,347.94
 2017,bairro_matola,Marracuene-Sede,MZ10050101,3,180.72
-2017,bairro_matola,Marracuene-Sede,MZ10050101,45,3429.09
-2017,bairro_matola,Marracuene-Sede,MZ10050101,6,143.37
-2017,bairro_matola,Marracuene-Sede,MZ10050101,7,29.88
+2017,bairro_matola,Marracuene-Sede,MZ10050101,45,3426.48
+2017,bairro_matola,Marracuene-Sede,MZ10050101,6,146.16
+2017,bairro_matola,Marracuene-Sede,MZ10050101,7,29.7
 2017,bairro_matola,Macaneta,MZ10050102,0,0.0
 2017,bairro_matola,Macaneta,MZ10050102,1,59.67
 2017,bairro_matola,Macaneta,MZ10050102,2,34.38
 2017,bairro_matola,Macaneta,MZ10050102,3,8.82
-2017,bairro_matola,Macaneta,MZ10050102,45,2390.76
-2017,bairro_matola,Macaneta,MZ10050102,6,684.36
-2017,bairro_matola,Macaneta,MZ10050102,7,137.52
+2017,bairro_matola,Macaneta,MZ10050102,45,2385.9
+2017,bairro_matola,Macaneta,MZ10050102,6,698.22
+2017,bairro_matola,Macaneta,MZ10050102,7,128.52
 2017,bairro_matola,Michafutene,MZ10050104,0,0.0
 2017,bairro_matola,Michafutene,MZ10050104,1,4348.71
 2017,bairro_matola,Michafutene,MZ10050104,2,229.59
@@ -8844,8 +8844,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2017,bairro_matola,Mugazine,MZ10060202,1,36.81
 2017,bairro_matola,Mugazine,MZ10060202,2,0.0
 2017,bairro_matola,Mugazine,MZ10060202,3,0.0
-2017,bairro_matola,Mugazine,MZ10060202,45,2089.62
-2017,bairro_matola,Mugazine,MZ10060202,6,11.88
+2017,bairro_matola,Mugazine,MZ10060202,45,2089.53
+2017,bairro_matola,Mugazine,MZ10060202,6,11.97
 2017,bairro_matola,Mugazine,MZ10060202,7,2.61
 2017,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2017,bairro_matola,Pessene-Sede,MZ10070201,1,149.49
@@ -8862,11 +8862,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2020,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2020,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2020,bairro_maputo,Alto Mae B,MZ11019902,1,177.03
+2020,bairro_maputo,Alto Mae B,MZ11019902,1,176.85
 2020,bairro_maputo,Alto Mae B,MZ11019902,2,0.0
 2020,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
 2020,bairro_maputo,Alto Mae B,MZ11019902,45,1.17
-2020,bairro_maputo,Alto Mae B,MZ11019902,6,4.68
+2020,bairro_maputo,Alto Mae B,MZ11019902,6,4.86
 2020,bairro_maputo,Alto Mae B,MZ11019902,7,0.36
 2020,bairro_maputo,Central A,MZ11019903,0,0.0
 2020,bairro_maputo,Central A,MZ11019903,1,56.52
@@ -8883,12 +8883,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Central B,MZ11019904,6,0.0
 2020,bairro_maputo,Central B,MZ11019904,7,0.0
 2020,bairro_maputo,Central C,MZ11019905,0,0.0
-2020,bairro_maputo,Central C,MZ11019905,1,179.46
+2020,bairro_maputo,Central C,MZ11019905,1,178.56
 2020,bairro_maputo,Central C,MZ11019905,2,0.09
 2020,bairro_maputo,Central C,MZ11019905,3,0.0
-2020,bairro_maputo,Central C,MZ11019905,45,18.72
-2020,bairro_maputo,Central C,MZ11019905,6,4.86
-2020,bairro_maputo,Central C,MZ11019905,7,0.99
+2020,bairro_maputo,Central C,MZ11019905,45,18.63
+2020,bairro_maputo,Central C,MZ11019905,6,5.94
+2020,bairro_maputo,Central C,MZ11019905,7,0.9
 2020,bairro_maputo,Coop,MZ11019906,0,0.0
 2020,bairro_maputo,Coop,MZ11019906,1,66.33
 2020,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -8911,11 +8911,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2020,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2020,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2020,bairro_maputo,Polana Cimento A,MZ11019909,1,119.88
+2020,bairro_maputo,Polana Cimento A,MZ11019909,1,119.61
 2020,bairro_maputo,Polana Cimento A,MZ11019909,2,0.18
 2020,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
 2020,bairro_maputo,Polana Cimento A,MZ11019909,45,14.13
-2020,bairro_maputo,Polana Cimento A,MZ11019909,6,1.17
+2020,bairro_maputo,Polana Cimento A,MZ11019909,6,1.44
 2020,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2020,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2020,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -8928,9 +8928,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Sommerschield,MZ11019911,1,317.79
 2020,bairro_maputo,Sommerschield,MZ11019911,2,2.16
 2020,bairro_maputo,Sommerschield,MZ11019911,3,0.0
-2020,bairro_maputo,Sommerschield,MZ11019911,45,28.89
-2020,bairro_maputo,Sommerschield,MZ11019911,6,5.85
-2020,bairro_maputo,Sommerschield,MZ11019911,7,13.77
+2020,bairro_maputo,Sommerschield,MZ11019911,45,28.62
+2020,bairro_maputo,Sommerschield,MZ11019911,6,6.39
+2020,bairro_maputo,Sommerschield,MZ11019911,7,13.5
 2020,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2020,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 2020,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -9082,16 +9082,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Albazine,MZ11049903,1,661.32
 2020,bairro_maputo,Albazine,MZ11049903,2,296.46
 2020,bairro_maputo,Albazine,MZ11049903,3,111.78
-2020,bairro_maputo,Albazine,MZ11049903,45,1477.53
-2020,bairro_maputo,Albazine,MZ11049903,6,24.48
-2020,bairro_maputo,Albazine,MZ11049903,7,34.38
+2020,bairro_maputo,Albazine,MZ11049903,45,1473.12
+2020,bairro_maputo,Albazine,MZ11049903,6,29.16
+2020,bairro_maputo,Albazine,MZ11049903,7,34.11
 2020,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2020,bairro_maputo,Costa do Sol,MZ11049904,1,462.78
 2020,bairro_maputo,Costa do Sol,MZ11049904,2,87.03
 2020,bairro_maputo,Costa do Sol,MZ11049904,3,25.29
-2020,bairro_maputo,Costa do Sol,MZ11049904,45,1021.5
-2020,bairro_maputo,Costa do Sol,MZ11049904,6,78.39
-2020,bairro_maputo,Costa do Sol,MZ11049904,7,315.54
+2020,bairro_maputo,Costa do Sol,MZ11049904,45,1018.17
+2020,bairro_maputo,Costa do Sol,MZ11049904,6,124.92
+2020,bairro_maputo,Costa do Sol,MZ11049904,7,272.34
 2020,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2020,bairro_maputo,Ferroviario,MZ11049905,1,369.99
 2020,bairro_maputo,Ferroviario,MZ11049905,2,66.51
@@ -9201,9 +9201,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Luis Cabral,MZ11059908,1,423.63
 2020,bairro_maputo,Luis Cabral,MZ11059908,2,17.28
 2020,bairro_maputo,Luis Cabral,MZ11059908,3,0.09
-2020,bairro_maputo,Luis Cabral,MZ11059908,45,77.49
-2020,bairro_maputo,Luis Cabral,MZ11059908,6,9.45
-2020,bairro_maputo,Luis Cabral,MZ11059908,7,6.75
+2020,bairro_maputo,Luis Cabral,MZ11059908,45,73.53
+2020,bairro_maputo,Luis Cabral,MZ11059908,6,14.85
+2020,bairro_maputo,Luis Cabral,MZ11059908,7,5.31
 2020,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2020,bairro_maputo,Magoanine A,MZ11059909,1,541.8
 2020,bairro_maputo,Magoanine A,MZ11059909,2,0.09
@@ -9251,8 +9251,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Chali,MZ11069901,2,30.87
 2020,bairro_maputo,Chali,MZ11069901,3,1.17
 2020,bairro_maputo,Chali,MZ11069901,45,1115.55
-2020,bairro_maputo,Chali,MZ11069901,6,41.4
-2020,bairro_maputo,Chali,MZ11069901,7,22.05
+2020,bairro_maputo,Chali,MZ11069901,6,41.67
+2020,bairro_maputo,Chali,MZ11069901,7,21.78
 2020,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2020,bairro_maputo,Chamissava,MZ11069902,1,109.08
 2020,bairro_maputo,Chamissava,MZ11069902,2,133.11
@@ -9264,23 +9264,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_maputo,Guachene,MZ11069903,1,61.38
 2020,bairro_maputo,Guachene,MZ11069903,2,0.99
 2020,bairro_maputo,Guachene,MZ11069903,3,0.9
-2020,bairro_maputo,Guachene,MZ11069903,45,205.74
-2020,bairro_maputo,Guachene,MZ11069903,6,50.76
-2020,bairro_maputo,Guachene,MZ11069903,7,37.8
+2020,bairro_maputo,Guachene,MZ11069903,45,202.41
+2020,bairro_maputo,Guachene,MZ11069903,6,57.42
+2020,bairro_maputo,Guachene,MZ11069903,7,34.47
 2020,bairro_maputo,Incassane,MZ11069904,0,0.0
 2020,bairro_maputo,Incassane,MZ11069904,1,90.99
 2020,bairro_maputo,Incassane,MZ11069904,2,59.04
 2020,bairro_maputo,Incassane,MZ11069904,3,16.74
-2020,bairro_maputo,Incassane,MZ11069904,45,6155.19
-2020,bairro_maputo,Incassane,MZ11069904,6,439.29
+2020,bairro_maputo,Incassane,MZ11069904,45,6152.13
+2020,bairro_maputo,Incassane,MZ11069904,6,442.35
 2020,bairro_maputo,Incassane,MZ11069904,7,106.65
 2020,bairro_maputo,Inguide,MZ11069905,0,0.0
 2020,bairro_maputo,Inguide,MZ11069905,1,295.65
 2020,bairro_maputo,Inguide,MZ11069905,2,0.18
 2020,bairro_maputo,Inguide,MZ11069905,3,0.27
-2020,bairro_maputo,Inguide,MZ11069905,45,1034.91
-2020,bairro_maputo,Inguide,MZ11069905,6,43.92
-2020,bairro_maputo,Inguide,MZ11069905,7,11.79
+2020,bairro_maputo,Inguide,MZ11069905,45,1028.34
+2020,bairro_maputo,Inguide,MZ11069905,6,50.94
+2020,bairro_maputo,Inguide,MZ11069905,7,11.34
 2020,bairro_maputo,Inguane,MZ11079901,0,0.0
 2020,bairro_maputo,Inguane,MZ11079901,1,0.0
 2020,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -9331,12 +9331,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Malhampsene,MZ10010104,6,0.63
 2020,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2020,bairro_matola,Matola A,MZ10010105,0,0.0
-2020,bairro_matola,Matola A,MZ10010105,1,1340.91
-2020,bairro_matola,Matola A,MZ10010105,2,61.92
+2020,bairro_matola,Matola A,MZ10010105,1,1340.73
+2020,bairro_matola,Matola A,MZ10010105,2,61.83
 2020,bairro_matola,Matola A,MZ10010105,3,2.43
-2020,bairro_matola,Matola A,MZ10010105,45,505.8
-2020,bairro_matola,Matola A,MZ10010105,6,299.88
-2020,bairro_matola,Matola A,MZ10010105,7,4.23
+2020,bairro_matola,Matola A,MZ10010105,45,486.36
+2020,bairro_matola,Matola A,MZ10010105,6,319.77
+2020,bairro_matola,Matola A,MZ10010105,7,4.05
 2020,bairro_matola,Matola B,MZ10010106,0,0.0
 2020,bairro_matola,Matola B,MZ10010106,1,129.06
 2020,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -9348,15 +9348,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Matola C,MZ10010107,1,291.78
 2020,bairro_matola,Matola C,MZ10010107,2,23.49
 2020,bairro_matola,Matola C,MZ10010107,3,0.63
-2020,bairro_matola,Matola C,MZ10010107,45,116.64
-2020,bairro_matola,Matola C,MZ10010107,6,63.9
+2020,bairro_matola,Matola C,MZ10010107,45,113.85
+2020,bairro_matola,Matola C,MZ10010107,6,66.69
 2020,bairro_matola,Matola C,MZ10010107,7,1.62
 2020,bairro_matola,Matola D,MZ10010108,0,0.0
 2020,bairro_matola,Matola D,MZ10010108,1,200.16
 2020,bairro_matola,Matola D,MZ10010108,2,7.92
 2020,bairro_matola,Matola D,MZ10010108,3,2.34
-2020,bairro_matola,Matola D,MZ10010108,45,93.24
-2020,bairro_matola,Matola D,MZ10010108,6,10.71
+2020,bairro_matola,Matola D,MZ10010108,45,91.98
+2020,bairro_matola,Matola D,MZ10010108,6,11.97
 2020,bairro_matola,Matola D,MZ10010108,7,0.27
 2020,bairro_matola,Matola F,MZ10010109,0,0.0
 2020,bairro_matola,Matola F,MZ10010109,1,164.16
@@ -9383,15 +9383,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Matola J,MZ10010112,1,94.95
 2020,bairro_matola,Matola J,MZ10010112,2,6.03
 2020,bairro_matola,Matola J,MZ10010112,3,0.27
-2020,bairro_matola,Matola J,MZ10010112,45,31.59
-2020,bairro_matola,Matola J,MZ10010112,6,0.63
+2020,bairro_matola,Matola J,MZ10010112,45,31.5
+2020,bairro_matola,Matola J,MZ10010112,6,0.72
 2020,bairro_matola,Matola J,MZ10010112,7,0.0
 2020,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2020,bairro_matola,Mussumbuluco,MZ10010113,1,390.51
 2020,bairro_matola,Mussumbuluco,MZ10010113,2,11.97
 2020,bairro_matola,Mussumbuluco,MZ10010113,3,1.17
-2020,bairro_matola,Mussumbuluco,MZ10010113,45,132.75
-2020,bairro_matola,Mussumbuluco,MZ10010113,6,0.09
+2020,bairro_matola,Mussumbuluco,MZ10010113,45,131.67
+2020,bairro_matola,Mussumbuluco,MZ10010113,6,1.17
 2020,bairro_matola,Mussumbuluco,MZ10010113,7,0.0
 2020,bairro_matola,Infulene D,MZ10010201,0,0.0
 2020,bairro_matola,Infulene D,MZ10010201,1,179.46
@@ -9474,8 +9474,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Vale de Infulene,MZ10010214,1,136.8
 2020,bairro_matola,Vale de Infulene,MZ10010214,2,184.86
 2020,bairro_matola,Vale de Infulene,MZ10010214,3,5.85
-2020,bairro_matola,Vale de Infulene,MZ10010214,45,76.86
-2020,bairro_matola,Vale de Infulene,MZ10010214,6,0.0
+2020,bairro_matola,Vale de Infulene,MZ10010214,45,74.07
+2020,bairro_matola,Vale de Infulene,MZ10010214,6,2.79
 2020,bairro_matola,Vale de Infulene,MZ10010214,7,0.0
 2020,bairro_matola,Zona Verde,MZ10010215,0,0.0
 2020,bairro_matola,Zona Verde,MZ10010215,1,428.94
@@ -9586,22 +9586,22 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Eduardo Mondlane,MZ10020101,1,47.7
 2020,bairro_matola,Eduardo Mondlane,MZ10020101,2,47.43
 2020,bairro_matola,Eduardo Mondlane,MZ10020101,3,33.84
-2020,bairro_matola,Eduardo Mondlane,MZ10020101,45,5268.51
-2020,bairro_matola,Eduardo Mondlane,MZ10020101,6,499.77
+2020,bairro_matola,Eduardo Mondlane,MZ10020101,45,5259.87
+2020,bairro_matola,Eduardo Mondlane,MZ10020101,6,508.41
 2020,bairro_matola,Eduardo Mondlane,MZ10020101,7,25.74
 2020,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2020,bairro_matola,Gueguegue,MZ10020102,1,176.22
 2020,bairro_matola,Gueguegue,MZ10020102,2,27.45
 2020,bairro_matola,Gueguegue,MZ10020102,3,2.79
-2020,bairro_matola,Gueguegue,MZ10020102,45,224.37
-2020,bairro_matola,Gueguegue,MZ10020102,6,8.01
+2020,bairro_matola,Gueguegue,MZ10020102,45,224.01
+2020,bairro_matola,Gueguegue,MZ10020102,6,8.37
 2020,bairro_matola,Gueguegue,MZ10020102,7,0.72
 2020,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2020,bairro_matola,Matola Rio-Sede,MZ10020201,1,2746.35
 2020,bairro_matola,Matola Rio-Sede,MZ10020201,2,194.04
 2020,bairro_matola,Matola Rio-Sede,MZ10020201,3,288.99
-2020,bairro_matola,Matola Rio-Sede,MZ10020201,45,2728.53
-2020,bairro_matola,Matola Rio-Sede,MZ10020201,6,465.75
+2020,bairro_matola,Matola Rio-Sede,MZ10020201,45,2709.9
+2020,bairro_matola,Matola Rio-Sede,MZ10020201,6,484.38
 2020,bairro_matola,Matola Rio-Sede,MZ10020201,7,22.95
 2020,bairro_matola,Mulotana,MZ10020202,0,0.0
 2020,bairro_matola,Mulotana,MZ10020202,1,171.18
@@ -9614,16 +9614,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,Marracuene-Sede,MZ10050101,1,716.13
 2020,bairro_matola,Marracuene-Sede,MZ10050101,2,345.69
 2020,bairro_matola,Marracuene-Sede,MZ10050101,3,226.71
-2020,bairro_matola,Marracuene-Sede,MZ10050101,45,3349.53
-2020,bairro_matola,Marracuene-Sede,MZ10050101,6,141.12
-2020,bairro_matola,Marracuene-Sede,MZ10050101,7,27.18
+2020,bairro_matola,Marracuene-Sede,MZ10050101,45,3344.94
+2020,bairro_matola,Marracuene-Sede,MZ10050101,6,146.25
+2020,bairro_matola,Marracuene-Sede,MZ10050101,7,26.64
 2020,bairro_matola,Macaneta,MZ10050102,0,0.0
 2020,bairro_matola,Macaneta,MZ10050102,1,69.93
 2020,bairro_matola,Macaneta,MZ10050102,2,42.57
 2020,bairro_matola,Macaneta,MZ10050102,3,45.36
-2020,bairro_matola,Macaneta,MZ10050102,45,2328.48
-2020,bairro_matola,Macaneta,MZ10050102,6,678.51
-2020,bairro_matola,Macaneta,MZ10050102,7,150.66
+2020,bairro_matola,Macaneta,MZ10050102,45,2321.82
+2020,bairro_matola,Macaneta,MZ10050102,6,695.7
+2020,bairro_matola,Macaneta,MZ10050102,7,140.13
 2020,bairro_matola,Michafutene,MZ10050104,0,0.0
 2020,bairro_matola,Michafutene,MZ10050104,1,4434.3
 2020,bairro_matola,Michafutene,MZ10050104,2,246.33
@@ -9642,15 +9642,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2020,bairro_matola,M'Sime,MZ10060201,1,56.52
 2020,bairro_matola,M'Sime,MZ10060201,2,11.43
 2020,bairro_matola,M'Sime,MZ10060201,3,3.6
-2020,bairro_matola,M'Sime,MZ10060201,45,2984.04
-2020,bairro_matola,M'Sime,MZ10060201,6,134.55
-2020,bairro_matola,M'Sime,MZ10060201,7,54.63
+2020,bairro_matola,M'Sime,MZ10060201,45,2983.95
+2020,bairro_matola,M'Sime,MZ10060201,6,138.69
+2020,bairro_matola,M'Sime,MZ10060201,7,50.58
 2020,bairro_matola,Mugazine,MZ10060202,0,0.0
 2020,bairro_matola,Mugazine,MZ10060202,1,36.81
 2020,bairro_matola,Mugazine,MZ10060202,2,0.27
 2020,bairro_matola,Mugazine,MZ10060202,3,2.52
-2020,bairro_matola,Mugazine,MZ10060202,45,2084.94
-2020,bairro_matola,Mugazine,MZ10060202,6,11.52
+2020,bairro_matola,Mugazine,MZ10060202,45,2084.49
+2020,bairro_matola,Mugazine,MZ10060202,6,11.97
 2020,bairro_matola,Mugazine,MZ10060202,7,4.86
 2020,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2020,bairro_matola,Pessene-Sede,MZ10070201,1,150.84
@@ -9667,12 +9667,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2025,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2025,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2025,bairro_maputo,Alto Mae B,MZ11019902,1,177.21
+2025,bairro_maputo,Alto Mae B,MZ11019902,1,176.94
 2025,bairro_maputo,Alto Mae B,MZ11019902,2,0.0
 2025,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2025,bairro_maputo,Alto Mae B,MZ11019902,45,2.34
-2025,bairro_maputo,Alto Mae B,MZ11019902,6,3.42
-2025,bairro_maputo,Alto Mae B,MZ11019902,7,0.27
+2025,bairro_maputo,Alto Mae B,MZ11019902,45,1.89
+2025,bairro_maputo,Alto Mae B,MZ11019902,6,4.32
+2025,bairro_maputo,Alto Mae B,MZ11019902,7,0.09
 2025,bairro_maputo,Central A,MZ11019903,0,0.0
 2025,bairro_maputo,Central A,MZ11019903,1,56.52
 2025,bairro_maputo,Central A,MZ11019903,2,0.0
@@ -9688,11 +9688,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Central B,MZ11019904,6,0.0
 2025,bairro_maputo,Central B,MZ11019904,7,0.0
 2025,bairro_maputo,Central C,MZ11019905,0,0.0
-2025,bairro_maputo,Central C,MZ11019905,1,180.54
+2025,bairro_maputo,Central C,MZ11019905,1,179.64
 2025,bairro_maputo,Central C,MZ11019905,2,0.18
 2025,bairro_maputo,Central C,MZ11019905,3,0.0
 2025,bairro_maputo,Central C,MZ11019905,45,17.64
-2025,bairro_maputo,Central C,MZ11019905,6,5.22
+2025,bairro_maputo,Central C,MZ11019905,6,6.12
 2025,bairro_maputo,Central C,MZ11019905,7,0.54
 2025,bairro_maputo,Coop,MZ11019906,0,0.0
 2025,bairro_maputo,Coop,MZ11019906,1,66.33
@@ -9716,11 +9716,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2025,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2025,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2025,bairro_maputo,Polana Cimento A,MZ11019909,1,120.33
+2025,bairro_maputo,Polana Cimento A,MZ11019909,1,120.06
 2025,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2025,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
 2025,bairro_maputo,Polana Cimento A,MZ11019909,45,13.95
-2025,bairro_maputo,Polana Cimento A,MZ11019909,6,1.08
+2025,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
 2025,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2025,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2025,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -9733,9 +9733,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Sommerschield,MZ11019911,1,319.68
 2025,bairro_maputo,Sommerschield,MZ11019911,2,0.45
 2025,bairro_maputo,Sommerschield,MZ11019911,3,0.0
-2025,bairro_maputo,Sommerschield,MZ11019911,45,31.32
-2025,bairro_maputo,Sommerschield,MZ11019911,6,5.4
-2025,bairro_maputo,Sommerschield,MZ11019911,7,11.61
+2025,bairro_maputo,Sommerschield,MZ11019911,45,30.96
+2025,bairro_maputo,Sommerschield,MZ11019911,6,6.3
+2025,bairro_maputo,Sommerschield,MZ11019911,7,11.07
 2025,bairro_maputo,Aeroporto A,MZ11029901,0,0.0
 2025,bairro_maputo,Aeroporto A,MZ11029901,1,88.29
 2025,bairro_maputo,Aeroporto A,MZ11029901,2,0.0
@@ -9887,16 +9887,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Albazine,MZ11049903,1,689.13
 2025,bairro_maputo,Albazine,MZ11049903,2,313.2
 2025,bairro_maputo,Albazine,MZ11049903,3,77.49
-2025,bairro_maputo,Albazine,MZ11049903,45,1480.86
-2025,bairro_maputo,Albazine,MZ11049903,6,23.4
+2025,bairro_maputo,Albazine,MZ11049903,45,1474.83
+2025,bairro_maputo,Albazine,MZ11049903,6,29.43
 2025,bairro_maputo,Albazine,MZ11049903,7,21.87
 2025,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2025,bairro_maputo,Costa do Sol,MZ11049904,1,518.94
 2025,bairro_maputo,Costa do Sol,MZ11049904,2,78.12
 2025,bairro_maputo,Costa do Sol,MZ11049904,3,19.08
-2025,bairro_maputo,Costa do Sol,MZ11049904,45,1045.53
-2025,bairro_maputo,Costa do Sol,MZ11049904,6,78.48
-2025,bairro_maputo,Costa do Sol,MZ11049904,7,250.38
+2025,bairro_maputo,Costa do Sol,MZ11049904,45,1041.84
+2025,bairro_maputo,Costa do Sol,MZ11049904,6,127.62
+2025,bairro_maputo,Costa do Sol,MZ11049904,7,204.93
 2025,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2025,bairro_maputo,Ferroviario,MZ11049905,1,370.44
 2025,bairro_maputo,Ferroviario,MZ11049905,2,60.75
@@ -10003,11 +10003,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Jardim,MZ11059907,6,0.0
 2025,bairro_maputo,Jardim,MZ11059907,7,0.0
 2025,bairro_maputo,Luis Cabral,MZ11059908,0,0.0
-2025,bairro_maputo,Luis Cabral,MZ11059908,1,427.14
+2025,bairro_maputo,Luis Cabral,MZ11059908,1,427.05
 2025,bairro_maputo,Luis Cabral,MZ11059908,2,18.0
 2025,bairro_maputo,Luis Cabral,MZ11059908,3,0.0
-2025,bairro_maputo,Luis Cabral,MZ11059908,45,82.17
-2025,bairro_maputo,Luis Cabral,MZ11059908,6,6.12
+2025,bairro_maputo,Luis Cabral,MZ11059908,45,74.07
+2025,bairro_maputo,Luis Cabral,MZ11059908,6,14.31
 2025,bairro_maputo,Luis Cabral,MZ11059908,7,1.26
 2025,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2025,bairro_maputo,Magoanine A,MZ11059909,1,541.98
@@ -10056,8 +10056,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Chali,MZ11069901,2,29.97
 2025,bairro_maputo,Chali,MZ11069901,3,0.0
 2025,bairro_maputo,Chali,MZ11069901,45,1103.13
-2025,bairro_maputo,Chali,MZ11069901,6,41.13
-2025,bairro_maputo,Chali,MZ11069901,7,22.05
+2025,bairro_maputo,Chali,MZ11069901,6,41.85
+2025,bairro_maputo,Chali,MZ11069901,7,21.33
 2025,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2025,bairro_maputo,Chamissava,MZ11069902,1,129.15
 2025,bairro_maputo,Chamissava,MZ11069902,2,136.62
@@ -10069,23 +10069,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_maputo,Guachene,MZ11069903,1,64.53
 2025,bairro_maputo,Guachene,MZ11069903,2,1.35
 2025,bairro_maputo,Guachene,MZ11069903,3,0.18
-2025,bairro_maputo,Guachene,MZ11069903,45,216.99
-2025,bairro_maputo,Guachene,MZ11069903,6,51.39
-2025,bairro_maputo,Guachene,MZ11069903,7,23.13
+2025,bairro_maputo,Guachene,MZ11069903,45,213.75
+2025,bairro_maputo,Guachene,MZ11069903,6,57.42
+2025,bairro_maputo,Guachene,MZ11069903,7,20.34
 2025,bairro_maputo,Incassane,MZ11069904,0,0.0
 2025,bairro_maputo,Incassane,MZ11069904,1,95.22
 2025,bairro_maputo,Incassane,MZ11069904,2,76.32
 2025,bairro_maputo,Incassane,MZ11069904,3,2.61
-2025,bairro_maputo,Incassane,MZ11069904,45,6182.19
-2025,bairro_maputo,Incassane,MZ11069904,6,450.0
+2025,bairro_maputo,Incassane,MZ11069904,45,6180.75
+2025,bairro_maputo,Incassane,MZ11069904,6,451.44
 2025,bairro_maputo,Incassane,MZ11069904,7,61.56
 2025,bairro_maputo,Inguide,MZ11069905,0,0.0
 2025,bairro_maputo,Inguide,MZ11069905,1,313.2
 2025,bairro_maputo,Inguide,MZ11069905,2,0.18
 2025,bairro_maputo,Inguide,MZ11069905,3,0.0
-2025,bairro_maputo,Inguide,MZ11069905,45,1014.3
-2025,bairro_maputo,Inguide,MZ11069905,6,48.42
-2025,bairro_maputo,Inguide,MZ11069905,7,10.62
+2025,bairro_maputo,Inguide,MZ11069905,45,1011.78
+2025,bairro_maputo,Inguide,MZ11069905,6,52.11
+2025,bairro_maputo,Inguide,MZ11069905,7,9.45
 2025,bairro_maputo,Inguane,MZ11079901,0,0.0
 2025,bairro_maputo,Inguane,MZ11079901,1,0.0
 2025,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -10136,12 +10136,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Malhampsene,MZ10010104,6,0.54
 2025,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2025,bairro_matola,Matola A,MZ10010105,0,0.0
-2025,bairro_matola,Matola A,MZ10010105,1,1351.26
-2025,bairro_matola,Matola A,MZ10010105,2,51.57
+2025,bairro_matola,Matola A,MZ10010105,1,1351.08
+2025,bairro_matola,Matola A,MZ10010105,2,51.48
 2025,bairro_matola,Matola A,MZ10010105,3,0.27
-2025,bairro_matola,Matola A,MZ10010105,45,468.09
-2025,bairro_matola,Matola A,MZ10010105,6,325.62
-2025,bairro_matola,Matola A,MZ10010105,7,18.36
+2025,bairro_matola,Matola A,MZ10010105,45,449.19
+2025,bairro_matola,Matola A,MZ10010105,6,357.3
+2025,bairro_matola,Matola A,MZ10010105,7,5.85
 2025,bairro_matola,Matola B,MZ10010106,0,0.0
 2025,bairro_matola,Matola B,MZ10010106,1,129.06
 2025,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -10153,15 +10153,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Matola C,MZ10010107,1,295.11
 2025,bairro_matola,Matola C,MZ10010107,2,23.67
 2025,bairro_matola,Matola C,MZ10010107,3,0.27
-2025,bairro_matola,Matola C,MZ10010107,45,130.14
-2025,bairro_matola,Matola C,MZ10010107,6,48.78
+2025,bairro_matola,Matola C,MZ10010107,45,115.02
+2025,bairro_matola,Matola C,MZ10010107,6,63.9
 2025,bairro_matola,Matola C,MZ10010107,7,0.09
 2025,bairro_matola,Matola D,MZ10010108,0,0.0
 2025,bairro_matola,Matola D,MZ10010108,1,211.14
 2025,bairro_matola,Matola D,MZ10010108,2,8.73
 2025,bairro_matola,Matola D,MZ10010108,3,0.09
-2025,bairro_matola,Matola D,MZ10010108,45,84.87
-2025,bairro_matola,Matola D,MZ10010108,6,9.81
+2025,bairro_matola,Matola D,MZ10010108,45,82.53
+2025,bairro_matola,Matola D,MZ10010108,6,12.15
 2025,bairro_matola,Matola D,MZ10010108,7,0.0
 2025,bairro_matola,Matola F,MZ10010109,0,0.0
 2025,bairro_matola,Matola F,MZ10010109,1,164.97
@@ -10188,15 +10188,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Matola J,MZ10010112,1,95.94
 2025,bairro_matola,Matola J,MZ10010112,2,5.22
 2025,bairro_matola,Matola J,MZ10010112,3,0.0
-2025,bairro_matola,Matola J,MZ10010112,45,31.68
-2025,bairro_matola,Matola J,MZ10010112,6,0.63
+2025,bairro_matola,Matola J,MZ10010112,45,31.41
+2025,bairro_matola,Matola J,MZ10010112,6,0.9
 2025,bairro_matola,Matola J,MZ10010112,7,0.0
 2025,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2025,bairro_matola,Mussumbuluco,MZ10010113,1,393.39
 2025,bairro_matola,Mussumbuluco,MZ10010113,2,12.15
 2025,bairro_matola,Mussumbuluco,MZ10010113,3,0.09
-2025,bairro_matola,Mussumbuluco,MZ10010113,45,130.77
-2025,bairro_matola,Mussumbuluco,MZ10010113,6,0.09
+2025,bairro_matola,Mussumbuluco,MZ10010113,45,129.69
+2025,bairro_matola,Mussumbuluco,MZ10010113,6,1.17
 2025,bairro_matola,Mussumbuluco,MZ10010113,7,0.0
 2025,bairro_matola,Infulene D,MZ10010201,0,0.0
 2025,bairro_matola,Infulene D,MZ10010201,1,179.73
@@ -10391,8 +10391,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Eduardo Mondlane,MZ10020101,1,48.24
 2025,bairro_matola,Eduardo Mondlane,MZ10020101,2,52.47
 2025,bairro_matola,Eduardo Mondlane,MZ10020101,3,11.34
-2025,bairro_matola,Eduardo Mondlane,MZ10020101,45,5277.33
-2025,bairro_matola,Eduardo Mondlane,MZ10020101,6,515.7
+2025,bairro_matola,Eduardo Mondlane,MZ10020101,45,5269.68
+2025,bairro_matola,Eduardo Mondlane,MZ10020101,6,523.35
 2025,bairro_matola,Eduardo Mondlane,MZ10020101,7,17.91
 2025,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2025,bairro_matola,Gueguegue,MZ10020102,1,176.49
@@ -10405,9 +10405,9 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Matola Rio-Sede,MZ10020201,1,2843.1
 2025,bairro_matola,Matola Rio-Sede,MZ10020201,2,194.94
 2025,bairro_matola,Matola Rio-Sede,MZ10020201,3,3.06
-2025,bairro_matola,Matola Rio-Sede,MZ10020201,45,2959.65
-2025,bairro_matola,Matola Rio-Sede,MZ10020201,6,422.1
-2025,bairro_matola,Matola Rio-Sede,MZ10020201,7,23.76
+2025,bairro_matola,Matola Rio-Sede,MZ10020201,45,2918.61
+2025,bairro_matola,Matola Rio-Sede,MZ10020201,6,471.51
+2025,bairro_matola,Matola Rio-Sede,MZ10020201,7,15.39
 2025,bairro_matola,Mulotana,MZ10020202,0,0.0
 2025,bairro_matola,Mulotana,MZ10020202,1,289.62
 2025,bairro_matola,Mulotana,MZ10020202,2,4.77
@@ -10419,16 +10419,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,Marracuene-Sede,MZ10050101,1,767.97
 2025,bairro_matola,Marracuene-Sede,MZ10050101,2,289.8
 2025,bairro_matola,Marracuene-Sede,MZ10050101,3,84.51
-2025,bairro_matola,Marracuene-Sede,MZ10050101,45,3463.2
-2025,bairro_matola,Marracuene-Sede,MZ10050101,6,134.28
-2025,bairro_matola,Marracuene-Sede,MZ10050101,7,66.6
+2025,bairro_matola,Marracuene-Sede,MZ10050101,45,3453.3
+2025,bairro_matola,Marracuene-Sede,MZ10050101,6,145.26
+2025,bairro_matola,Marracuene-Sede,MZ10050101,7,65.52
 2025,bairro_matola,Macaneta,MZ10050102,0,0.0
 2025,bairro_matola,Macaneta,MZ10050102,1,70.83
 2025,bairro_matola,Macaneta,MZ10050102,2,19.26
 2025,bairro_matola,Macaneta,MZ10050102,3,7.11
-2025,bairro_matola,Macaneta,MZ10050102,45,2406.6
-2025,bairro_matola,Macaneta,MZ10050102,6,674.64
-2025,bairro_matola,Macaneta,MZ10050102,7,137.07
+2025,bairro_matola,Macaneta,MZ10050102,45,2395.53
+2025,bairro_matola,Macaneta,MZ10050102,6,702.36
+2025,bairro_matola,Macaneta,MZ10050102,7,120.42
 2025,bairro_matola,Michafutene,MZ10050104,0,0.0
 2025,bairro_matola,Michafutene,MZ10050104,1,4539.6
 2025,bairro_matola,Michafutene,MZ10050104,2,231.93
@@ -10448,14 +10448,14 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2025,bairro_matola,M'Sime,MZ10060201,2,14.58
 2025,bairro_matola,M'Sime,MZ10060201,3,1.8
 2025,bairro_matola,M'Sime,MZ10060201,45,2969.28
-2025,bairro_matola,M'Sime,MZ10060201,6,137.25
-2025,bairro_matola,M'Sime,MZ10060201,7,48.24
+2025,bairro_matola,M'Sime,MZ10060201,6,138.51
+2025,bairro_matola,M'Sime,MZ10060201,7,46.98
 2025,bairro_matola,Mugazine,MZ10060202,0,0.0
 2025,bairro_matola,Mugazine,MZ10060202,1,36.81
 2025,bairro_matola,Mugazine,MZ10060202,2,0.27
 2025,bairro_matola,Mugazine,MZ10060202,3,0.27
-2025,bairro_matola,Mugazine,MZ10060202,45,2087.55
-2025,bairro_matola,Mugazine,MZ10060202,6,12.51
+2025,bairro_matola,Mugazine,MZ10060202,45,2087.46
+2025,bairro_matola,Mugazine,MZ10060202,6,12.6
 2025,bairro_matola,Mugazine,MZ10060202,7,3.51
 2025,bairro_matola,Pessene-Sede,MZ10070201,0,0.0
 2025,bairro_matola,Pessene-Sede,MZ10070201,1,152.91
@@ -10472,11 +10472,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Alto Mae A,MZ11019901,6,0.0
 2026,bairro_maputo,Alto Mae A,MZ11019901,7,0.0
 2026,bairro_maputo,Alto Mae B,MZ11019902,0,0.0
-2026,bairro_maputo,Alto Mae B,MZ11019902,1,177.3
+2026,bairro_maputo,Alto Mae B,MZ11019902,1,177.03
 2026,bairro_maputo,Alto Mae B,MZ11019902,2,0.0
 2026,bairro_maputo,Alto Mae B,MZ11019902,3,0.0
-2026,bairro_maputo,Alto Mae B,MZ11019902,45,3.78
-2026,bairro_maputo,Alto Mae B,MZ11019902,6,2.16
+2026,bairro_maputo,Alto Mae B,MZ11019902,45,2.16
+2026,bairro_maputo,Alto Mae B,MZ11019902,6,4.05
 2026,bairro_maputo,Alto Mae B,MZ11019902,7,0.0
 2026,bairro_maputo,Central A,MZ11019903,0,0.0
 2026,bairro_maputo,Central A,MZ11019903,1,56.52
@@ -10493,12 +10493,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Central B,MZ11019904,6,0.0
 2026,bairro_maputo,Central B,MZ11019904,7,0.0
 2026,bairro_maputo,Central C,MZ11019905,0,0.0
-2026,bairro_maputo,Central C,MZ11019905,1,180.54
+2026,bairro_maputo,Central C,MZ11019905,1,179.64
 2026,bairro_maputo,Central C,MZ11019905,2,0.09
 2026,bairro_maputo,Central C,MZ11019905,3,0.0
-2026,bairro_maputo,Central C,MZ11019905,45,17.82
-2026,bairro_maputo,Central C,MZ11019905,6,4.95
-2026,bairro_maputo,Central C,MZ11019905,7,0.72
+2026,bairro_maputo,Central C,MZ11019905,45,17.64
+2026,bairro_maputo,Central C,MZ11019905,6,6.21
+2026,bairro_maputo,Central C,MZ11019905,7,0.54
 2026,bairro_maputo,Coop,MZ11019906,0,0.0
 2026,bairro_maputo,Coop,MZ11019906,1,66.33
 2026,bairro_maputo,Coop,MZ11019906,2,0.0
@@ -10521,11 +10521,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Malhangalene B,MZ11019908,6,0.0
 2026,bairro_maputo,Malhangalene B,MZ11019908,7,0.0
 2026,bairro_maputo,Polana Cimento A,MZ11019909,0,0.0
-2026,bairro_maputo,Polana Cimento A,MZ11019909,1,120.33
+2026,bairro_maputo,Polana Cimento A,MZ11019909,1,120.06
 2026,bairro_maputo,Polana Cimento A,MZ11019909,2,0.0
 2026,bairro_maputo,Polana Cimento A,MZ11019909,3,0.0
-2026,bairro_maputo,Polana Cimento A,MZ11019909,45,14.04
-2026,bairro_maputo,Polana Cimento A,MZ11019909,6,0.99
+2026,bairro_maputo,Polana Cimento A,MZ11019909,45,13.95
+2026,bairro_maputo,Polana Cimento A,MZ11019909,6,1.35
 2026,bairro_maputo,Polana Cimento A,MZ11019909,7,0.0
 2026,bairro_maputo,Polana Cimento B,MZ11019910,0,0.0
 2026,bairro_maputo,Polana Cimento B,MZ11019910,1,81.9
@@ -10692,16 +10692,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Albazine,MZ11049903,1,697.68
 2026,bairro_maputo,Albazine,MZ11049903,2,286.56
 2026,bairro_maputo,Albazine,MZ11049903,3,68.58
-2026,bairro_maputo,Albazine,MZ11049903,45,1506.42
-2026,bairro_maputo,Albazine,MZ11049903,6,26.82
+2026,bairro_maputo,Albazine,MZ11049903,45,1502.19
+2026,bairro_maputo,Albazine,MZ11049903,6,31.05
 2026,bairro_maputo,Albazine,MZ11049903,7,19.89
 2026,bairro_maputo,Costa do Sol,MZ11049904,0,0.0
 2026,bairro_maputo,Costa do Sol,MZ11049904,1,535.23
 2026,bairro_maputo,Costa do Sol,MZ11049904,2,62.91
 2026,bairro_maputo,Costa do Sol,MZ11049904,3,14.13
-2026,bairro_maputo,Costa do Sol,MZ11049904,45,1029.15
-2026,bairro_maputo,Costa do Sol,MZ11049904,6,89.73
-2026,bairro_maputo,Costa do Sol,MZ11049904,7,259.38
+2026,bairro_maputo,Costa do Sol,MZ11049904,45,1025.37
+2026,bairro_maputo,Costa do Sol,MZ11049904,6,136.62
+2026,bairro_maputo,Costa do Sol,MZ11049904,7,216.27
 2026,bairro_maputo,Ferroviario,MZ11049905,0,0.0
 2026,bairro_maputo,Ferroviario,MZ11049905,1,370.89
 2026,bairro_maputo,Ferroviario,MZ11049905,2,56.88
@@ -10808,11 +10808,11 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Jardim,MZ11059907,6,0.0
 2026,bairro_maputo,Jardim,MZ11059907,7,0.0
 2026,bairro_maputo,Luis Cabral,MZ11059908,0,0.0
-2026,bairro_maputo,Luis Cabral,MZ11059908,1,427.5
+2026,bairro_maputo,Luis Cabral,MZ11059908,1,427.41
 2026,bairro_maputo,Luis Cabral,MZ11059908,2,18.27
 2026,bairro_maputo,Luis Cabral,MZ11059908,3,0.09
-2026,bairro_maputo,Luis Cabral,MZ11059908,45,82.98
-2026,bairro_maputo,Luis Cabral,MZ11059908,6,4.5
+2026,bairro_maputo,Luis Cabral,MZ11059908,45,73.35
+2026,bairro_maputo,Luis Cabral,MZ11059908,6,14.22
 2026,bairro_maputo,Luis Cabral,MZ11059908,7,1.35
 2026,bairro_maputo,Magoanine A,MZ11059909,0,0.0
 2026,bairro_maputo,Magoanine A,MZ11059909,1,542.16
@@ -10861,8 +10861,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Chali,MZ11069901,2,35.73
 2026,bairro_maputo,Chali,MZ11069901,3,0.0
 2026,bairro_maputo,Chali,MZ11069901,45,1092.24
-2026,bairro_maputo,Chali,MZ11069901,6,42.3
-2026,bairro_maputo,Chali,MZ11069901,7,24.75
+2026,bairro_maputo,Chali,MZ11069901,6,43.11
+2026,bairro_maputo,Chali,MZ11069901,7,23.94
 2026,bairro_maputo,Chamissava,MZ11069902,0,0.0
 2026,bairro_maputo,Chamissava,MZ11069902,1,136.8
 2026,bairro_maputo,Chamissava,MZ11069902,2,125.82
@@ -10874,23 +10874,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_maputo,Guachene,MZ11069903,1,68.13
 2026,bairro_maputo,Guachene,MZ11069903,2,2.61
 2026,bairro_maputo,Guachene,MZ11069903,3,0.72
-2026,bairro_maputo,Guachene,MZ11069903,45,207.54
-2026,bairro_maputo,Guachene,MZ11069903,6,53.55
-2026,bairro_maputo,Guachene,MZ11069903,7,25.02
+2026,bairro_maputo,Guachene,MZ11069903,45,204.84
+2026,bairro_maputo,Guachene,MZ11069903,6,57.96
+2026,bairro_maputo,Guachene,MZ11069903,7,23.31
 2026,bairro_maputo,Incassane,MZ11069904,0,0.0
 2026,bairro_maputo,Incassane,MZ11069904,1,98.01
 2026,bairro_maputo,Incassane,MZ11069904,2,97.74
 2026,bairro_maputo,Incassane,MZ11069904,3,14.22
-2026,bairro_maputo,Incassane,MZ11069904,45,6144.03
-2026,bairro_maputo,Incassane,MZ11069904,6,454.14
+2026,bairro_maputo,Incassane,MZ11069904,45,6141.87
+2026,bairro_maputo,Incassane,MZ11069904,6,456.3
 2026,bairro_maputo,Incassane,MZ11069904,7,59.76
 2026,bairro_maputo,Inguide,MZ11069905,0,0.0
 2026,bairro_maputo,Inguide,MZ11069905,1,319.5
 2026,bairro_maputo,Inguide,MZ11069905,2,0.0
 2026,bairro_maputo,Inguide,MZ11069905,3,0.72
-2026,bairro_maputo,Inguide,MZ11069905,45,1007.55
-2026,bairro_maputo,Inguide,MZ11069905,6,52.11
-2026,bairro_maputo,Inguide,MZ11069905,7,6.84
+2026,bairro_maputo,Inguide,MZ11069905,45,1007.37
+2026,bairro_maputo,Inguide,MZ11069905,6,52.65
+2026,bairro_maputo,Inguide,MZ11069905,7,6.48
 2026,bairro_maputo,Inguane,MZ11079901,0,0.0
 2026,bairro_maputo,Inguane,MZ11079901,1,0.0
 2026,bairro_maputo,Inguane,MZ11079901,2,0.0
@@ -10941,12 +10941,12 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,Malhampsene,MZ10010104,6,0.54
 2026,bairro_matola,Malhampsene,MZ10010104,7,0.0
 2026,bairro_matola,Matola A,MZ10010105,0,0.0
-2026,bairro_matola,Matola A,MZ10010105,1,1357.47
-2026,bairro_matola,Matola A,MZ10010105,2,57.51
+2026,bairro_matola,Matola A,MZ10010105,1,1357.29
+2026,bairro_matola,Matola A,MZ10010105,2,56.88
 2026,bairro_matola,Matola A,MZ10010105,3,2.7
-2026,bairro_matola,Matola A,MZ10010105,45,450.72
-2026,bairro_matola,Matola A,MZ10010105,6,343.44
-2026,bairro_matola,Matola A,MZ10010105,7,3.33
+2026,bairro_matola,Matola A,MZ10010105,45,427.23
+2026,bairro_matola,Matola A,MZ10010105,6,369.99
+2026,bairro_matola,Matola A,MZ10010105,7,1.08
 2026,bairro_matola,Matola B,MZ10010106,0,0.0
 2026,bairro_matola,Matola B,MZ10010106,1,129.06
 2026,bairro_matola,Matola B,MZ10010106,2,0.0
@@ -10958,15 +10958,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,Matola C,MZ10010107,1,298.35
 2026,bairro_matola,Matola C,MZ10010107,2,24.66
 2026,bairro_matola,Matola C,MZ10010107,3,0.45
-2026,bairro_matola,Matola C,MZ10010107,45,120.96
-2026,bairro_matola,Matola C,MZ10010107,6,53.1
+2026,bairro_matola,Matola C,MZ10010107,45,109.08
+2026,bairro_matola,Matola C,MZ10010107,6,64.98
 2026,bairro_matola,Matola C,MZ10010107,7,0.54
 2026,bairro_matola,Matola D,MZ10010108,0,0.0
 2026,bairro_matola,Matola D,MZ10010108,1,212.31
 2026,bairro_matola,Matola D,MZ10010108,2,7.74
 2026,bairro_matola,Matola D,MZ10010108,3,0.27
-2026,bairro_matola,Matola D,MZ10010108,45,82.53
-2026,bairro_matola,Matola D,MZ10010108,6,11.79
+2026,bairro_matola,Matola D,MZ10010108,45,81.72
+2026,bairro_matola,Matola D,MZ10010108,6,12.6
 2026,bairro_matola,Matola D,MZ10010108,7,0.0
 2026,bairro_matola,Matola F,MZ10010109,0,0.0
 2026,bairro_matola,Matola F,MZ10010109,1,165.06
@@ -10993,15 +10993,15 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,Matola J,MZ10010112,1,96.57
 2026,bairro_matola,Matola J,MZ10010112,2,4.86
 2026,bairro_matola,Matola J,MZ10010112,3,0.0
-2026,bairro_matola,Matola J,MZ10010112,45,31.86
-2026,bairro_matola,Matola J,MZ10010112,6,0.18
+2026,bairro_matola,Matola J,MZ10010112,45,31.32
+2026,bairro_matola,Matola J,MZ10010112,6,0.72
 2026,bairro_matola,Matola J,MZ10010112,7,0.0
 2026,bairro_matola,Mussumbuluco,MZ10010113,0,0.0
 2026,bairro_matola,Mussumbuluco,MZ10010113,1,394.29
 2026,bairro_matola,Mussumbuluco,MZ10010113,2,10.98
 2026,bairro_matola,Mussumbuluco,MZ10010113,3,0.0
-2026,bairro_matola,Mussumbuluco,MZ10010113,45,131.13
-2026,bairro_matola,Mussumbuluco,MZ10010113,6,0.09
+2026,bairro_matola,Mussumbuluco,MZ10010113,45,130.05
+2026,bairro_matola,Mussumbuluco,MZ10010113,6,1.17
 2026,bairro_matola,Mussumbuluco,MZ10010113,7,0.0
 2026,bairro_matola,Infulene D,MZ10010201,0,0.0
 2026,bairro_matola,Infulene D,MZ10010201,1,179.73
@@ -11196,23 +11196,23 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,Eduardo Mondlane,MZ10020101,1,50.76
 2026,bairro_matola,Eduardo Mondlane,MZ10020101,2,139.14
 2026,bairro_matola,Eduardo Mondlane,MZ10020101,3,20.97
-2026,bairro_matola,Eduardo Mondlane,MZ10020101,45,5166.18
-2026,bairro_matola,Eduardo Mondlane,MZ10020101,6,529.02
+2026,bairro_matola,Eduardo Mondlane,MZ10020101,45,5159.25
+2026,bairro_matola,Eduardo Mondlane,MZ10020101,6,535.95
 2026,bairro_matola,Eduardo Mondlane,MZ10020101,7,16.92
 2026,bairro_matola,Gueguegue,MZ10020102,0,0.0
 2026,bairro_matola,Gueguegue,MZ10020102,1,176.76
 2026,bairro_matola,Gueguegue,MZ10020102,2,27.36
 2026,bairro_matola,Gueguegue,MZ10020102,3,1.53
-2026,bairro_matola,Gueguegue,MZ10020102,45,221.76
-2026,bairro_matola,Gueguegue,MZ10020102,6,12.15
+2026,bairro_matola,Gueguegue,MZ10020102,45,221.67
+2026,bairro_matola,Gueguegue,MZ10020102,6,12.24
 2026,bairro_matola,Gueguegue,MZ10020102,7,0.0
 2026,bairro_matola,Matola Rio-Sede,MZ10020201,0,0.0
 2026,bairro_matola,Matola Rio-Sede,MZ10020201,1,2887.02
 2026,bairro_matola,Matola Rio-Sede,MZ10020201,2,199.08
 2026,bairro_matola,Matola Rio-Sede,MZ10020201,3,10.17
-2026,bairro_matola,Matola Rio-Sede,MZ10020201,45,2894.67
-2026,bairro_matola,Matola Rio-Sede,MZ10020201,6,442.35
-2026,bairro_matola,Matola Rio-Sede,MZ10020201,7,13.32
+2026,bairro_matola,Matola Rio-Sede,MZ10020201,45,2855.97
+2026,bairro_matola,Matola Rio-Sede,MZ10020201,6,484.2
+2026,bairro_matola,Matola Rio-Sede,MZ10020201,7,10.17
 2026,bairro_matola,Mulotana,MZ10020202,0,0.0
 2026,bairro_matola,Mulotana,MZ10020202,1,293.58
 2026,bairro_matola,Mulotana,MZ10020202,2,10.35
@@ -11224,16 +11224,16 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,Marracuene-Sede,MZ10050101,1,774.99
 2026,bairro_matola,Marracuene-Sede,MZ10050101,2,196.2
 2026,bairro_matola,Marracuene-Sede,MZ10050101,3,38.43
-2026,bairro_matola,Marracuene-Sede,MZ10050101,45,3593.7
-2026,bairro_matola,Marracuene-Sede,MZ10050101,6,144.45
-2026,bairro_matola,Marracuene-Sede,MZ10050101,7,58.59
+2026,bairro_matola,Marracuene-Sede,MZ10050101,45,3587.58
+2026,bairro_matola,Marracuene-Sede,MZ10050101,6,151.47
+2026,bairro_matola,Marracuene-Sede,MZ10050101,7,57.69
 2026,bairro_matola,Macaneta,MZ10050102,0,0.0
 2026,bairro_matola,Macaneta,MZ10050102,1,71.01
 2026,bairro_matola,Macaneta,MZ10050102,2,4.14
 2026,bairro_matola,Macaneta,MZ10050102,3,3.6
-2026,bairro_matola,Macaneta,MZ10050102,45,2416.5
-2026,bairro_matola,Macaneta,MZ10050102,6,681.3
-2026,bairro_matola,Macaneta,MZ10050102,7,138.96
+2026,bairro_matola,Macaneta,MZ10050102,45,2409.84
+2026,bairro_matola,Macaneta,MZ10050102,6,711.63
+2026,bairro_matola,Macaneta,MZ10050102,7,115.29
 2026,bairro_matola,Michafutene,MZ10050104,0,0.0
 2026,bairro_matola,Michafutene,MZ10050104,1,4557.6
 2026,bairro_matola,Michafutene,MZ10050104,2,182.34
@@ -11253,8 +11253,8 @@ epoca,grupo,unidade,pcode,classe_agr,ha
 2026,bairro_matola,M'Sime,MZ10060201,2,30.33
 2026,bairro_matola,M'Sime,MZ10060201,3,1.8
 2026,bairro_matola,M'Sime,MZ10060201,45,2950.47
-2026,bairro_matola,M'Sime,MZ10060201,6,140.22
-2026,bairro_matola,M'Sime,MZ10060201,7,47.43
+2026,bairro_matola,M'Sime,MZ10060201,6,143.1
+2026,bairro_matola,M'Sime,MZ10060201,7,44.55
 2026,bairro_matola,Mugazine,MZ10060202,0,0.0
 2026,bairro_matola,Mugazine,MZ10060202,1,36.81
 2026,bairro_matola,Mugazine,MZ10060202,2,3.06

@@ -488,16 +488,16 @@ Matriz de confusão (contagem de pontos):
 | 7 Solo exposto | 5 | 0 | 0 | 0 | 6 | 19 | 30 |
 | total | 73 | 35 | 44 | 66 | 34 | 28 | 280 |
 
-Exatidão global (ponderada pela área): 73.7% ± 5.7 p.p.
+Exatidão global (ponderada pela área): 74.3% ± 5.7 p.p.
 
 | classe | área mapeada (ha) | área ajustada (ha) | IC 95% (± ha) | exatidão do usuário (%) | ± | exatidão do produtor (%) | ± |
 |---|---|---|---|---|---|---|---|
-| 1 Construído | 45,480 | 45,794 | 5,476 | 88.3 | 8.2 | 87.7 | 7.8 |
-| 2 Zonas verdes | 2,760 | 5,849 | 3,548 | 33.3 | 12.0 | 15.7 | 10.6 |
-| 3 Sequeiro e mosaico | 1,753 | 19,019 | 6,270 | 50.0 | 15.7 | 4.6 | 2.1 |
-| 45 Vegetação não cultivada | 45,325 | 22,878 | 5,786 | 46.7 | 12.7 | 92.5 | 2.6 |
-| 6 Água | 36,849 | 34,634 | 3,350 | 93.3 | 9.1 | 99.3 | 0.5 |
-| 7 Solo exposto | 1,208 | 5,200 | 3,799 | 63.3 | 17.5 | 14.7 | 11.3 |
+| 1 Construído | 45,478 | 45,866 | 5,593 | 88.3 | 8.2 | 87.6 | 8.0 |
+| 2 Zonas verdes | 2,760 | 5,838 | 3,539 | 33.3 | 12.0 | 15.8 | 10.6 |
+| 3 Sequeiro e mosaico | 1,753 | 18,976 | 6,256 | 50.0 | 15.7 | 4.6 | 2.1 |
+| 45 Vegetação não cultivada | 45,188 | 22,814 | 5,768 | 46.7 | 12.7 | 92.4 | 2.6 |
+| 6 Água | 40,968 | 38,416 | 3,722 | 93.3 | 9.1 | 99.5 | 0.3 |
+| 7 Solo exposto | 895 | 5,131 | 3,968 | 63.3 | 17.5 | 11.0 | 9.0 |
 
 ### 8.2 Âmbito: máscara terrestre da Cidade de Maputo
 
@@ -519,12 +519,12 @@ Exatidão global (ponderada pela área): 78.5% ± 11.7 p.p.
 
 | classe | área mapeada (ha) | área ajustada (ha) | IC 95% (± ha) | exatidão do usuário (%) | ± | exatidão do produtor (%) | ± |
 |---|---|---|---|---|---|---|---|
-| 1 Construído | 12,632 | 13,640 | 2,131 | 95.5 | 8.9 | 88.4 | 11.8 |
-| 2 Zonas verdes | 1,295 | 1,500 | 1,678 | 42.9 | 18.7 | 37.0 | 42.2 |
-| 3 Sequeiro e mosaico | 266 | 1,691 | 2,269 | 0.0 | 0.0 | 0.0 | 0.0 |
-| 45 Vegetação não cultivada | 14,375 | 10,881 | 3,220 | 70.6 | 22.3 | 93.3 | 3.0 |
-| 6 Água | 704 | 352 | 690 | 50.0 | 98.0 | 100.0 | 0.0 |
-| 7 Solo exposto | 588 | 1,796 | 2,012 | 58.3 | 29.1 | 19.1 | 22.7 |
+| 1 Construído | 12,631 | 13,654 | 2,153 | 95.5 | 8.9 | 88.3 | 11.9 |
+| 2 Zonas verdes | 1,295 | 1,499 | 1,675 | 42.9 | 18.7 | 37.0 | 42.2 |
+| 3 Sequeiro e mosaico | 266 | 1,688 | 2,265 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 45 Vegetação não cultivada | 14,350 | 10,864 | 3,215 | 70.6 | 22.3 | 93.2 | 3.0 |
+| 6 Água | 780 | 390 | 764 | 50.0 | 98.0 | 100.0 | 0.0 |
+| 7 Solo exposto | 539 | 1,766 | 2,008 | 58.3 | 29.1 | 17.8 | 21.5 |
 
 <!-- exatidao_2020:fim -->
 
@@ -542,22 +542,22 @@ Distribuição da confiança dos rótulos (todos os pontos rotulados): alta 54, 
 | pontos usados | 89 | 57 |
 | exatidão global (%) | 78.5 ± 11.7 | 81.1 ± 17.6 |
 | UA classe 1 (construído) (%) | 95.5 ± 8.9 | 100.0 ± 0.0 |
-| PA classe 1 (construído) (%) | 88.4 ± 11.8 | 94.0 ± 5.3 |
+| PA classe 1 (construído) (%) | 88.3 ± 11.9 | 93.9 ± 5.7 |
 | UA classe 2 (zonas verdes) (%) | 42.9 ± 18.7 | 50.0 ± 27.2 |
 | PA classe 2 (zonas verdes) (%) | 37.0 ± 42.2 | 70.8 ± 11.2 |
-| área ajustada classe 2 (ha) | 1,500 ± 1,678 | 914 ± 352 |
+| área ajustada classe 2 (ha) | 1,499 ± 1,675 | 914 ± 352 |
 
 ### Retângulo de estudo
 
 | medida | todos os rótulos | sem confiança baixa |
 |---|---|---|
 | pontos usados | 280 | 162 |
-| exatidão global (%) | 73.7 ± 5.7 | 82.2 ± 7.0 |
+| exatidão global (%) | 74.3 ± 5.7 | 82.7 ± 6.9 |
 | UA classe 1 (construído) (%) | 88.3 ± 8.2 | 95.7 ± 6.0 |
-| PA classe 1 (construído) (%) | 87.7 ± 7.8 | 92.5 ± 8.2 |
+| PA classe 1 (construído) (%) | 87.6 ± 8.0 | 92.4 ± 8.5 |
 | UA classe 2 (zonas verdes) (%) | 33.3 ± 12.0 | 55.6 ± 23.6 |
-| PA classe 2 (zonas verdes) (%) | 15.7 ± 10.6 | 34.9 ± 31.9 |
-| área ajustada classe 2 (ha) | 5,849 ± 3,548 | 4,396 ± 3,883 |
+| PA classe 2 (zonas verdes) (%) | 15.8 ± 10.6 | 34.9 ± 31.9 |
+| área ajustada classe 2 (ha) | 5,838 ± 3,539 | 4,390 ± 3,874 |
 
 <!-- sensibilidade_2020:fim -->
 
@@ -566,3 +566,13 @@ A amostra de validação foi sorteada sobre `class_final/2020` antes da revisão
 pós-auditoria). No mapa revisto, 6 dos 280 pontos (2%) mudaram de classe mapeada, todos para construído (3 de 45→1, 3 de 2→1).
 O estimador de Olofsson continua a usar os estratos do desenho original (`estrato` na chave) com as áreas por classe do mapa
 revisto; a inconsistência resultante é pequena e foi mantida em vez de sortear nova amostra. Registrado pela sessão principal.
+
+## 11. Nuvens sobre o mar e exportação do painel (11/11/2026)
+- Regra 0 em `06b_consistencia.py`: píxeis que são água em pelo menos metade das épocas com dado são mar, estuário
+  ou leito de rio; noutra classe numa época (nuvem, névoa, reflexo) ou sem dado, passam a água. Corrigiu 9 143 píxeis em
+  2020 (nuvens sobre a baía) e de 1 200 a 9 000 nas demais épocas (`class_final/consistencia.csv`, coluna regra0_mar).
+  Os números de manchete não mudaram: esses píxeis estavam fora dos perímetros e da área continental da cidade.
+- Bug de exportação em `12_resultados.py` (função `para_3857`): com `src_nodata=None`, a reprojeção tratava 0 como
+  sem dado e preenchia esses píxeis com a classe vizinha, de modo que os buracos de nuvem apareciam como construído nas
+  imagens do painel (não nas estatísticas). Mapas categóricos agora passam um valor de sem-dado ausente do mapa.
+- As imagens do painel levam um marcador de versão pelo conteúdo (`?v=<md5>`) para não serem reaproveitadas do cache.
