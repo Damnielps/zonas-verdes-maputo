@@ -1,0 +1,35 @@
+/* Correções de layout (novembro/2026). Carregado depois de site.css. */
+/* A regra ".fig svg { width:100%; height:auto }" esticava os marcadores de legenda (svg 14x14 / 34x12)
+   até a largura do cartão, empurrando as notas para baixo. Marcadores de legenda têm tamanho próprio. */
+.fig .legenda svg, .fig .legenda li > svg { display: inline-block; flex: none; width: 14px; height: 14px; overflow: visible; }
+.fig .legenda svg[width="34"] { width: 34px; height: 12px; }
+.fig .legenda svg[width="14"] { width: 14px; height: 14px; }
+.fig .legenda li > span { min-width: 0; }
+.fig .legenda[style*="grid"], #producaoCorpo .fig ul.legenda { display: grid !important; grid-template-columns: minmax(0, 1fr); gap: 6px; margin-top: 10px; }
+#producaoCorpo .fig ul.legenda li { display: grid; grid-template-columns: 14px minmax(0, 1fr); align-items: start; gap: 8px; }
+#producaoCorpo .fig ul.legenda li > svg { margin-top: 2px; }
+
+/* Contraste: --ard-text-3 não atinge 4,5:1 sobre as superfícies claras; textos informativos usam --ard-text-2. */
+.meta, p.meta, div.meta, .tl .meta, .conf .meta, .ticks span { color: var(--ard-text-2); }
+
+/* Chamada para o artigo na abertura */
+.leia-artigo { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--ard-sp-2) var(--ard-sp-4); margin-top: var(--ard-sp-4); padding: var(--ard-sp-3); border: 1px solid var(--ard-border); border-left: 3px solid var(--ard-acento); border-radius: var(--ard-radius); background: var(--ard-surface); }
+.leia-artigo h2 { font-size: 22px; margin: 0 0 4px; }
+.leia-artigo p { margin: 0; font: 400 14px/1.5 var(--ard-sans); color: var(--ard-text-2); max-width: 56ch; }
+.leia-artigo .baixar { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
+.btn-baixar { display: inline-flex; gap: 8px; align-items: baseline; font: 600 14px/1 var(--ard-sans); padding: 10px 14px; border: 1px solid var(--ard-primaria); border-radius: var(--ard-radius); background: var(--ard-primaria); color: var(--ard-papel); text-decoration: none; }
+[data-theme="dark"] .btn-baixar { color: var(--ard-bg); }
+.btn-baixar--sec { background: transparent; color: var(--ard-primaria); }
+[data-theme="dark"] .btn-baixar--sec { color: var(--ard-primaria); }
+.btn-baixar:hover { filter: brightness(1.08); }
+
+/* Paleta dos gráficos no tema escuro: as cores categóricas da Ardósia (--viz-1, -3, -6) são escuras
+   e somem sobre o fundo escuro (< 3:1). Clareadas aqui com tokens da própria Ardósia, sem hex novo. */
+[data-theme="dark"] {
+  --viz-1: var(--ard-primaria-clara);
+  --viz-2: var(--ard-acento-claro);
+  --viz-3: color-mix(in srgb, var(--ard-petroleo) 50%, var(--ard-text));
+  --viz-4: color-mix(in srgb, var(--ard-primaria) 45%, var(--ard-text));
+  --viz-5: color-mix(in srgb, var(--ard-ocre) 75%, var(--ard-text));
+  --viz-6: color-mix(in srgb, var(--ard-bordo) 50%, var(--ard-text));
+}

@@ -4,7 +4,8 @@ Uso: .venv/bin/python -I scripts/21_artigo.py [--tolerar] [--sem-pdf]
 
 Etapas: (1) figuras 4 e 5 + conversao de imagens dos planos; (2) quadros gerados;
 (3) placeholders {{chave}}; (4) citacoes [@chave] -> autor-data ABNT e lista NBR 6023;
-(5) artigo_final.md; (6) blocos JSON -> artigo.docx (artigo/build/build_docx.js) e HTML -> PDF (Chrome).
+(5) artigo_final.md; (6) blocos JSON -> artigo.docx (artigo/build/build_docx.js) e HTML -> PDF (Chrome);
+(7) exportacao web: site/artigo.html + site/artigo/{img,artigo.pdf,artigo.docx}.
 Falhas duras (chave sem ficha, placeholder nao resolvido, figura ausente) abortam,
 exceto com --tolerar, que registra o problema e segue com um fallback explicito.
 Nao edita a prosa de artigo/artigo.md.
@@ -752,6 +753,190 @@ def montar_html(blocos, meta, saida):
     Path(saida).write_text(doc, encoding="utf8")
 
 
+# ------------------------------------------------------------------ 7. exportacao web (site/artigo.html)
+SITE = RAIZ / "site"
+CITACAO_SITE = ("Pessini Sobreira, D. (2026). Zonas verdes de Maputo: evolução da cintura agrícola periurbana, "
+                "1979–2026. DOI: a definir.")
+NAV_SITE = [("linha-do-tempo", "Linha do tempo"), ("painel", "Painel"), ("areas", "Áreas"), ("conversao", "Conversão"),
+            ("planejado", "Planejado × ocorrido"), ("producao", "Produção"), ("planos", "Planos"),
+            ("comparacao", "Cidades"), ("metodologia", "Metodologia")]
+
+
+def _slug(t):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")[:60]
+
+
+def _linkar(h):
+    """Transforma URLs soltas (ja escapadas) em links; tira pontuacao final do href."""
+    def sub(m):
+        u = m.group(0)
+        fim = ""
+        while u and u[-1] in ".,;)":
+            fim = u[-1] + fim
+            u = u[:-1]
+        return f'<a href="{u}" rel="noopener">{u}</a>{fim}'
+    return re.sub(r"https?://[^\s<]+", sub, h)
+
+
+def exportar_web(blocos, meta):
+    from PIL import Image
+    dest = SITE / "artigo"
+    (dest / "img").mkdir(parents=True, exist_ok=True)
+    for ext in ("pdf", "docx"):
+        if (ART / f"artigo.{ext}").exists():
+            shutil.copy2(ART / f"artigo.{ext}", dest / f"artigo.{ext}")
+    tam = lambda ext: f"{(dest / f'artigo.{ext}').stat().st_size / 1e6:.1f}".replace(".", ",") + " MB" if (dest / f"artigo.{ext}").exists() else ""
+
+    partes, sumario = [], []
+    aberta = False
+    n_fig = 0
+    lang_en = False
+
+    def fecha():
+        nonlocal aberta
+        if aberta:
+            partes.append("</section>")
+            aberta = False
+
+    for b in blocos:
+        t = b["type"]
+        if t == "title":
+            continue
+        if t in ("h1", "h2"):
+            txt = "".join(r["t"] for r in b["runs"])
+            sid = "s-" + _slug(txt)
+            if t == "h1":
+                fecha()
+                lang_en = txt == "Abstract"
+                partes.append(f'<section class="sec-art" id="{sid}"' + (' lang="en"' if lang_en else "") + ">")
+                aberta = True
+                partes.append(f'<h2>{html_runs(b["runs"])}</h2>')
+                sumario.append((1, sid, txt))
+            else:
+                partes.append(f'<h3 id="{sid}">{html_runs(b["runs"])}</h3>')
+                sumario.append((2, sid, txt))
+        elif t == "p":
+            partes.append(f'<p>{html_runs(b["runs"])}</p>')
+        elif t == "resumo":
+            partes.append(f'<p class="resumo">{html_runs(b["runs"])}</p>')
+        elif t == "ref":
+            partes.append(f'<p class="ref">{_linkar(html_runs(b["runs"]))}</p>')
+        elif t == "fig":
+            n_fig += 1
+            nome = f"fig{n_fig}.webp"
+            if Path(b["path"]).exists():
+                im = Image.open(b["path"]).convert("RGB")
+                if im.width > 1800:
+                    im = im.resize((1800, round(im.height * 1800 / im.width)), Image.LANCZOS)
+                im.save(dest / "img" / nome, "WEBP", quality=84, method=6)
+                w, h = im.size
+            else:
+                w = h = 1
+            legenda = "".join(r["t"] for r in b["caption"])
+            alt = legenda.split(". ")[0][:200]
+            src = f'<span class="fonte">{html_runs(b["source"])}</span>' if b["source"] else ""
+            partes.append(f'<figure class="fig-art" id="fig-{n_fig}"><a href="artigo/img/{nome}" aria-label="Abrir a figura {n_fig} em tamanho inteiro">'
+                          f'<img src="artigo/img/{nome}" width="{w}" height="{h}" loading="lazy" alt="{html.escape(alt)}"></a>'
+                          f'<figcaption>{html_runs(b["caption"])}{src}</figcaption></figure>')
+        elif t == "table":
+            cap = "".join(r["t"] for r in b["caption"])
+            tid = "q-" + _slug(cap.split(" – ")[0])
+            th = "".join(f'<th scope="col"{" class=num" if a == "r" else ""}>{html.escape(c)}</th>' for c, a in zip(b["header"], b["align"]))
+            tb = "".join("<tr>" + "".join((f'<th scope="row">{html.escape(c)}</th>' if k == 0 and a != "r" else
+                                          f'<td{" class=num" if a == "r" else ""}>{html.escape(c)}</td>')
+                                         for k, (c, a) in enumerate(zip(r, b["align"]))) + "</tr>" for r in b["rows"])
+            src = f'<p class="fonte">{html_runs(b["source"])}</p>' if b["source"] else ""
+            partes.append(f'<div class="quadro-art" id="{tid}"><p class="cap" id="{tid}-cap">{html_runs(b["caption"])}</p>'
+                          f'<div class="tab-rolavel" tabindex="0" role="region" aria-labelledby="{tid}-cap">'
+                          f'<table class="tab-art"><thead><tr>{th}</tr></thead><tbody>{tb}</tbody></table></div>{src}</div>')
+    fecha()
+
+    toc, sub_aberta, item_aberto = [], False, False
+    for nivel, sid, txt in sumario:
+        li = f'<a href="#{sid}">{html.escape(txt)}</a>'
+        if nivel == 1:
+            if sub_aberta:
+                toc.append("</ol>")
+                sub_aberta = False
+            if item_aberto:
+                toc.append("</li>")
+            toc.append(f"<li>{li}")
+            item_aberto = True
+        else:
+            if not sub_aberta:
+                toc.append('<ol class="sub">')
+                sub_aberta = True
+            toc.append(f"<li>{li}</li>")
+    if sub_aberta:
+        toc.append("</ol>")
+    if item_aberto:
+        toc.append("</li>")
+    toc_html = "<ol>" + "".join(toc) + "</ol>"
+
+    nav = "".join(f'<a href="index.html#{i}">{html.escape(n)}</a>' for i, n in NAV_SITE) + '<a href="artigo.html" aria-current="page">Artigo</a>'
+    baixar = (f'<div class="baixar" role="group" aria-label="Baixar o artigo">'
+              f'<a class="btn-baixar" href="artigo/artigo.pdf" download>Baixar PDF <span>{tam("pdf")}</span></a>'
+              f'<a class="btn-baixar" href="artigo/artigo.docx" download>Baixar DOCX <span>{tam("docx")}</span></a></div>')
+    doc = f"""<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(meta["titulo"])} (artigo)</title>
+<meta name="description" content="Artigo completo: evolução das zonas verdes (cintura agrícola periurbana) de Maputo, 1979–2026. Leia online ou baixe em PDF e DOCX.">
+<link rel="stylesheet" href="assets/ardosia.css">
+<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/correcoes.css">
+<link rel="stylesheet" href="assets/artigo.css">
+</head>
+<body class="pagina-artigo">
+<a class="skip" href="#texto">Ir para o texto</a>
+<header class="topo">
+  <div class="wrap">
+    <a class="topo__marca" href="index.html">Zonas verdes de Maputo</a>
+    <nav aria-label="Seções">{nav}</nav>
+    <button type="button" class="btn-tema" id="btnTema" aria-label="Alternar tema claro e escuro">Tema</button>
+  </div>
+</header>
+<main class="wrap artigo-layout">
+  <aside class="artigo-lado" aria-label="Sumário e downloads">
+    <div class="caixa-baixar">
+      <p class="rot">Baixar</p>
+      {baixar}
+    </div>
+    <details class="sumario" open>
+      <summary>Sumário</summary>
+      <nav aria-label="Sumário do artigo">{toc_html}</nav>
+    </details>
+  </aside>
+  <article class="artigo" id="texto" lang="pt-BR">
+    <header class="artigo-cab">
+      <p class="ard-kicker">Artigo científico</p>
+      <h1>{html.escape(meta["titulo"])}</h1>
+      <p class="autor">{html.escape(meta["autor"])}</p>
+      <p class="orcid">ORCID: <a href="https://orcid.org/{html.escape(meta["orcid"])}" rel="noopener">https://orcid.org/{html.escape(meta["orcid"])}</a></p>
+      {baixar}
+    </header>
+    {"".join(partes)}
+    <section class="sec-art citar" id="como-citar">
+      <h2>Como citar</h2>
+      <p class="cit">{html.escape(CITACAO_SITE)}</p>
+      <p class="nota">Este texto é a versão web do artigo, gerada a partir do mesmo arquivo-fonte do PDF e do DOCX; os números vêm de <code>dados/proc/resultados.json</code>. A <a href="index.html#metodologia">seção de metodologia do site</a> descreve como os números foram produzidos.</p>
+      {baixar}
+    </section>
+  </article>
+</main>
+<footer class="rodape"><div class="wrap"><p>{html.escape(CITACAO_SITE)}</p></div></footer>
+<script src="assets/artigo.js"></script>
+</body>
+</html>
+"""
+    (SITE / "artigo.html").write_text(doc, encoding="utf8")
+    print(f"web: site/artigo.html ({len(doc) // 1024} KB), {n_fig} figuras em site/artigo/img/")
+
+
 LARGURAS = {  # pesos relativos de colunas por tabela (identificadas pelo no de colunas e 1o cabecalho)
     "Ano": [8, 24, 20, 17, 31],
     "Época": [8, 31, 17, 34, 10],
@@ -832,6 +1017,11 @@ def main():
         print("pdf", (ART / "artigo.pdf").stat().st_size // 1024, "KB" if (ART / "artigo.pdf").exists() else "")
     else:
         AVISOS.append("Chrome nao encontrado: PDF nao gerado")
+
+    try:
+        exportar_web(blocos, meta)
+    except Exception as e:  # noqa: BLE001
+        erro(f"exportacao web falhou: {e!r}")
 
     print("\n=== RELATORIO ===")
     print(f"palavras do corpo (secoes 1-8, sem referencias, quadros, legendas): {n_corpo}")

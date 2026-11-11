@@ -161,3 +161,13 @@ dialog.lb .fechar { float: right; margin-bottom: 6px; padding: 6px 12px; }
 .tl li > div, .planos > *, .plano, .fig, .conf li { min-width: 0; overflow-wrap: anywhere; }
 .tl li { grid-template-columns: 78px minmax(0, 1fr); }
 @media (max-width: 760px) { .tl li { grid-template-columns: 58px minmax(0, 1fr); } }
+
+/* ---- Auditoria de contraste (11/11/2026) ----
+   ardosia.css (cópia verbatim) usa em td uma cor fixa do tema claro (--ard-grafite-cl), que fica
+   ilegível no tema escuro (contraste 1,2:1). As regras abaixo sobrepõem com tokens que mudam com o tema. */
+td { color: var(--ard-text); border-bottom-color: var(--ard-border); }
+th { color: var(--ard-primaria); }
+.tl .data { color: var(--ard-text-2); }
+.kpi .ard-kpi-label, .kpi .seta { color: var(--ard-text-2); }
+.skip { color: var(--ard-bg); background: var(--ard-text); }
+.tipo-pill[data-tipo="obra"] { border-color: var(--ard-text-2); color: var(--ard-text-2); }

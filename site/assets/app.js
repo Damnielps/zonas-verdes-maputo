@@ -27,11 +27,20 @@
   /* ---------------------------------------------------------------- tema */
   const root = document.documentElement;
   function setTema(t) { root.setAttribute("data-theme", t); try { localStorage.setItem("zv-tema", t); } catch (e) {} }
+  const onTema = []; /* ganchos extras (mapas, legendas) chamados a cada troca de tema */
+  let temaTimer;
+  function temaMudou() { clearTimeout(temaTimer); temaTimer = setTimeout(() => { redraw(); onTema.forEach((f) => { try { f(); } catch (e) {} }); }, 30); }
   (function () {
     let t = null; try { t = localStorage.getItem("zv-tema"); } catch (e) {}
-    if (!t) t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-    setTema(t);
-    $("#btnTema").addEventListener("click", () => { setTema(root.getAttribute("data-theme") === "dark" ? "light" : "dark"); redraw(); });
+    const mq = window.matchMedia ? matchMedia("(prefers-color-scheme: dark)") : null;
+    if (!t) t = mq && mq.matches ? "dark" : "light";
+    root.setAttribute("data-theme", t);
+    $("#btnTema").addEventListener("click", () => setTema(root.getAttribute("data-theme") === "dark" ? "light" : "dark"));
+    /* qualquer mudança de data-theme (botão, outro script) redesenha gráficos e legendas */
+    new MutationObserver(temaMudou).observe(root, { attributes: true, attributeFilter: ["data-theme"] });
+    /* o esquema do sistema só vale enquanto a pessoa não escolheu um tema */
+    const seguirSistema = () => { let guardado = null; try { guardado = localStorage.getItem("zv-tema"); } catch (e) {} if (!guardado) root.setAttribute("data-theme", mq.matches ? "dark" : "light"); else temaMudou(); };
+    if (mq) { if (mq.addEventListener) mq.addEventListener("change", seguirSistema); else if (mq.addListener) mq.addListener(seguirSistema); }
   })();
 
   /* ---------------------------------------------------------------- abertura */
@@ -132,7 +141,7 @@
     chaves.forEach((k, i) => {
       const dados = (n) => EPH.map((e) => ({ e, v: per[k].cidade[e]["pct_" + n] }));
       const band = EPH.map((e) => ({ e, lo: per[k].cidade[e].pct_min, hi: per[k].cidade[e].pct_max }));
-      const m = { t: 8, r: 10, b: 22, l: 38 }, w = cw, h = 190, iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const m = { t: 8, r: 10, b: 22, l: 38 }, w = cw, h = w0 < 400 ? 105 : 190, iw = w - m.l - m.r, ih = h - m.t - m.b;
       const x = d3.scaleLinear([1985, 2025], [0, iw]); const y = d3.scaleLinear([0, d3.max(band, (d) => d.hi) * 1.1], [ih, 0]).nice(4);
       const div = document.createElement("div");
       const f25 = per[k].cidade["2025"];
@@ -257,9 +266,9 @@
       const y0 = y(d.bairro), bh = y.bandwidth() * 0.58, nl = d.variacao_liquida_ha;
       g.append("rect").attr("x", 0).attr("y", y0).attr("height", bh).attr("width", x(d.convertida_construido_ha)).attr("fill", css("--viz-3"));
       g.append("rect").attr("x", 0).attr("y", y0 + bh + 2).attr("height", y.bandwidth() * 0.3).attr("width", x(Math.max(0, -nl))).attr("fill", css("--ard-text-3")).attr("fill-opacity", 0.45);
-      g.append("text").attr("x", -6).attr("y", y0 + y.bandwidth() / 2 + 4).attr("text-anchor", "end").text(d.bairro).style("fill", css("--ard-text"));
+      g.append("text").attr("x", -6).attr("y", y0 + y.bandwidth() / 2 + 4).attr("text-anchor", "end").text(d.bairro).style("fill", "var(--ard-text)");
       g.append("text").attr("x", x(d.convertida_construido_ha) + 4).attr("y", y0 + bh - 3).text(nf0.format(d.convertida_construido_ha) + " ha");
-      g.append("text").attr("x", x(Math.max(0, -nl)) + 4).attr("y", y0 + bh + 2 + y.bandwidth() * 0.3 - 1).style("fill", css("--ard-text-3")).style("font-size", "10px").text((nl < 0 ? "−" : "+") + nf0.format(Math.abs(nl)) + " ha (indicativa)");
+      g.append("text").attr("x", x(Math.max(0, -nl)) + 4).attr("y", y0 + bh + 2 + y.bandwidth() * 0.3 - 1).style("fill", "var(--ard-text-2)").style("font-size", "10px").text((nl < 0 ? "−" : "+") + nf0.format(Math.abs(nl)) + " ha (indicativa)");
     });
     $$("[data-g]", host).forEach((b) => b.addEventListener("click", () => { grupoBairro = b.dataset.g; figBairros(); }));
     host.insertAdjacentHTML("beforeend", altDet(tabela(["Bairro", "Zonas verdes 1990 (ha)", "2025 (ha)", "Convertida em construído (ha)", "Variação líquida, indicativa (ha)"], dt.map((d) => [d.bairro, fmt(d.zv_1990_ha), fmt(d.zv_2025_ha), fmt(d.convertida_construido_ha), fmt(d.variacao_liquida_ha)]), D.perda_bairro_top10.nota)));
@@ -493,6 +502,16 @@
     if (camadas.conf) h += `<li><i class="sw" style="background:${css("--viz-2")};border-radius:50%"></i>Conflito (posição aproximada)</li>`;
     $("#legenda").innerHTML = h;
   }
+  /* tema: repinta as camadas vetoriais e a legenda do mapa */
+  onTema.push(function () {
+    const colM = ["match", ["get", "classe"]].concat(Object.keys(PLCOR).flatMap((k) => [k, css(PLCOR[k])])).concat([css("--viz-muted")]);
+    Object.values(M).forEach((o) => {
+      if (!o.pronto || o.semGeo) return; const m = o.map;
+      [["p85-fill", "fill-color", colM], ["p85-line", "line-color", colM], ["p08-fill", "fill-color", colM], ["p08-line", "line-color", colM], ["bairro-fill", "fill-color", css("--viz-1")], ["bairro-line", "line-color", css("--viz-1")], ["dist-line", "line-color", css("--viz-1")], ["conf-pt", "circle-color", css("--viz-2")], ["conf-pt", "circle-stroke-color", css("--ard-papel-fig")]]
+        .forEach(([id, prop, val]) => { if (m.getLayer(id)) m.setPaintProperty(id, prop, val); });
+    });
+    if ($("#legenda")) legenda();
+  });
   function textos() {
     const mA = estado.comp ? estado.anoA : estado.ano; const eA = EPINFO[mA], eB = EPINFO[estado.anoB];
     let t = (estado.comp ? `Esquerda, ${eA.rotulo}: ` : "") + eA.caveat;
