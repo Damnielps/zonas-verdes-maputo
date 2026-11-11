@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://damnielps.github.io/zonas-verdes-maputo/sitemap.xml

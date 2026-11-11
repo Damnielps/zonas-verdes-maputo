@@ -880,14 +880,67 @@ def exportar_web(blocos, meta):
     baixar = (f'<div class="baixar" role="group" aria-label="Baixar o artigo">'
               f'<a class="btn-baixar" href="artigo/artigo.pdf" download>Baixar PDF <span>{tam("pdf")}</span></a>'
               '</div>')
+    # metadados de indexacao (Google, Google Scholar, Bing)
+    base_url = "https://damnielps.github.io/zonas-verdes-maputo/"
+    url_art, url_pdf = base_url + "artigo.html", base_url + "artigo/artigo.pdf"
+    doi, orcid_url = "10.5281/zenodo.24141821", "https://orcid.org/" + meta["orcid"]
+    txt_resumos = ["".join(r["t"] for r in b["runs"]) for b in blocos if b["type"] == "resumo"]
+    resumo_pt = txt_resumos[0] if txt_resumos else ""
+    palavras = ""
+    for t in txt_resumos:
+        if t.startswith("Palavras-chave:"):
+            palavras = t.split(":", 1)[1].strip().rstrip(".")
+            break
+    resumo_pt = next((t for t in txt_resumos if not t.startswith(("Palavras-chave:", "Keywords:"))), "")
+    resumo_pt = re.sub(r"\s+", " ", resumo_pt.replace("\u00a0", " ")).strip()
+    desc = resumo_pt[:155].rsplit(" ", 1)[0].rstrip(",;:") + "…" if len(resumo_pt) > 155 else resumo_pt
+    kw_tags = "".join(f'<meta name="citation_keywords" content="{html.escape(k.strip())}">\n'
+                      for k in palavras.split(";") if k.strip())
+    og_img = base_url + "img/painel/img_2026.webp"
+    jsonld = {
+        "@context": "https://schema.org", "@type": "ScholarlyArticle",
+        "headline": meta["titulo"], "name": meta["titulo"],
+        "author": {"@type": "Person", "name": "Daniel Pessini Sobreira", "sameAs": orcid_url},
+        "datePublished": "2026-11-11", "inLanguage": "pt",
+        "identifier": "https://doi.org/" + doi, "url": url_art,
+        "isPartOf": {"@type": "WebSite", "name": "Zonas verdes de Maputo", "url": base_url},
+        "license": "https://opensource.org/licenses/MIT",
+        "abstract": resumo_pt,
+        "keywords": [k.strip() for k in palavras.split(";") if k.strip()],
+    }
+    jsonld_txt = json.dumps(jsonld, ensure_ascii=False, indent=2).replace("</", "<\\/")
+    e = lambda x: html.escape(x, quote=True)
+    cabeca_seo = f"""<link rel="canonical" href="{url_art}">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Daniel Pessini Sobreira">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{e(meta["titulo"])}">
+<meta property="og:description" content="{e(desc)}">
+<meta property="og:url" content="{url_art}">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Zonas verdes de Maputo">
+<meta property="og:image" content="{og_img}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="{e(meta["titulo"])}">
+<meta name="citation_author" content="Pessini Sobreira, Daniel">
+<meta name="citation_publication_date" content="2026/11/11">
+<meta name="citation_language" content="pt">
+<meta name="citation_doi" content="{doi}">
+<meta name="citation_pdf_url" content="{url_pdf}">
+<meta name="citation_abstract_html_url" content="{url_art}">
+{kw_tags}<meta name="citation_publisher" content="Zenodo">
+<script type="application/ld+json">
+{jsonld_txt}
+</script>
+"""
     doc = f"""<!doctype html>
-<html lang="pt-BR">
+<html lang="pt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(meta["titulo"])} (artigo)</title>
-<meta name="description" content="Artigo completo: evolução das zonas verdes (cintura agrícola periurbana) de Maputo, 1979–2026. Leia online ou baixe em PDF.">
-<link rel="stylesheet" href="assets/ardosia.css">
+<meta name="description" content="{e(desc)}">
+{cabeca_seo}<link rel="stylesheet" href="assets/ardosia.css">
 <link rel="stylesheet" href="assets/site.css">
 <link rel="stylesheet" href="assets/correcoes.css">
 <link rel="stylesheet" href="assets/artigo.css">
