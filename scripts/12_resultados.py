@@ -787,7 +787,8 @@ def main():
     cred = le_creditos()
     R["creditos"] = cred
     R["imagens"] = imagens(cred)
-    R["citacao"] = "Pessini Sobreira, D. (2026). Zonas verdes de Maputo: evolução da cintura agrícola periurbana, 1979–2026. DOI: a definir."
+    R["citacao"] = "PESSINI SOBREIRA, Daniel. Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos. Zenodo, 2026. DOI: 10.5281/zenodo.24141821. Disponível em: https://doi.org/10.5281/zenodo.24141821."
+    R["doi"] = {"conceito": "10.5281/zenodo.24141821", "v1.0.0": "10.5281/zenodo.24141822"}
     R["meta"] = dict(
         gerado_em=datetime.date.today().isoformat(), script="scripts/12_resultados.py", crs_trabalho=CRS, resolucao_m=RES,
         bbox_lonlat=[LON_MIN, LAT_MIN, LON_MAX, LAT_MAX], area_cidade_ha=R["area_cidade_ha"],

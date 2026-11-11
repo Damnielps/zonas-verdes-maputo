@@ -755,8 +755,9 @@ def montar_html(blocos, meta, saida):
 
 # ------------------------------------------------------------------ 7. exportacao web (site/artigo.html)
 SITE = RAIZ / "site"
-CITACAO_SITE = ("Pessini Sobreira, D. (2026). Zonas verdes de Maputo: evolução da cintura agrícola periurbana, "
-                "1979–2026. DOI: a definir.")
+CITACAO_SITE = ("PESSINI SOBREIRA, Daniel. Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e "
+                "planos urbanísticos. Zenodo, 2026. DOI: 10.5281/zenodo.24141821. "
+                "Disponível em: https://doi.org/10.5281/zenodo.24141821.")
 NAV_SITE = [("linha-do-tempo", "Linha do tempo"), ("painel", "Painel"), ("areas", "Áreas"), ("conversao", "Conversão"),
             ("planejado", "Planejado × ocorrido"), ("producao", "Produção"), ("planos", "Planos"),
             ("comparacao", "Cidades"), ("metodologia", "Metodologia")]

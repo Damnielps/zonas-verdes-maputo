@@ -6,12 +6,19 @@ authors:
   - family-names: "Pessini Sobreira"
     given-names: "Daniel"
     orcid: "https://orcid.org/0000-0002-6632-3991"
+doi: "10.5281/zenodo.24141821"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24141821"
+    description: "DOI conceitual: resolve sempre para a versão mais recente."
+  - type: doi
+    value: "10.5281/zenodo.24141822"
+    description: "DOI da versão v1.0.0 (2026-11-11)."
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-11"
 url: "https://damnielps.github.io/zonas-verdes-maputo/"
 repository-code: "https://github.com/Damnielps/zonas-verdes-maputo"
-# doi: será adicionado depois que o Zenodo cunhar o DOI da primeira release.
 keywords:
   - agricultura urbana
   - zonas verdes

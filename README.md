@@ -1,5 +1,7 @@
 # Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24141821.svg)](https://doi.org/10.5281/zenodo.24141821)
+
 Site: https://damnielps.github.io/zonas-verdes-maputo/ · Repositório: https://github.com/Damnielps/zonas-verdes-maputo
 
 Artigo científico e site interativo sobre a evolução da cintura agrícola periurbana de Maputo (as "zonas verdes" dos vales do Infulene e de Mahotas e da planície costeira de KaMavota). O projeto combina a história institucional e dos planos urbanísticos de Lourenço Marques e Maputo com um painel de 14 épocas de imagens Landsat (1979–2026), classificado por Random Forest, validado por amostra cega e cruzado com perímetros independentes da classificação (plano de 1985, PEUMM 2008, relevo de baixada). Todo o código, os dados agregados e o site estão neste repositório.
@@ -63,7 +65,7 @@ A ser feito pelo autor, depois de conferir `docs/PENDENCIAS.md` e `CREDITOS.md`:
 
 ## Como citar
 
-PESSINI SOBREIRA, Daniel. *Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos*. Versão 1.0.0. 2026. DOI: a definir. Ver `CITATION.cff`.
+PESSINI SOBREIRA, Daniel. *Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos*. Zenodo, 2026. DOI: 10.5281/zenodo.24141821. Disponível em: https://doi.org/10.5281/zenodo.24141821. Ver `CITATION.cff`.
 
 ## Licença e créditos
 

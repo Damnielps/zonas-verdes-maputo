@@ -6750,7 +6750,11 @@
    "existe": true
   }
  ],
- "citacao": "Pessini Sobreira, D. (2026). Zonas verdes de Maputo: evolução da cintura agrícola periurbana, 1979–2026. DOI: a definir.",
+ "citacao": "PESSINI SOBREIRA, Daniel. Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos. Zenodo, 2026. DOI: 10.5281/zenodo.24141821. Disponível em: https://doi.org/10.5281/zenodo.24141821.",
+ "doi": {
+  "conceito": "10.5281/zenodo.24141821",
+  "v1.0.0": "10.5281/zenodo.24141822"
+ },
  "meta": {
   "gerado_em": "2026-11-11",
   "script": "scripts/12_resultados.py",
