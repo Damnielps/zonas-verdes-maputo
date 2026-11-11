@@ -5,7 +5,7 @@ Uso: .venv/bin/python -I scripts/21_artigo.py [--tolerar] [--sem-pdf]
 Etapas: (1) figuras 4 e 5 + conversao de imagens dos planos; (2) quadros gerados;
 (3) placeholders {{chave}}; (4) citacoes [@chave] -> autor-data ABNT e lista NBR 6023;
 (5) artigo_final.md; (6) blocos JSON -> artigo.docx (artigo/build/build_docx.js) e HTML -> PDF (Chrome);
-(7) exportacao web: site/artigo.html + site/artigo/{img,artigo.pdf,artigo.docx}.
+(7) exportacao web: site/artigo.html + site/artigo/{img,artigo.pdf} (só o PDF é oferecido para download no site).
 Falhas duras (chave sem ficha, placeholder nao resolvido, figura ausente) abortam,
 exceto com --tolerar, que registra o problema e segue com um fallback explicito.
 Nao edita a prosa de artigo/artigo.md.
@@ -784,9 +784,9 @@ def exportar_web(blocos, meta):
     from PIL import Image
     dest = SITE / "artigo"
     (dest / "img").mkdir(parents=True, exist_ok=True)
-    for ext in ("pdf", "docx"):
-        if (ART / f"artigo.{ext}").exists():
-            shutil.copy2(ART / f"artigo.{ext}", dest / f"artigo.{ext}")
+    if (ART / "artigo.pdf").exists():
+        shutil.copy2(ART / "artigo.pdf", dest / "artigo.pdf")
+    (dest / "artigo.docx").unlink(missing_ok=True)  # o site oferece só o PDF
     tam = lambda ext: f"{(dest / f'artigo.{ext}').stat().st_size / 1e6:.1f}".replace(".", ",") + " MB" if (dest / f"artigo.{ext}").exists() else ""
 
     partes, sumario = [], []
@@ -878,14 +878,14 @@ def exportar_web(blocos, meta):
     nav = "".join(f'<a href="index.html#{i}">{html.escape(n)}</a>' for i, n in NAV_SITE) + '<a href="artigo.html" aria-current="page">Artigo</a>'
     baixar = (f'<div class="baixar" role="group" aria-label="Baixar o artigo">'
               f'<a class="btn-baixar" href="artigo/artigo.pdf" download>Baixar PDF <span>{tam("pdf")}</span></a>'
-              f'<a class="btn-baixar" href="artigo/artigo.docx" download>Baixar DOCX <span>{tam("docx")}</span></a></div>')
+              '</div>')
     doc = f"""<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(meta["titulo"])} (artigo)</title>
-<meta name="description" content="Artigo completo: evolução das zonas verdes (cintura agrícola periurbana) de Maputo, 1979–2026. Leia online ou baixe em PDF e DOCX.">
+<meta name="description" content="Artigo completo: evolução das zonas verdes (cintura agrícola periurbana) de Maputo, 1979–2026. Leia online ou baixe em PDF.">
 <link rel="stylesheet" href="assets/ardosia.css">
 <link rel="stylesheet" href="assets/site.css">
 <link rel="stylesheet" href="assets/correcoes.css">
@@ -923,7 +923,7 @@ def exportar_web(blocos, meta):
     <section class="sec-art citar" id="como-citar">
       <h2>Como citar</h2>
       <p class="cit">{html.escape(CITACAO_SITE)}</p>
-      <p class="nota">Este texto é a versão web do artigo, gerada a partir do mesmo arquivo-fonte do PDF e do DOCX; os números vêm de <code>dados/proc/resultados.json</code>. A <a href="index.html#metodologia">seção de metodologia do site</a> descreve como os números foram produzidos.</p>
+      <p class="nota">Este texto é a versão web do artigo, gerada a partir do mesmo arquivo-fonte do PDF; os números vêm de <code>dados/proc/resultados.json</code>. A <a href="index.html#metodologia">seção de metodologia do site</a> descreve como os números foram produzidos.</p>
       {baixar}
     </section>
   </article>
