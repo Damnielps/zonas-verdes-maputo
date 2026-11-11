@@ -1,0 +1,21 @@
+{
+  "title": "Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos",
+  "upload_type": "software",
+  "description": "<p>Artigo científico, site interativo e dados abertos sobre a evolução das zonas verdes (cintura agrícola periurbana) de Maputo entre 1979 e 2026. O projeto combina a história institucional e dos planos urbanísticos de Lourenço Marques e Maputo com um painel de 14 épocas de imagens Landsat, classificado por Random Forest e validado por amostra cega estratificada; como a agricultura de baixada se separa mal da vegetação não cultivada a 30 m, a medida central é a fração construída dentro de perímetros independentes da classificação (zonas verdes do plano de 1985, área agropecuária do PEUMM 2008 e baixadas por relevo).</p><p>Entregas: artigo (DOCX e PDF), site estático (<code>site/</code>), dados agregados em CSV e GeoJSON (<code>site/dados/</code>) e o código do pipeline geoespacial (<code>scripts/</code>), além da documentação metodológica.</p><p>Fontes de dados: Digital Earth Africa GeoMAD (CC BY 4.0), Landsat Collection 2 (USGS), Copernicus DEM GLO-30, ESA WorldCover 2021, Impact Observatory/Esri LULC, GLAD GLCLUC, GHSL, LUCO 1964–2001 (Henriques, Correia e Rolo, 2023), HDX COD-AB e OpenStreetMap.</p><p>Código sob licença MIT. Imagens de planos e mapas históricos e dados de terceiros <strong>não</strong> são cobertos pela licença MIT e mantêm os direitos dos respetivos titulares; a fonte, o autor, o detentor e a situação de direitos de cada um constam em <code>CREDITOS.md</code>. Os dados brutos baixados não estão incluídos e são reproduzíveis pelo pipeline.</p>",
+  "creators": [
+    { "name": "Pessini Sobreira, Daniel", "orcid": "0000-0002-6632-3991" }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "por",
+  "keywords": [
+    "agricultura urbana", "zonas verdes", "Maputo", "uso do solo", "sensoriamento remoto",
+    "planejamento urbano", "segurança alimentar", "Moçambique",
+    "urban agriculture", "green zones", "land use change", "remote sensing", "urban planning", "Mozambique"
+  ],
+  "related_identifiers": [
+    { "identifier": "10.5281/zenodo.8089260", "relation": "isDerivedFrom", "resource_type": "dataset", "scheme": "doi" },
+    { "identifier": "https://www.digitalearthafrica.org", "relation": "isDerivedFrom", "resource_type": "dataset", "scheme": "url" }
+  ],
+  "notes": "O arquivo depositado contém o código do pipeline, o site, os dados agregados e a documentação; os dados brutos (dados/raw/) não estão incluídos. Material de terceiros: ver CREDITOS.md."
+}

@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zonas verdes de Maputo</title>
+<meta name="description" content="Evolução da cintura agrícola periurbana de Maputo, 1979–2026: imagens de satélite, planos urbanísticos, conflitos e produtores.">
+<link rel="stylesheet" href="assets/ardosia.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css" integrity="sha384-uTttxo/aOKbdE5RlD/SPzSDoDmNvGlUYPjONi2MN/b7c9HPSvW07OIuyP7uL6jxK" crossorigin="anonymous">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<a class="skip" href="#abertura">Ir para o conteúdo</a>
+<header class="topo">
+  <div class="wrap">
+    <a class="topo__marca" href="#abertura">Zonas verdes de Maputo</a>
+    <nav aria-label="Seções">
+      <a href="#linha-do-tempo">Linha do tempo</a>
+      <a href="#painel">Painel</a>
+      <a href="#areas">Áreas</a>
+      <a href="#conversao">Conversão</a>
+      <a href="#planejado">Planejado × ocorrido</a>
+      <a href="#producao">Produção</a>
+      <a href="#planos">Planos</a>
+      <a href="#comparacao">Cidades</a>
+      <a href="#metodologia">Metodologia</a>
+    </nav>
+    <button type="button" class="btn-tema" id="btnTema" aria-label="Alternar tema claro e escuro">Tema</button>
+  </div>
+</header>
+
+<main>
+<section class="abertura" id="abertura" aria-labelledby="h-abertura">
+  <div class="wrap">
+    <p class="ard-kicker">Maputo, 1979–2026</p>
+    <h1 id="h-abertura">Zonas verdes de Maputo</h1>
+    <p class="sub">A cintura agrícola periurbana da capital moçambicana vista por quarenta anos de imagens de satélite, planos urbanísticos e conflitos de uso do solo.</p>
+    <div class="kpis" id="kpis" aria-label="Números-chave"></div>
+    <p class="nota" id="kpiNota" style="margin-top:14px"></p>
+  </div>
+</section>
+
+<section class="sec" id="linha-do-tempo" aria-labelledby="h-tl">
+  <div class="wrap">
+    <p class="ard-kicker">1876–2026</p>
+    <h2 id="h-tl">Linha do tempo</h2>
+    <p class="lead">Marcos legais, planos, obras e cheias que moldaram a relação entre a cidade e a sua faixa agrícola. Clique numa miniatura para ver o plano com o crédito completo.</p>
+    <div class="grupo" id="tlFiltros" role="group" aria-label="Filtrar por tipo"></div>
+    <ol class="tl" id="tlLista"></ol>
+  </div>
+</section>
+
+<section class="sec" id="painel" aria-labelledby="h-painel">
+  <div class="wrap">
+    <p class="ard-kicker">Painel evolutivo</p>
+    <h2 id="h-painel">Catorze épocas sobre o mapa</h2>
+    <p class="lead">Composições de satélite e classificação de uso do solo em grade de 30 m. Escolha a época, alterne entre imagem, classificação e ano de conversão, ou compare dois anos lado a lado.</p>
+    <div class="painel">
+      <div class="painel__ctl">
+        <div class="painel__linha">
+          <button type="button" id="btnPlay" aria-pressed="false" aria-label="Reproduzir sequência de épocas">Reproduzir</button>
+          <span class="ano-grande" id="anoGrande" aria-live="polite">2026</span>
+          <div class="slider-wrap">
+            <input type="range" id="sliderAno" min="0" max="13" step="1" value="13" aria-label="Época do mapa">
+            <div class="ticks" id="ticksAno" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div class="painel__linha">
+          <div class="grupo" id="modoGrupo" role="group" aria-label="Camada do mapa" style="margin:0">
+            <button type="button" data-modo="img" aria-pressed="false">Imagem</button>
+            <button type="button" data-modo="cls" aria-pressed="true">Classificação</button>
+            <button type="button" data-modo="conv" aria-pressed="false">Ano de conversão</button>
+          </div>
+          <label class="ctl"><input type="checkbox" id="chkComp"> Comparar dois anos</label>
+          <span id="selComp" hidden>
+            <label class="ctl">Esquerda <select id="selA" aria-label="Época à esquerda"></select></label>
+            <label class="ctl">Direita <select id="selB" aria-label="Época à direita"></select></label>
+          </span>
+        </div>
+        <div class="painel__linha" role="group" aria-label="Camadas adicionais">
+          <label class="ctl"><input type="checkbox" id="chkDist"> Distritos</label>
+          <label class="ctl"><input type="checkbox" id="chkBairro"> Bairros</label>
+          <label class="ctl"><input type="checkbox" id="chkP85"> Zonas do plano de 1985</label>
+          <label class="ctl"><input type="checkbox" id="chkP08"> Zonas do PEUMM 2008</label>
+          <label class="ctl"><input type="checkbox" id="chkConf"> Conflitos</label>
+          <label class="ctl">Imagem do plano
+            <select id="selPlanoImg" aria-label="Imagem georreferenciada de plano">
+              <option value="">nenhuma</option>
+              <option value="plano_1985">Plano de 1985 (INPF, mapa 7)</option>
+              <option value="peumm_2008">PEUMM 2008 (planta de ordenamento)</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div class="mapa-wrap" id="mapaWrap" data-comp="0">
+        <div id="mapaA" class="mapa" role="application" aria-label="Mapa de Maputo com camadas de satélite e classificação"></div>
+        <div id="mapaB" class="mapa mapa--b" aria-hidden="true"></div>
+        <div class="comp-linha" id="compLinha"></div>
+        <input type="range" class="comp-range" id="compRange" min="0" max="100" value="50" aria-label="Posição da divisória de comparação">
+        <span class="rot rot-a" id="rotA"></span><span class="rot rot-b" id="rotB"></span>
+      </div>
+      <p class="caveat" id="caveat"></p>
+      <ul class="legenda" id="legenda" aria-label="Legenda"></ul>
+      <p class="nota" id="notaMapa"></p>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="areas" aria-labelledby="h-areas">
+  <div class="wrap">
+    <p class="ard-kicker">Áreas ao longo do tempo</p>
+    <h2 id="h-areas">Ocupação construída e uso do solo, 1985–2026</h2>
+    <p class="lead">A medida mais robusta é a parcela construída dentro de perímetros definidos independentemente da classificação agrícola. A série das zonas verdes (classe 2) é mostrada, mas é indicativa: veja a validação na seção de metodologia.</p>
+    <div class="fig" id="figEnv"></div>
+    <h3>Classes de uso do solo</h3>
+    <div class="grupo" id="areasVista" role="group" aria-label="Tipo de gráfico">
+      <button type="button" data-v="emp" aria-pressed="true">Empilhado (ha)</button>
+      <button type="button" data-v="lin" aria-pressed="false">Linhas por classe (%)</button>
+      <button type="button" data-v="tab" aria-pressed="false">Tabela</button>
+    </div>
+    <label class="ctl" style="margin-left:8px">Recorte <select id="selDistrito" aria-label="Recorte espacial"></select></label>
+    <div class="fig" id="figAreas"></div>
+    <p class="nota" id="notaAreas"></p>
+  </div>
+</section>
+
+<section class="sec" id="conversao" aria-labelledby="h-conv">
+  <div class="wrap">
+    <p class="ard-kicker">Conversão e conflitos</p>
+    <h2 id="h-conv">Da machamba ao loteamento</h2>
+    <p class="lead">Taxa anual de conversão de terra agrícola em construído, bairros que mais perderam zonas verdes e os conflitos documentados na literatura e na imprensa.</p>
+    <div class="fig" id="figConv"></div>
+    <div class="fig" id="figBairros"></div>
+    <h3>Conflitos documentados</h3>
+    <p class="nota" id="notaConf"></p>
+    <ul class="conf" id="listaConf"></ul>
+  </div>
+</section>
+
+<section class="sec" id="planejado" aria-labelledby="h-plan">
+  <div class="wrap">
+    <p class="ard-kicker">Planejado × ocorrido</p>
+    <h2 id="h-plan">O que os planos reservaram e o que se construiu</h2>
+    <p class="lead">As zonas verdes do Plano de Estrutura de 1985 e a classe agropecuária do PEUMM de 2008 foram georreferenciadas e vetorizadas. A cada categoria sobrepôs-se a classificação de uso do solo.</p>
+    <div id="planejadoCorpo"></div>
+  </div>
+</section>
+
+<section class="sec" id="producao" aria-labelledby="h-prod">
+  <div class="wrap">
+    <p class="ard-kicker">Produção e produtores</p>
+    <h2 id="h-prod">Quem cultiva, quanto e segundo que definição</h2>
+    <p class="lead">As séries vêm de fontes com definições espaciais e conceituais diferentes. Por isso pontos de definições distintas nunca são ligados por linha nem somados.</p>
+    <div id="producaoCorpo"></div>
+  </div>
+</section>
+
+<section class="sec" id="planos" aria-labelledby="h-planos">
+  <div class="wrap">
+    <p class="ard-kicker">Planos urbanísticos</p>
+    <h2 id="h-planos">Galeria de planos e cartografia histórica</h2>
+    <p class="lead">Resumo de cada plano e do tratamento dado à agricultura, com as imagens disponíveis e os créditos completos.</p>
+    <div class="planos" id="planosLista"></div>
+    <h3>Cartografia histórica</h3>
+    <div class="galeria" id="galeriaMapas"></div>
+  </div>
+</section>
+
+<section class="sec" id="comparacao" aria-labelledby="h-comp">
+  <div class="wrap">
+    <p class="ard-kicker">Comparação internacional</p>
+    <h2 id="h-comp">Maputo em perspectiva</h2>
+    <p class="lead">Como outras cidades reconhecem, protegem ou perdem a sua agricultura urbana. Células em branco indicam dado não encontrado nas fontes lidas.</p>
+    <div class="tab-rolavel"><table class="casos" id="tabCasos"></table></div>
+  </div>
+</section>
+
+<section class="sec" id="metodologia" aria-labelledby="h-met">
+  <div class="wrap">
+    <p class="ard-kicker">Metodologia e dados</p>
+    <h2 id="h-met">Como os números foram produzidos</h2>
+    <div id="metCorpo"></div>
+  </div>
+</section>
+</main>
+
+<footer class="rodape"><div class="wrap">
+  <p id="rodape"></p>
+</div></footer>
+
+<dialog class="lb" id="lightbox" aria-label="Imagem ampliada">
+  <button type="button" class="fechar" id="lbFechar">Fechar</button>
+  <img id="lbImg" alt="">
+  <p class="cred" id="lbCred"></p>
+</dialog>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js" integrity="sha384-5+cfbwT0iiub6VsQAdn6yz16nr6sDiQoHx6tm4O8OVYXHYOxcffFmCJBL0dgdvGp" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="dados/dados.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

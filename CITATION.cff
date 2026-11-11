@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Se você usar este software, os dados ou o artigo, cite-os desta forma."
+title: "Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos"
+type: software
+authors:
+  - family-names: "Pessini Sobreira"
+    given-names: "Daniel"
+    orcid: "https://orcid.org/0000-0002-6632-3991"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-11"
+# url: "https://<usuario>.github.io/zonas-verdes-maputo"   (preencher quando o GitHub Pages estiver publicado)
+# doi: será adicionado depois que o Zenodo cunhar o DOI da primeira release.
+keywords:
+  - agricultura urbana
+  - zonas verdes
+  - Maputo
+  - uso do solo
+  - sensoriamento remoto
+  - planejamento urbano
+  - segurança alimentar
+abstract: >-
+  As zonas verdes de Maputo, cintura de hortas e machambas nos vales do Infulene e de
+  Mahotas e na planície costeira de KaMavota, foram reconhecidas desde 1979 como base do
+  abastecimento da cidade. O projeto reconstitui a sua trajetória entre 1979 e 2026,
+  combinando a história institucional e dos planos urbanísticos de Lourenço Marques e
+  Maputo com um painel de imagens Landsat nos anos censitários e intercensitários,
+  classificado por Random Forest e validado por amostra cega estratificada. Como a
+  agricultura de baixada se separa mal da vegetação não cultivada a 30 m, a medida
+  central é a fração construída dentro de perímetros independentes da classificação.
+  Inclui o artigo, um site interativo, os dados agregados e o código do pipeline.

@@ -1,0 +1,2 @@
+# CRUZ E SILVA, Teresa. União Geral das Cooperativas (UGC). In: SANTOS, B. de S. (ed.). *Another production is possible*. London: Verso, 2006. [conforme levantamento 02; versão anterior em português: Cruz e Silva 2003, "União Geral de Cooperativas em Moçambique: um sistema alternativo de produção?", Porto: Afrontamento — citada na lista de referências de UCLG 2010]
+- status: NAO_VERIFICADO (não aberto)

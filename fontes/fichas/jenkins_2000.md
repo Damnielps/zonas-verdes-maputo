@@ -1,0 +1,2 @@
+# JENKINS, Paul. City profile: Maputo. *Cities*, v. 17, n. 3, p. 207–218, 2000. DOI 10.1016/S0264-2751(00)00002-0.
+- status: NAO_VERIFICADO (não aberto). Dados citados em segunda mão: Chikanda & Raimundo (2016, p. 8, Tabela 3, "Jenkins 2000: 214"): uso do solo 1998 — zonas verdes 1 859 ha em Maputo (12%) e 1 869 ha em Matola; Maputo+Matola 675 km². Reyes Tejada et al. (2024) citam Jenkins (2000a) para população de 755 000 em 1980.

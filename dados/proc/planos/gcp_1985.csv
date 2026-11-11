@@ -1,0 +1,16 @@
+id,tipo,px,py,x_utm36s,y_utm36s,descricao
+g_3230_2550,controlo,151.6,177.5,449890.4,7142678.0,cruzamento da graticula 32d30E 25d50S
+g_3230_2555,controlo,151.6,322.0,449925.5,7133449.3,cruzamento da graticula 32d30E 25d55S
+g_3230_2600,controlo,151.6,467.5,449960.8,7124220.4,cruzamento da graticula 32d30E 26d00S
+g_3235_2550,controlo,280.0,177.5,458242.1,7142707.1,cruzamento da graticula 32d35E 25d50S
+g_3235_2555,controlo,280.0,322.0,458271.4,7133478.4,cruzamento da graticula 32d35E 25d55S
+g_3235_2600,controlo,280.0,467.5,458300.7,7124249.7,cruzamento da graticula 32d35E 26d00S
+g_3240_2550,controlo,409.0,177.5,466593.7,7142730.9,cruzamento da graticula 32d40E 25d50S
+g_3240_2555,controlo,409.0,322.0,466617.2,7133502.3,cruzamento da graticula 32d40E 25d55S
+g_3240_2600,controlo,409.0,467.5,466640.7,7124273.6,cruzamento da graticula 32d40E 26d00S
+c_catembe_leste_7125000,verificacao,245.5,455.4,456045,7125000,"costa leste de Catembe, linha N7125000 (extremo E da tinta vs terra 2020)"
+c_catembe_leste_7126500,verificacao,243.7,431.8,455775,7126500,"costa leste de Catembe, linha N7126500"
+c_costa_cidade_7129000,verificacao,317.4,392.8,460785,7129000,"costa NE da cidade, linha N7129000"
+c_costa_cidade_7131000,verificacao,346.1,361.5,462615,7131000,"costa NE da cidade, linha N7131000"
+c_costa_cidade_7133000,verificacao,371.2,330.1,464265,7133000,"costa NE da cidade, linha N7133000"
+c_ponta_vermelha_sul,verificacao,292.6,439.8,459100,7126005,extremo sul da Ponta Vermelha (so a coordenada N e comparavel)

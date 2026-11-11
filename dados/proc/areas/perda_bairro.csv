@@ -1,0 +1,113 @@
+grupo,unidade,pcode,area_unidade_ha,zv_1990_ha,zv_2025_ha,variacao_liquida_ha,perda_bruta_ha,convertida_construido_ha,ganho_bruto_ha
+bairro_matola,Matola Rio-Sede,MZ10020201,6446.6,483.48,194.94,-288.54,362.25,185.4,73.71
+bairro_matola,Michafutene,MZ10050104,6534.0,600.12,231.93,-368.19,383.76,143.28,15.57
+bairro_matola,Marracuene-Sede,MZ10050101,4806.4,964.26,289.8,-674.46,718.83,101.43,44.37
+bairro_maputo,Magoanine A,MZ11059909,561.9,102.15,0.0,-102.15,102.15,92.79,0.0
+bairro_maputo,Albazine,MZ11049903,2606.0,544.5,313.2,-231.3,267.57,91.08,36.27
+bairro_matola,Matola A,MZ10010105,2215.2,151.47,51.57,-99.9,112.77,80.01,12.87
+bairro_maputo,Costa do Sol,MZ11049904,1990.5,247.95,78.12,-169.83,183.42,74.07,13.59
+bairro_matola,Fomento,MZ10010102,588.6,58.41,13.5,-44.91,46.08,43.2,1.17
+bairro_matola,Malhampsene,MZ10010104,618.6,83.43,8.73,-74.7,78.48,30.15,3.78
+bairro_matola,Infulene A,MZ10010303,283.4,61.74,26.1,-35.64,37.26,28.62,1.62
+bairro_maputo,Polana Canico B,MZ11039907,397.7,101.25,17.46,-83.79,83.88,28.35,0.09
+bairro_matola,Mulotana,MZ10020202,1995.2,150.48,4.77,-145.71,148.14,27.18,2.43
+bairro_matola,Zona Verde,MZ10010215,522.3,96.66,46.8,-49.86,51.39,25.74,1.53
+bairro_maputo,Ferroviario,MZ11049905,443.2,94.05,60.75,-33.3,35.28,25.02,1.98
+bairro_matola,Matola C,MZ10010107,498.1,50.4,23.67,-26.73,32.22,24.93,5.49
+bairro_matola,Tsalala,MZ10010313,1230.8,57.78,5.76,-52.02,52.38,23.94,0.36
+bairro_maputo,Mahotas,MZ11049910,1196.8,280.44,237.15,-43.29,54.99,21.69,11.7
+bairro_matola,Mussumbuluco,MZ10010113,536.5,36.99,12.15,-24.84,28.44,21.42,3.6
+bairro_matola,Gueguegue,MZ10020102,439.6,55.8,29.43,-26.37,41.31,21.33,14.94
+bairro_maputo,Sommerschield,MZ11019911,368.5,31.77,0.45,-31.32,31.41,20.7,0.09
+bairro_matola,Acordos de Lusaka,MZ10010203,296.9,25.83,3.51,-22.32,22.95,20.25,0.63
+bairro_matola,Machava-Sede,MZ10010301,744.3,30.51,13.5,-17.01,21.15,19.89,4.14
+bairro_matola,Vale de Infulene,MZ10010214,404.4,198.54,157.77,-40.77,70.83,18.0,30.06
+bairro_maputo,25 de Junho A,MZ11059901,200.7,61.11,21.15,-39.96,41.04,16.2,1.08
+bairro_maputo,Magoanine B,MZ11059910,578.7,22.32,0.0,-22.32,22.32,14.22,0.0
+bairro_maputo,Central C,MZ11019905,204.1,18.54,0.18,-18.36,18.36,13.77,0.0
+bairro_matola,Matola Gare,MZ10010306,3270.8,91.53,2.07,-89.46,90.45,13.05,0.99
+bairro_maputo,Luis Cabral,MZ11059908,534.7,25.83,18.0,-7.83,15.48,11.07,7.65
+bairro_matola,Macaneta,MZ10050102,3315.5,153.9,19.26,-134.64,137.52,9.99,2.88
+bairro_maputo,Zimpeto,MZ11059914,1874.6,112.77,66.06,-46.71,64.44,9.72,17.73
+bairro_matola,Matola D,MZ10010108,314.6,17.91,8.73,-9.18,11.97,9.54,2.79
+bairro_maputo,Chali,MZ11069901,1547.3,91.35,29.97,-61.38,69.12,9.18,7.74
+bairro_maputo,Inhagoia B,MZ11059906,154.6,36.63,14.94,-21.69,22.59,8.91,0.9
+bairro_maputo,Laulane,MZ11049909,438.8,61.83,49.23,-12.6,18.54,8.82,5.94
+bairro_matola,Eduardo Mondlane,MZ10020101,5923.0,682.11,52.47,-629.64,635.85,8.73,6.21
+bairro_maputo,Inguide,MZ11069905,1386.7,51.03,0.18,-50.85,50.85,7.02,0.0
+bairro_maputo,Polana Canico A,MZ11039906,301.8,15.75,4.68,-11.07,11.07,6.75,0.0
+bairro_maputo,Hulene B,MZ11049908,367.2,5.85,0.0,-5.85,5.85,5.85,0.0
+bairro_matola,Trevo,MZ10010312,271.2,21.51,7.56,-13.95,14.58,4.86,0.63
+bairro_maputo,Inhagoia A,MZ11059905,83.0,12.51,6.03,-6.48,6.48,4.68,0.0
+bairro_maputo,Jardim,MZ11059907,185.5,57.6,67.95,10.35,9.72,4.59,20.07
+bairro_maputo,Magoanine C,MZ11059911,687.0,6.93,0.0,-6.93,6.93,4.23,0.0
+bairro_maputo,George Dimitrov,MZ11059904,450.8,40.95,30.78,-10.17,15.12,3.96,4.95
+bairro_matola,M'Sime,MZ10060201,3244.8,275.94,14.58,-261.36,267.21,3.42,5.85
+bairro_matola,Matola J,MZ10010112,133.5,12.33,5.22,-7.11,7.47,3.42,0.36
+bairro_maputo,Malanga,MZ11029907,151.7,3.33,0.18,-3.15,3.24,2.79,0.09
+bairro_maputo,Bagamoio,MZ11059903,249.8,27.63,17.73,-9.9,10.08,2.43,0.18
+bairro_maputo,25 de Junho B,MZ11059902,136.6,2.07,0.0,-2.07,2.07,2.07,0.0
+bairro_matola,T3,MZ10010213,136.6,1.89,0.36,-1.53,1.53,1.53,0.0
+bairro_matola,Ndlavela,MZ10010211,1130.8,1.17,0.0,-1.17,1.17,1.17,0.0
+bairro_maputo,Chamissava,MZ11069902,2116.1,186.39,136.62,-49.77,68.22,0.99,18.45
+bairro_matola,Nkobe,MZ10010307,1275.0,0.9,0.0,-0.9,0.9,0.81,0.0
+bairro_matola,Infulene D,MZ10010201,188.0,5.22,5.94,0.72,0.81,0.81,1.53
+bairro_maputo,Polana Cimento A,MZ11019909,135.4,0.9,0.0,-0.9,0.9,0.63,0.0
+bairro_matola,Singathela,MZ10010311,180.2,0.81,0.45,-0.36,0.63,0.63,0.27
+bairro_matola,Bunhica,MZ10010302,883.2,0.9,0.0,-0.9,0.9,0.63,0.0
+bairro_maputo,Incassane,MZ11069904,6867.9,267.21,76.32,-190.89,217.44,0.54,26.55
+bairro_maputo,3 de Fevereiro,MZ11049901,263.2,40.14,40.23,0.09,0.99,0.45,1.08
+bairro_matola,Vila de Marracuene,MZ10050106,252.3,2.25,0.0,-2.25,2.25,0.45,0.0
+bairro_matola,Boquisso A,MZ10010204,737.2,0.45,0.0,-0.45,0.45,0.27,0.0
+bairro_matola,Liberdade,MZ10010103,536.0,0.54,0.0,-0.54,0.54,0.27,0.0
+bairro_matola,Matola F,MZ10010109,175.6,0.18,0.63,0.45,0.18,0.18,0.63
+bairro_matola,Khongolote,MZ10010207,1035.7,63.72,61.65,-2.07,26.28,0.18,24.21
+bairro_maputo,Aeroporto Internacional de Maputo,MZ11049902,661.1,0.9,0.0,-0.9,0.9,0.18,0.0
+bairro_maputo,Guachene,MZ11069903,357.6,2.97,1.35,-1.62,2.43,0.18,0.81
+bairro_maputo,Alto Mae B,MZ11019902,183.2,0.18,0.0,-0.18,0.18,0.18,0.0
+bairro_matola,Patrice Lumumba,MZ10010308,200.9,9.36,14.22,4.86,0.18,0.18,5.04
+bairro_matola,Uamatibjane,MZ10010314,2318.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Muhalaze,MZ10010210,2604.6,0.27,0.0,-0.27,0.27,0.0,0.0
+bairro_matola,Siduava,MZ10010310,1367.0,23.22,1.08,-22.14,23.13,0.0,0.99
+bairro_matola,Sao Damaso,MZ10010309,961.3,0.0,0.27,0.27,0.0,0.0,0.27
+bairro_matola,Mali,MZ10010208,658.7,1.89,0.0,-1.89,1.89,0.0,0.0
+bairro_matola,Matlhemele,MZ10010305,1446.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Mugazine,MZ10060202,2140.9,101.25,0.27,-100.98,101.25,0.0,0.27
+bairro_matola,Km 15,MZ10010304,1080.9,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Intaca,MZ10010206,2164.3,0.0,5.94,5.94,0.0,0.0,5.94
+bairro_matola,Ngolhosa,MZ10010212,113.8,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Alto Mae A,MZ11019901,48.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,1 de Maio,MZ10010202,922.7,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Aeroporto B,MZ11029902,80.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Munhuana,MZ11029909,47.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Minkadjuine,MZ11029908,36.9,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Chamanculo D,MZ11029906,56.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Chamanculo C,MZ11029905,139.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Chamanculo B,MZ11029904,42.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Chamanculo A,MZ11029903,45.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Aeroporto A,MZ11029901,88.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Matola H,MZ10010111,150.9,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Polana Cimento B,MZ11019910,81.9,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Malhangalene B,MZ11019908,92.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Malhangalene A,MZ11019907,54.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Coop,MZ11019906,66.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Central B,MZ11019904,56.4,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Central A,MZ11019903,56.5,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Unidade 7,MZ11029910,46.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Xipamanine,MZ11029911,72.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Mafalala,MZ11039901,84.4,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Maxaquene A,MZ11039902,83.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Maxaquene B,MZ11039903,105.6,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Maxaquene C,MZ11039904,96.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Maxaquene D,MZ11039905,88.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Urbanizacao,MZ11039908,108.7,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Fplm,MZ11049906,95.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Hulene A,MZ11049907,126.1,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Mavalane A,MZ11049911,121.8,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Mavalane B,MZ11049912,57.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Malhazine,MZ11059912,85.0,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_maputo,Nsalene,MZ11059913,19.3,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Cikwama,MZ10010101,236.2,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Matola B,MZ10010106,129.1,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Matola G,MZ10010110,79.6,0.0,0.0,0.0,0.0,0.0,0.0
+bairro_matola,Pessene-Sede,MZ10070201,1357.2,23.13,0.0,-23.13,23.13,0.0,0.0

@@ -1,0 +1,2 @@
+# BEJA DA COSTA, Ana; MAZZOLINI, Andrea. Maputo's coastline in mutation. Current infrastructure impacts in Costa do Sol's landscape. *African Geographical Review*, v. 40, n. 3, p. 231–248, 2021. DOI 10.1080/19376812.2021.1910852. [Título e paginação conferidos no Crossref em L6; texto não aberto — repositório ULisboa em Anubis/anti-robô.]
+- status: NAO_VERIFICADO (não aberto). A busca por "Mazzolini + Beja da Costa" não devolveu o artigo. Ver ficha bejadacosta_2019 (Finisterra), aberta.

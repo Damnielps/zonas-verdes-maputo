@@ -1,0 +1,28 @@
+Chaves citadas em artigo.md cuja ficha NAO esta VERIFICADO (status da ficha):
+battersby_2011	PARCIAL
+bryld_2003	PARCIAL
+cmm_2021a	PARCIAL (grande documento, lidas apenas as passagens sobre PEUMM, agricultura e instrumentos)
+cmm_2021b	PARCIAL (lidas as seções de enquadramento legal e instrumentos)
+crush_2011a	PARCIAL
+davies_2021	PARCIAL
+drechsel_2008	PARCIAL
+egziabher_1994	PARCIAL
+ferreira_2023	PARCIAL
+frayne_2014	PARCIAL
+long_2011	PARCIAL
+lwasa_2015	PARCIAL
+mbiba_1994	PARCIAL
+miketen_2013	PARCIAL
+mougeot_2000	PARCIAL
+mozhist_zonasverdes	PARCIAL (página-resumo; PDF de recortes de imprensa não aberto)
+nairobi_2015	PARCIAL
+poulsen_2015	PARCIAL
+prain_2010	PARCIAL
+qadir_2010	PARCIAL
+rakodi_1988	PARCIAL
+rosario_2002	PARCIAL
+stockholm_2012	PARCIAL
+trindade_sd	PARCIAL
+uclg_2007	PARCIAL
+warren_2015	PARCIAL (texto integral lido, mas apenas na versão manuscrita submetida, fev. 2015, LSHTM Research Online; sem paginação e com inconsistências internas nos números de estudos incluídos; reconferir contra a versão publicada antes de citar números)
+zezza_2010	PARCIAL

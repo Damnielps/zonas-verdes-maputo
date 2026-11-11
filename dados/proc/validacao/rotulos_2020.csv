@@ -1,0 +1,281 @@
+id,classe_ref,confianca,nota
+P001,3,media,campos retalhados escuros e claros com poucos telhados
+P002,1,baixa,muitos telhados pequenos em tecido denso
+P003,7,media,planicie plana cinza-clara sem vegetacao junto a mangal
+P004,7,media,faixa branca de areia ou salina junto a duna
+P005,3,baixa,borda de talhao escuro rodeado de habitacao dispersa
+P006,45,baixa,borda de grande area vegetada junto a estrada curva
+P007,6,alta,mar aberto uniforme azul escuro
+P008,1,media,tecido urbano denso ao lado de talhao escuro
+P009,6,alta,agua escura uniforme
+P010,7,baixa,faixa clara de lodo ou areia entre mangal
+P011,3,media,solo escuro com machambas e arvores dispersas
+P012,7,baixa,planicie intertidal cinza sem vegetacao junto ao mar
+P013,2,baixa,baixa verde junto a bairro com vegetacao densa
+P014,2,baixa,vale com vegetacao densa e manchas escuras
+P015,2,media,talhoes retangulares em baixa ao lado de bairro
+P016,6,alta,agua escura uniforme
+P017,7,media,praia branca estreita junto ao mar
+P018,6,alta,mar aberto escuro uniforme
+P019,3,baixa,solo castanho mosqueado com campos difusos
+P020,2,media,talhoes escuros em grelha com telhados dispersos em baixa
+P021,3,media,mosaico de campos laranja com poucos telhados
+P022,6,alta,agua escura de estuario
+P023,7,media,mancha branca de areia ou sal ao lado de lodo
+P024,7,baixa,grande bloco castanho limpo com caminhos cruzados
+P025,2,baixa,baixa muito verde com carreiro claro e talhoes
+P026,45,media,sapal ou mangal entre canais de mare
+P027,3,media,solo laranja com campos e casas dispersas
+P028,1,baixa,tecido denso de casas pequenas com arvores
+P029,45,baixa,faixa arborizada escura junto a bairro
+P030,1,media,via pavimentada em curva entre relva
+P031,2,media,talhoes pequenos verdes na baixa junto a bairro
+P032,45,baixa,vegetacao densa escura de baixa sem estrutura clara
+P033,3,baixa,solo arenoso castanho mosqueado com campos difusos
+P034,6,alta,agua escura uniforme
+P035,2,media,faixa de vale cultivada entre bairros
+P036,2,media,verde texturado de baixa com telhados dispersos
+P037,1,baixa,telhados e solo claro com quintais arborizados
+P038,6,alta,mar escuro uniforme
+P039,1,baixa,estrada e solo nu na borda de mata escura
+P040,45,media,faixa de vegetacao de duna atras da praia
+P041,45,baixa,pousio arbustivo com manchas de solo claro
+P042,45,baixa,copas escuras entre casas dispersas
+P043,45,media,herbaceas cinzentas com moitas escuras de arvores
+P044,7,media,areia branca de restinga junto ao mar
+P045,3,baixa,textura laranja de campos difusos sem telhados
+P046,7,baixa,solo nu castanho junto a salinas
+P047,7,media,faixa clara de areia na margem do estuario
+P048,1,media,telhados brilhantes e estrada em cruzamento
+P049,1,media,edificios brancos em meio a vegetacao densa
+P050,1,media,tecido denso de telhados claros e escuros
+P051,1,baixa,borda da imagem junto a estrada e bairro
+P052,1,alta,complexo de edificios com telhados grandes
+P053,1,alta,malha urbana formal de quarteiroes
+P054,1,baixa,edificio claro na borda de grande talhao escuro
+P055,6,alta,agua do estuario junto a margem de sapal
+P056,3,media,solo laranja com campos e arvores dispersas
+P057,3,baixa,solo claro mosqueado com campos difusos e ravina
+P058,2,media,talhoes verdes densos de baixa cortados por caminho
+P059,6,alta,agua escura uniforme
+P060,3,media,machambas em solo laranja com casas dispersas
+P061,45,media,faixa arborizada escura junto a tanques e bairro
+P062,7,baixa,praia estreita na linha de costa
+P063,1,media,tecido denso de telhados claros junto a lago
+P064,45,media,mangal e sapal junto a canal de mare
+P065,3,media,solo castanho com campos difusos e casas dispersas
+P066,45,media,faixa escura de zona humida ou mangal
+P067,1,media,assentamento informal denso de telhados pequenos
+P068,45,baixa,copa verde escura continua junto a bairro
+P069,1,media,casas densas com arvores entre elas
+P070,45,baixa,vegetacao densa escura lisa com trilhos
+P071,7,media,faixa de praia clara junto ao mar
+P072,2,baixa,campo texturado em baixa junto a banda escura
+P073,45,baixa,vegetacao baixa cinza-verde continua com pontos escuros
+P074,3,media,talhoes castanhos e claros de sequeiro
+P075,1,alta,malha densa de telhados e ruas
+P076,7,media,duna ou praia branca junto ao mar
+P077,45,baixa,herbaceas e arbustos cinza-verdes sem estrutura de campo
+P078,3,baixa,borda de campo escuro com solo e casas dispersas
+P079,1,alta,malha urbana densa com ruas regulares
+P080,45,baixa,vegetacao escura densa junto a edificios e caminho
+P081,45,baixa,vegetacao escura vedada junto a grande edificio branco
+P082,6,alta,agua escura junto a faixa de praia
+P083,1,baixa,casas dispersas sobre solo claro quase nu
+P084,1,media,telhados e solo claro muito brilhantes
+P085,45,media,mato costeiro cinza-rosado sem estrutura de campo
+P086,45,media,sapal e mangal com canais de mare
+P087,6,alta,mar logo ao largo da praia
+P088,45,media,vegetacao densa escura junto a pista
+P089,45,baixa,vegetacao escura densa de baixa sem talhoes nitidos
+P090,45,baixa,vegetacao escura com poucas casas dispersas
+P091,1,media,casas e quintais sobre solo nu com estrada
+P092,2,media,talhoes pequenos em grelha na baixa junto a casas
+P093,7,baixa,banco de areia emerso no limite com a agua
+P094,6,alta,agua uniforme
+P095,3,baixa,solo rosado com vegetacao rala e campos difusos
+P096,2,media,talhoes finos acinzentados com cercas junto a casas
+P097,45,baixa,transicao entre bairro e vegetacao escura de baixa
+P098,3,media,campos castanhos de sequeiro com casas dispersas
+P099,45,baixa,sapal cinza-rosado com canal sinuoso de mare
+P100,45,media,mangal escuro com canais
+P101,2,media,verde texturado de baixa com alta variabilidade
+P102,6,media,agua escura junto a praia estreita
+P103,45,baixa,vegetacao escura densa sem estrutura de campo
+P104,45,baixa,vegetacao arbustiva com telhados dispersos
+P105,2,baixa,quadras de talhoes escuros com casas na baixa
+P106,1,media,casas densas ao longo de rua de terra
+P107,45,baixa,vegetacao escura continua e lisa
+P108,6,alta,agua escura uniforme
+P109,3,baixa,grande talhao castanho-avermelhado com casas dispersas
+P110,1,alta,tecido denso de casas e telhados
+P111,1,media,casas e ruas de terra com arvores entre quintais
+P112,7,baixa,linha de praia estreita entre mar e vegetacao
+P113,3,media,solo laranja com campos difusos e casas dispersas
+P114,45,media,vegetacao escura densa junto a zona humida
+P115,6,alta,mar escuro uniforme
+P116,45,baixa,vegetacao baixa cinza-verde sem estrutura nitida
+P117,2,baixa,verde escuro com limite retangular fraco e alta variabilidade
+P118,7,alta,praia larga de areia branca
+P119,3,media,campos com solo claro e manchas verdes junto a estrada
+P120,1,alta,telhados grandes de armazens ou equipamentos
+P121,6,alta,agua escura uniforme
+P122,3,media,campos laranja com pequenas casas e talhoes escuros
+P123,6,alta,agua escura uniforme
+P124,6,alta,agua escura uniforme
+P125,45,baixa,pousio herbaceo castanho com linha de drenagem
+P126,1,alta,malha densa de casas pequenas
+P127,1,media,rua clara e telhados junto a lote de solo nu
+P128,3,baixa,mosaico de casas dispersas e campos
+P129,2,media,talhoes escuros pequenos entre edificios na baixa
+P130,1,baixa,borda de bairro junto a campo escuro
+P131,3,baixa,mosaico claro de campos e casas dispersas
+P132,1,baixa,superficie branca de telhados ou solo nu junto a talhao
+P133,2,media,talhoes acinzentados em baixa entre casas e estrada
+P134,1,alta,bairro denso junto a rua principal
+P135,6,alta,agua escura uniforme
+P136,1,alta,bairro denso de telhados pequenos
+P137,1,baixa,borda de bairro com copas escuras dispersas
+P138,45,media,vegetacao mosqueada cinza-verde junto a agua
+P139,6,alta,agua escura com sedimento difuso
+P140,45,baixa,faixa de vegetacao escura lisa entre bairros
+P141,3,baixa,vegetacao e telhados misturados sem padrao claro
+P142,1,media,bairro denso com rua de terra
+P143,45,baixa,terreno humido cinza-vermelho junto a canais
+P144,2,baixa,mosaico verde de baixa com casas e alta variabilidade
+P145,3,media,talhoes retangulares castanhos de sequeiro
+P146,7,media,restinga de areia clara junto ao mar
+P147,45,media,vegetacao escura densa continua
+P148,45,baixa,borda de mata escura junto a bairro
+P149,3,baixa,solo claro entre talhoes e casas dispersas
+P150,1,media,tecido denso com telhados e ruas
+P151,6,alta,agua escura uniforme
+P152,45,baixa,vegetacao verde-acinzentada sem estrutura clara junto a estrada
+P153,3,baixa,solo castanho fragmentado com casas dispersas
+P154,1,baixa,infraestrutura viaria ou portuaria junto a agua
+P155,1,media,telhados densos acima de depressao circular
+P156,1,alta,malha regular de casas densas
+P157,45,baixa,vegetacao escura densa junto a bairro
+P158,45,media,mangal e mato na margem do estuario
+P159,3,baixa,talhoes e casas dispersas junto a caminho
+P160,1,alta,bairro muito denso de telhados
+P161,45,baixa,vegetacao escura densa com carreiros
+P162,45,baixa,mato e pousio cinza-castanho sem campos nitidos
+P163,45,media,sapal e lodo com canais de mare e mangal
+P164,45,baixa,mato cinza-verde na borda de bairro
+P165,45,baixa,pousio escuro com carreiros sem estrutura de campo
+P166,1,baixa,superficies muito claras com sombras de muros ou obras
+P167,1,media,bairro denso com rua larga e telhados
+P168,3,media,campos castanhos de sequeiro com carreiros
+P169,1,alta,bairro denso de telhados junto a rua larga
+P170,2,media,planicie baixa castanho-avermelhada cultivada junto a canal
+P171,1,alta,telhados claros densos
+P172,3,media,campos castanhos e pousio com ravina
+P173,2,baixa,talhao escuro alongado na baixa entre fileiras de casas
+P174,3,media,mosaico castanho de campos de sequeiro
+P175,6,alta,agua escura de baia
+P176,3,media,campos palidos e castanhos de sequeiro com linha de drenagem
+P177,7,baixa,area branca de solo nu ou terraplanagem com manchas escuras
+P178,3,media,campos laranja e casas dispersas
+P179,3,baixa,grande talhao escuro entre caminhos e casas
+P180,45,media,mangal escuro com canais de mare
+P181,2,baixa,faixas alongadas cinza-castanhas em baixa com caminho
+P182,45,baixa,vegetacao escura com casas e edificio claro dispersos
+P183,1,baixa,casas e solo muito claro misturados
+P184,45,media,mata ou pasto verde junto a bairro denso
+P185,7,media,praia branca larga junto ao mar
+P186,45,baixa,mato castanho uniforme com carreiros fracos
+P187,7,baixa,linha de praia estreita entre mar e vegetacao
+P188,1,media,rua e bairro denso junto a baia
+P189,1,baixa,telhados claros na borda de mancha de vegetacao escura
+P190,7,media,planicie de mare com areia ou sal esbranquicado
+P191,2,baixa,talhoes da baixa junto a meandro de rio
+P192,1,media,casas densas com solo claro entre elas
+P193,1,media,casas densas com arvores e solo claro entre elas
+P194,1,media,bairro denso junto a campo castanho
+P195,1,baixa,mancha de solo claro entre casas dispersas
+P196,1,baixa,casas e solo claro misturados junto a estrada de terra
+P197,7,baixa,orla clara de areia ou sal entre mangal e planicie de mare
+P198,1,media,telhados pequenos densos com arvores
+P199,2,baixa,mosaico cinza-verde de baixa com linhas de talhoes e alta variabilidade
+P200,6,alta,agua escura uniforme
+P201,45,baixa,parcela vedada escura de vegetacao junto a edificios
+P202,1,alta,telhados e pavimento claros de complexo edificado
+P203,3,baixa,solo castanho mosqueado com pousio e campos difusos
+P204,1,media,bairro com ruas de terra e casas densas
+P205,1,media,telhados e solo claro densos entre arvores
+P206,6,alta,agua escura uniforme
+P207,45,media,mato denso castanho-verde sem estrutura de campo
+P208,3,media,campos laranja com casas dispersas
+P209,6,alta,agua uniforme
+P210,1,media,cais e pavimento portuario junto a agua
+P211,3,media,campos castanhos de sequeiro com carreiros e pousio
+P212,1,media,estrada larga junto a bairro denso
+P213,2,baixa,transicao de baixa cinza-verde junto a bairro e mata escura
+P214,45,baixa,vegetacao escura densa com linhas fracas
+P215,2,baixa,mosaico verde cinzento de baixa com casas dispersas
+P216,7,media,orla branca de areia ou sal entre planicie e mangal
+P217,3,alta,talhoes retangulares de sequeiro claros e escuros
+P218,1,media,casas dispersas densas com arvores
+P219,3,media,grandes talhoes de sequeiro cortados por carreiro
+P220,3,baixa,mancha castanha escura entre casas e solo claro
+P221,7,baixa,margem arenosa clara de rio ou canal
+P222,1,baixa,casas e solo claro dispersos com arvores
+P223,2,baixa,vegetacao escura de baixa com manchas claras e alta variabilidade
+P224,1,media,bairro denso de telhados e ruas
+P225,1,media,bairro regular de casas pequenas
+P226,1,media,casas densas com solo e arvores entre elas
+P227,2,baixa,vala escura entre talhoes da baixa e casas
+P228,6,alta,agua escura uniforme
+P229,45,baixa,vegetacao verde escura mosqueada com poucos edificios
+P230,1,media,casas densas com solo claro
+P231,7,media,duna e praia claras com vegetacao rala
+P232,45,baixa,borda de vegetacao escura junto a bairro
+P233,1,alta,instalacao industrial com tanques e telhados
+P234,3,baixa,manchas claras e escuras sem limites nitidos de campo
+P235,45,baixa,vegetacao escura densa junto a edificios dispersos
+P236,1,baixa,casas dispersas na margem de lagoa escura
+P237,3,baixa,solo claro com campos difusos e carreiros
+P238,45,baixa,faixa de vegetacao escura entre solo claro e bairro
+P239,6,alta,agua escura uniforme
+P240,1,media,casas e ruas de terra com telhados coloridos
+P241,1,alta,bairro denso de telhados claros
+P242,2,baixa,mosaico verde escuro texturado de baixa com alta variabilidade
+P243,6,alta,agua escura uniforme
+P244,6,alta,agua com sedimento difuso
+P245,1,alta,telhados grandes claros de zona edificada
+P246,45,baixa,vegetacao escura densa sem estrutura de campo
+P247,1,media,casas densas com solo claro e arvores
+P248,6,alta,agua escura uniforme
+P249,7,media,grande area branca de solo nu ou areia junto a campos
+P250,45,baixa,vegetacao cinza-verde com linhas fracas e poucos telhados
+P251,2,baixa,vegetacao escura com padrao fino de linhas junto a estrada
+P252,2,baixa,campos castanhos de baixa com linhas de drenagem
+P253,1,baixa,casas dispersas misturadas com vegetacao cinzenta
+P254,45,media,vegetacao escura densa e continua
+P255,45,baixa,mato escuro com carreiro de terra sem campos nitidos
+P256,3,media,campos castanho-escuros com casas dispersas
+P257,6,alta,agua escura uniforme
+P258,1,alta,quarteiroes urbanos com telhados grandes
+P259,1,media,casas densas com solo claro e arvores
+P260,45,alta,ilhota de mangal no estuario
+P261,6,alta,agua escura uniforme
+P262,3,media,campos castanhos mosqueados de sequeiro junto a ribeira
+P263,2,media,canteiros verdes lineares na baixa
+P264,2,baixa,baixa castanha palida junto a ribeira com mosaico fino
+P265,45,baixa,mato escuro mosqueado com poucas casas isoladas
+P266,6,alta,agua escura uniforme
+P267,45,baixa,vegetacao escura junto a estrada e caminho de terra
+P268,7,baixa,linha de praia estreita junto ao mar
+P269,6,alta,mar escuro junto a borda da imagem
+P270,45,media,vegetacao escura densa continua
+P271,3,baixa,pousio e campos castanho-palidos com ravina
+P272,45,media,vegetacao escura na borda de bairro denso
+P273,1,baixa,borda de bairro com talhoes escuros e solo claro
+P274,7,baixa,lama ou solo escuro humido sem vegetacao junto a porto
+P275,2,media,mosaico verde fino de baixa com alta variabilidade
+P276,2,baixa,talhoes cinza-verdes entre fileiras de casas e vala
+P277,45,baixa,vegetacao escura mosqueada de baixa sem talhoes nitidos
+P278,45,baixa,vegetacao escura junto a faixa de casas
+P279,2,baixa,faixas verdes de vale entre casas e solo claro
+P280,1,media,bairro denso junto a lagoa e estrada

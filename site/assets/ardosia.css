@@ -1,0 +1,167 @@
+/* Sistema Ardosia - tokens e estilos base para web, app e dashboard.
+   Importe este arquivo e trabalhe apenas com as custom properties. */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400&display=swap');
+
+:root {
+  /* Nucleo */
+  --ard-tinta: #1B1F23;
+  --ard-grafite-cl: #31383D;
+  --ard-grafite: #4A5157;
+  --ard-pedra: #7B7D78;
+  --ard-filete: #D8D4CC;
+  --ard-filete-cl: #E6E2DA;
+  --ard-papel: #F4F2ED;
+  --ard-papel-cl: #FAF9F6;
+  /* Fundo de figura: cinza claro quase branco, o mais claro da paleta - area de
+     plotagem de graficos, mapas e cards de figura, em claro. */
+  --ard-papel-fig: #FAFAF9;
+
+  /* Assinatura */
+  --ard-primaria: #24404F;
+  --ard-primaria-media: #3A6076;
+  --ard-primaria-clara: #7E9BAA;
+  --ard-primaria-nevoa: #E3E9EC;
+  --ard-acento: #9C5B41;
+  --ard-acento-claro: #B8795C;
+  --ard-acento-nevoa: #F2E2DC;
+
+  /* Apoio */
+  --ard-petroleo: #3D5A4C;
+  --ard-ocre: #A98A3F;
+  --ard-bordo: #6E3B45;
+
+  /* Semanticos */
+  --ard-bg: var(--ard-papel);
+  --ard-surface: var(--ard-papel-fig);
+  --ard-text: var(--ard-tinta);
+  --ard-text-2: var(--ard-grafite);
+  --ard-text-3: var(--ard-pedra);
+  --ard-border: var(--ard-filete);
+
+  /* Status */
+  --ard-conforme: #4A6B57; --ard-conforme-bg: #E4EBE6; --ard-conforme-fg: #33513F;
+  --ard-atencao: #A98A3F;  --ard-atencao-bg: #F2EBD8;  --ard-atencao-fg: #6B5518;
+  --ard-critico: #9A4B3F;  --ard-critico-bg: #F2E2DC;  --ard-critico-fg: #6E3226;
+  --ard-semdado: #8A8781;  --ard-semdado-bg: #EAE8E2;  --ard-semdado-fg: #57564F;
+
+  /* Visualizacao */
+  --viz-1: #24404F; --viz-2: #9C5B41; --viz-3: #3D5A4C;
+  --viz-4: #7E9BAA; --viz-5: #A98A3F; --viz-6: #6E3B45;
+  --viz-muted: #B4B2A9;
+  --viz-seq-1: #E3E9EC; --viz-seq-2: #A9BEC9; --viz-seq-3: #7E9BAA;
+  --viz-seq-4: #3A6076; --viz-seq-5: #24404F;
+  --viz-div-1: #9C5B41; --viz-div-2: #C08066; --viz-div-3: #E0BCAC;
+  --viz-div-4: #D8D4CC; --viz-div-5: #A7BFB4; --viz-div-6: #6C8F80;
+  --viz-div-7: #3D5A4C;
+
+  /* Tipografia */
+  --ard-serif: 'Source Serif 4', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --ard-sans: 'Source Sans 3', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --ard-mono: 'IBM Plex Mono', 'SFMono-Regular', Menlo, monospace;
+
+  /* Espaco e forma */
+  --ard-radius: 6px;
+  --ard-radius-lg: 8px;
+  --ard-sp-1: 8px;  --ard-sp-2: 12px; --ard-sp-3: 16px;
+  --ard-sp-4: 24px; --ard-sp-5: 32px; --ard-sp-6: 48px; --ard-sp-7: 64px;
+  --ard-measure: 68ch;
+}
+
+[data-theme="dark"] {
+  --ard-bg: #171B1E;
+  --ard-surface: #212A2F;
+  --ard-text: #EDEAE4;
+  --ard-text-2: #9AA6AC;
+  --ard-text-3: #7E8A90;
+  --ard-border: #3A4348;
+  --ard-primaria: #7E9BAA;
+  --ard-acento: #B8795C;
+}
+
+body {
+  background: var(--ard-bg);
+  color: var(--ard-text);
+  font: 400 17px/1.65 var(--ard-serif);
+  font-variant-numeric: oldstyle-nums;
+}
+
+h1, h2, h3, h4 { font-family: var(--ard-serif); font-weight: 400; color: var(--ard-text); }
+h1 { font-size: 38px; line-height: 1.15; letter-spacing: -0.01em; }
+h2 { font-size: 30px; line-height: 1.20; letter-spacing: -0.01em; }
+h3 { font-size: 24px; line-height: 1.25; }
+h4 { font-size: 20px; line-height: 1.30; font-weight: 600; }
+p  { max-width: var(--ard-measure); }
+
+.ard-kicker {
+  font: 600 10px/1 var(--ard-sans);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ard-acento);
+  margin: 0 0 9px;
+}
+
+.ard-rule { height: 1px; background: var(--ard-border); border: 0; margin: 14px 0; }
+.ard-rule--primary { height: 3px; background: var(--ard-primaria); }
+
+.ard-card {
+  background: var(--ard-surface);
+  border: 1px solid var(--ard-border);
+  border-radius: var(--ard-radius);
+  padding: var(--ard-sp-2) 14px;
+  box-shadow: none;
+}
+
+.ard-kpi-label { font: 400 10px/1.3 var(--ard-sans); color: var(--ard-text-3); margin: 0; }
+.ard-kpi-value {
+  font: 400 24px/1 var(--ard-serif);
+  color: var(--ard-primaria);
+  font-variant-numeric: tabular-nums lining-nums;
+  margin: 5px 0 0;
+}
+
+.ard-quote {
+  border-left: 2px solid var(--ard-acento);
+  border-radius: 0;
+  padding-left: 9px;
+  font-style: italic;
+  color: var(--ard-text-2);
+}
+
+.ard-pill {
+  display: inline-block;
+  font: 600 10px/1 var(--ard-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 8px;
+  border-radius: 3px;
+}
+.ard-pill--conforme { background: var(--ard-conforme-bg); color: var(--ard-conforme-fg); }
+.ard-pill--atencao  { background: var(--ard-atencao-bg);  color: var(--ard-atencao-fg); }
+.ard-pill--critico  { background: var(--ard-critico-bg);  color: var(--ard-critico-fg); }
+.ard-pill--semdado  { background: var(--ard-semdado-bg);  color: var(--ard-semdado-fg); }
+
+table { width: 100%; border-collapse: collapse; font: 400 14px/1.5 var(--ard-sans); }
+th {
+  font-weight: 600; color: var(--ard-primaria); text-align: left;
+  border-bottom: 1px solid var(--ard-primaria); padding: 6px 0;
+}
+td { border-bottom: 1px solid var(--ard-filete-cl); padding: 6px 0; color: var(--ard-grafite-cl); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums lining-nums; }
+
+a { color: var(--ard-primaria); text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+
+button, .ard-btn {
+  font: 400 14px/1 var(--ard-sans);
+  border-radius: var(--ard-radius);
+  padding: 10px 16px;
+  border: 1px solid var(--ard-border);
+  background: transparent;
+  color: var(--ard-primaria);
+  cursor: pointer;
+  box-shadow: none;
+}
+.ard-btn--primary { background: var(--ard-primaria); color: var(--ard-papel); border-color: var(--ard-primaria); }
+:focus-visible { outline: none; box-shadow: 0 0 0 2px var(--ard-primaria-clara); }
+
+code, pre { font-family: var(--ard-mono); font-size: 13px; color: var(--ard-primaria); }

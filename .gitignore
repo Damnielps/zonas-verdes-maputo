@@ -1,0 +1,23 @@
+.venv/
+dados/raw/
+__pycache__/
+.DS_Store
+*.pyc
+artigo/build/node_modules/
+# Intermediários grandes e reprodutíveis pela cadeia (scripts/rodar_cadeia.sh)
+dados/proc/rotulos/
+dados/proc/comp/
+dados/proc/class/
+dados/proc/class_final/
+# dados/proc/validacao/.chave/ NÃO é ignorado: é necessário para reproduzir a avaliação de exatidão.
+dados/proc/s2_2020_10m.tif
+dados/proc/val/
+dados/proc/planos/*.tif
+dados/proc/planos/tmp/
+dados/proc/validacao/folhas/
+dados/fig/qa/
+artigo/build/*
+!artigo/build/*.js
+!artigo/build/package*.json
+!artigo/build/citacoes_nao_verificadas.txt
+.claude/launch.json
