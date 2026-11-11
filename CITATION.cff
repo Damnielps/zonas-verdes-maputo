@@ -14,6 +14,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.24141822"
     description: "DOI da versão v1.0.0 (2026-11-11)."
+  - type: doi
+    value: "10.5281/zenodo.24142210"
+    description: "DOI da versão v1.0.1 (2026-11-11): correções do painel (nuvens sobre a baía), contraste e página do artigo."
 license: MIT
 version: "1.0.1"
 date-released: "2026-11-11"
