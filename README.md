@@ -1,5 +1,7 @@
 # Zonas verdes de Maputo (1979–2026): agricultura urbana, uso do solo e planos urbanísticos
 
+Site: https://damnielps.github.io/zonas-verdes-maputo/ · Repositório: https://github.com/Damnielps/zonas-verdes-maputo
+
 Artigo científico e site interativo sobre a evolução da cintura agrícola periurbana de Maputo (as "zonas verdes" dos vales do Infulene e de Mahotas e da planície costeira de KaMavota). O projeto combina a história institucional e dos planos urbanísticos de Lourenço Marques e Maputo com um painel de 14 épocas de imagens Landsat (1979–2026), classificado por Random Forest, validado por amostra cega e cruzado com perímetros independentes da classificação (plano de 1985, PEUMM 2008, relevo de baixada). Todo o código, os dados agregados e o site estão neste repositório.
 
 ## Entregas

@@ -9,7 +9,8 @@ authors:
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-11"
-# url: "https://<usuario>.github.io/zonas-verdes-maputo"   (preencher quando o GitHub Pages estiver publicado)
+url: "https://damnielps.github.io/zonas-verdes-maputo/"
+repository-code: "https://github.com/Damnielps/zonas-verdes-maputo"
 # doi: será adicionado depois que o Zenodo cunhar o DOI da primeira release.
 keywords:
   - agricultura urbana
